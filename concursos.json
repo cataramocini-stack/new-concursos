@@ -1135,44 +1135,5 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "MP - Ministério Público do Estado de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/mp-sp-abre-concurso-publico-para-auxiliar-de-promotoria-i",
-    "end_date": "2026-02-06",
-    "salary_text": "R$ 3784,45",
-    "salary_value": 3784.45
-  },
-  {
-    "title": "Prefeitura de Barueri",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barueri-sp-retifica-concurso-publico-com-124-vagas",
-    "end_date": "2026-02-04",
-    "vacancies": 124,
-    "salary_text": "R$ 12.019,57",
-    "salary_value": 12019.57
-  },
-  {
-    "title": "Prefeitura de Mauá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-inscricoes-para-dois-concursos-publicos",
-    "end_date": "2026-01-29",
-    "vacancies": 146,
-    "salary_text": "R$ 10.030,00",
-    "salary_value": 10030.0
-  },
-  {
-    "title": "Prefeitura de Santa Isabel",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-isabel-sp-publica-concurso-publico-com-mais-de-100-vagas",
-    "end_date": "2026-02-09",
-    "vacancies": 152,
-    "salary_text": "R$ 7.833,63",
-    "salary_value": 7833.63
-  },
-  {
-    "title": "Prefeitura de São José dos Campos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-dos-campos-sp-lanca-processo-seletivo-para-cargo-de-professor",
-    "end_date": "2026-02-03",
-    "vacancies": 18,
-    "salary_text": "R$ 24,38",
-    "salary_value": 24.38
   }
 ]

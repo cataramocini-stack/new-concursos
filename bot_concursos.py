@@ -128,6 +128,9 @@ def extract_contests(html: str, base_url: str, filter_sp: bool) -> list:
         if not end_date:
             print(f"DEBUG: Descartado {title} pois não encontrou data")
             continue
+        if end_date < date.today():
+            print(f"DEBUG: Descartado {title} pois já expirou")
+            continue
         link = urljoin(base_url, anchor["href"])
         official_link = find_official_link(container)
         vacancies = parse_vacancies(text)
@@ -206,8 +209,7 @@ def send_discord(new_items: list) -> None:
             bancas = detect_bancas(f"{item['title']} {item.get('raw_text','')}")
             salary_value = item.get("salary_value")
             title = item["title"]
-            if isinstance(salary_value, (int, float)) and salary_value > 10000:
-                title = f"💰 {title}"
+            premium = isinstance(salary_value, (int, float)) and salary_value > 10000
             fields = [{"name": "Inscrições até", "value": end_date, "inline": True}]
             if bancas:
                 fields.append(
@@ -246,6 +248,11 @@ def send_discord(new_items: list) -> None:
                     "title": title,
                     "url": item["link"],
                     "fields": fields,
+                    "color": 0xF1C40F if premium else 0x2ECC71,
+                    "footer": {
+                        "text": f"🕒 Atualizado em: {datetime.now().strftime('%d/%m/%Y %H:%M')}",
+                        "icon_url": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
+                    },
                 }
             )
         response = requests.post(webhook, json={"embeds": embeds}, timeout=30)
