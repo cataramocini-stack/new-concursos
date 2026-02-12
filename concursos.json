@@ -1151,5 +1151,52 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-cirurgiao-pediatrico",
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 100,38",
+    "salary_value": 100.38
+  },
+  {
+    "title": "Prefeitura de Carapicuíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-concurso-com-vagas-para-todos-os-niveis-de-escolaridade",
+    "end_date": "2026-03-20",
+    "vacancies": 12,
+    "salary_text": "R$ 4.370,56",
+    "salary_value": 4370.56
+  },
+  {
+    "title": "Prefeitura de São José da Bela Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-para-cadastro-reserva-em-diversas-areas",
+    "end_date": "2026-03-12",
+    "salary_text": "R$ 7.078,72",
+    "salary_value": 7078.72
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-no-instituto-de-biociencias-de-botucatu-sp",
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-processos-seletivos-para-professor-substituto-no-campus-de-assis-sp",
+    "end_date": "2026-02-27",
+    "vacancies": 4,
+    "salary_text": "R$ 3.379,35",
+    "salary_value": 3379.35
+  },
+  {
+    "title": "USP - Escola Politécnica da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-oferece-vaga-para-professor-doutor-em-engenharia-de-telecomunicacoes",
+    "end_date": "2026-04-12",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
