@@ -1,0 +1,32 @@
+name: Sniper de Concursos SP
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4
+      - name: Executar bot
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python bot_concursos.py
+      - name: Commit concursos.json
+        run: |
+          if [ -n "$(git status --porcelain concursos.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add concursos.json
+            git commit -m "Atualiza concursos.json"
+            git push
+          fi
