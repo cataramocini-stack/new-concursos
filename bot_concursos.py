@@ -10,12 +10,12 @@ from bs4 import BeautifulSoup
 URLS = [
     "https://www.pciconcursos.com.br/concursos/sudeste/sp/",
     "https://www.pciconcursos.com.br/concursos/sudeste/sp",
+    "https://www.pciconcursos.com.br/concursos/sudeste/",
     "https://www.pciconcursos.com.br/concursos/sp/",
     "https://www.pciconcursos.com.br/concursos/sp",
-    "https://www.pciconcursos.com.br/concursos/sudeste/",
 ]
 DATA_FILE = "concursos.json"
-DATE_PATTERN = re.compile(r"Inscrições até\s*(\d{2}/\d{2}/\d{4})", re.IGNORECASE)
+DATE_PATTERN = re.compile(r"\b\d{2}/\d{2}/\d{4}\b")
 SALARY_PATTERN = re.compile(r"R\$\s*[\d\.]+,\d{2}")
 VACANCY_PATTERN = re.compile(r"(\d+)\s+vagas?", re.IGNORECASE)
 BANCAS = [
@@ -43,11 +43,19 @@ def save_data(items: list) -> None:
 
 
 def parse_date(text: str):
-    match = DATE_PATTERN.search(text)
-    if not match:
+    date_text = None
+    if re.search(r"Inscrições até", text, re.IGNORECASE):
+        match = re.search(r"Inscrições até\s*(\d{2}/\d{2}/\d{4})", text, re.IGNORECASE)
+        if match:
+            date_text = match.group(1)
+    if not date_text:
+        match = DATE_PATTERN.search(text)
+        if match:
+            date_text = match.group(0)
+    if not date_text:
         return None
     try:
-        return datetime.strptime(match.group(1), "%d/%m/%Y").date()
+        return datetime.strptime(date_text, "%d/%m/%Y").date()
     except ValueError:
         return None
 
@@ -90,7 +98,17 @@ def find_official_link(container) -> str | None:
 def extract_contests(html: str, base_url: str, filter_sp: bool) -> list:
     soup = BeautifulSoup(html, "html.parser")
     contests = {}
-    for container in soup.select("div.ca"):
+    containers = list(soup.select("div.ca"))
+    if not containers:
+        for container in soup.select("ul li, table tr"):
+            anchor = container.find("a", href=True)
+            if not anchor:
+                continue
+            href = anchor.get("href", "")
+            text = anchor.get_text(" ", strip=True)
+            if "concursos" in href or "Concurso" in text:
+                containers.append(container)
+    for container in containers:
         anchor = container.find("a", href=True)
         if not anchor:
             continue
@@ -100,12 +118,15 @@ def extract_contests(html: str, base_url: str, filter_sp: bool) -> list:
         print(f"DEBUG: Encontrado item {title}")
         text = container.get_text(" ", strip=True)
         parent_text = container.parent.get_text(" ", strip=True) if container.parent else ""
-        if filter_sp and not re.search(r"\bSP\b", text, re.IGNORECASE) and not re.search(
-            r"\bSP\b", parent_text, re.IGNORECASE
-        ):
+        sp_match = re.search(r"\bSP\b|São Paulo", text, re.IGNORECASE) or re.search(
+            r"\bSP\b|São Paulo", parent_text, re.IGNORECASE
+        )
+        if filter_sp and not sp_match:
+            print(f"DEBUG: Descartado {title} pois não é de SP")
             continue
         end_date = parse_date(text)
         if not end_date:
+            print(f"DEBUG: Descartado {title} pois não encontrou data")
             continue
         link = urljoin(base_url, anchor["href"])
         official_link = find_official_link(container)
@@ -149,7 +170,13 @@ def fetch_page():
         try:
             response = requests.get(url, headers=headers, timeout=30)
             if response.status_code == 200:
-                return response.url, response.text
+                html = response.text
+                soup = BeautifulSoup(html, "html.parser")
+                has_contests = bool(soup.select("div.ca")) or bool(DATE_PATTERN.search(html))
+                if has_contests:
+                    return response.url, html
+                errors.append(f"{url} -> página sem concursos detectáveis")
+                continue
             errors.append(f"{url} -> {response.status_code}")
         except requests.RequestException as exc:
             errors.append(f"{url} -> {exc}")
@@ -244,6 +271,8 @@ def main() -> None:
     base_url, html = fetch_page()
     filter_sp = "sudeste" in base_url and "/sp" not in base_url
     scraped = extract_contests(html, base_url, filter_sp)
+    if not scraped:
+        print(html[:500])
     existing_links = {item.get("link") for item in cleaned if isinstance(item, dict)}
     new_items = [item for item in scraped if item["link"] not in existing_links]
     def build_persisted_item(item: dict) -> dict:
