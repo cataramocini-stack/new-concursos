@@ -1125,5 +1125,13 @@
     "end_date": "2026-02-17",
     "salary_text": "R$ 20,19",
     "salary_value": 20.19
+  },
+  {
+    "title": "SEDUC - Secretaria Municipal de Educação de Guarujá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-sp-abre-concurso-publico-e-processo-seletivo-para-a-educacao",
+    "end_date": "2026-03-19",
+    "vacancies": 37,
+    "salary_text": "R$ 3.098,00",
+    "salary_value": 3098.0
   }
 ]
