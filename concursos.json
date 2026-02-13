@@ -24,22 +24,6 @@
     "salary_value": 4568.66
   },
   {
-    "title": "Prefeitura de Catanduva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catanduva-sp-abre-edital-de-processo-seletivo-e-concurso-publico",
-    "end_date": "2026-02-12",
-    "vacancies": 15,
-    "salary_text": "R$ 7.039,88",
-    "salary_value": 7039.88
-  },
-  {
-    "title": "Prefeitura de Francisco Morato",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-morato-sp-abre-concurso-publico-com-21-vagas",
-    "end_date": "2026-02-12",
-    "vacancies": 21,
-    "salary_text": "R$ 6.551,00",
-    "salary_value": 6551.0
-  },
-  {
     "title": "Prefeitura de Ibaté",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibate-sp-promove-concursos-publicos-com-90-vagas",
     "end_date": "2026-02-19",
@@ -62,14 +46,6 @@
     "vacancies": 17,
     "salary_text": "R$ 4.057,00",
     "salary_value": 4057.0
-  },
-  {
-    "title": "Prefeitura de Jundiaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jundiai-sp-abre-inscricoes-para-dois-editais-de-concurso-publico",
-    "end_date": "2026-02-12",
-    "vacancies": 3,
-    "salary_text": "R$ 9.568,92",
-    "salary_value": 9568.92
   },
   {
     "title": "Prefeitura de São Paulo",
@@ -149,22 +125,6 @@
     "end_date": "2026-06-16",
     "salary_text": "R$ 21,40",
     "salary_value": 21.4
-  },
-  {
-    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-vagas-para-tecnico-e-medico-do-trabalho",
-    "end_date": "2026-02-12",
-    "vacancies": 2,
-    "salary_text": "R$ 4.510,59",
-    "salary_value": 4510.59
-  },
-  {
-    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-com-bolsas-de-3-mil-para-medicos-em-bauru",
-    "end_date": "2026-02-12",
-    "vacancies": 5,
-    "salary_text": "R$ 3.000,00",
-    "salary_value": 3000.0
   },
   {
     "title": "FDUSP - Faculdade de Direito da Universidade de São Paulo",
@@ -262,14 +222,6 @@
   },
   {
     "title": "Prefeitura da Estância Turística de Salto",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-abre-vagas-temporarias-com-salarios-de-ate-20-por-hora",
-    "end_date": "2026-02-12",
-    "vacancies": 5,
-    "salary_text": "R$ 20,47",
-    "salary_value": 20.47
-  },
-  {
-    "title": "Prefeitura da Estância Turística de Salto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-abre-concurso-com-salarios-de-ate-10693",
     "end_date": "2026-03-16",
     "vacancies": 126,
@@ -344,14 +296,6 @@
     "end_date": "2026-02-17",
     "salary_text": "R$ 4.224,25",
     "salary_value": 4224.25
-  },
-  {
-    "title": "Prefeitura de Indiana",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indiana-sp-anuncia-editais-de-concurso-e-processo-seletivo-com-diversas-vagas",
-    "end_date": "2026-02-12",
-    "vacancies": 17,
-    "salary_text": "R$ 17.805,15",
-    "salary_value": 17805.15
   },
   {
     "title": "Prefeitura de Itaí",
@@ -564,14 +508,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-araraquara-sp-abre-novos-editais-para-professor-substituto",
-    "end_date": "2026-02-12",
-    "vacancies": 2,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-o-cargo-de-professor-substituto",
     "end_date": "2026-02-19",
     "vacancies": 1,
@@ -722,14 +658,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "UNICAMP - Faculdade de Odontologia de Piracicaba",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-abre-concurso-publico-para-professor-doutor-em-farmacologia",
-    "end_date": "2026-02-12",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-abre-concurso-publico-para-professor-titular-em-bioquimica",
     "end_date": "2026-02-15",
@@ -816,14 +744,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Instituto de Física da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processos-seletivos-para-o-cargo-de-professor-contratado-iii",
-    "end_date": "2026-02-12",
-    "vacancies": 4,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
   },
   {
     "title": "USP - Museu de Arqueologia e Etnologia",
