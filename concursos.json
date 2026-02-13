@@ -1133,5 +1133,20 @@
     "vacancies": 37,
     "salary_text": "R$ 3.098,00",
     "salary_value": 3098.0
+  },
+  {
+    "title": "Prefeitura de Louveira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-processo-seletivo-para-professores-com-salarios-de-ate-6-4-mil",
+    "end_date": "2026-03-16",
+    "salary_text": "R$ 6.421,00",
+    "salary_value": 6421.0
+  },
+  {
+    "title": "UNESP - Faculdade de Medicina Veterinária e Zootecnia",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-botucatu-sp-abre-vaga-para-professor-substituto-em-cirurgia-veterinaria",
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
