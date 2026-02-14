@@ -104,22 +104,6 @@
     "salary_value": 7256.32
   },
   {
-    "title": "Câmara de São Miguel Arcanjo",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-miguel-arcanjo-sp-anuncia-abertura-de-concurso-publico",
-    "end_date": "2026-02-13",
-    "vacancies": 1,
-    "salary_text": "R$ 4.491,20",
-    "salary_value": 4491.2
-  },
-  {
-    "title": "Câmara de Tarumã",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-taruma-sp-abre-concurso-publico-para-cargos-de-nivel-medio",
-    "end_date": "2026-02-13",
-    "vacancies": 2,
-    "salary_text": "R$ 2.660,25",
-    "salary_value": 2660.25
-  },
-  {
     "title": "Etec - Escola Técnica - Guarujá",
     "link": "https://www.pciconcursos.com.br/noticias/etec-de-guaruja-sp-publica-abertura-de-inscricoes-para-dois-editais-de-processo-seletivo",
     "end_date": "2026-06-16",
@@ -149,14 +133,6 @@
     "vacancies": 10,
     "salary_text": "R$ 3.065,94",
     "salary_value": 3065.94
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-editais-de-processos-seletivos-com-salarios-de-ate-5699",
-    "end_date": "2026-02-13",
-    "vacancies": 3,
-    "salary_text": "R$ 5.699,16",
-    "salary_value": 5699.16
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -335,22 +311,6 @@
     "end_date": "2026-02-22",
     "salary_text": "R$ 26,34",
     "salary_value": 26.34
-  },
-  {
-    "title": "Prefeitura de Monções",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moncoes-sp-prorroga-inscricoes-para-processo-seletivo-com-salarios-de-ate-3623",
-    "end_date": "2026-02-13",
-    "vacancies": 5,
-    "salary_text": "R$ 3.623,39",
-    "salary_value": 3623.39
-  },
-  {
-    "title": "Prefeitura de Pilar do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-nove-vagas-em-novo-concurso-publico",
-    "end_date": "2026-02-13",
-    "vacancies": 9,
-    "salary_text": "R$ 6.356,39",
-    "salary_value": 6356.39
   },
   {
     "title": "Prefeitura de Pontal",
@@ -578,14 +538,6 @@
     "salary_value": 32.93
   },
   {
-    "title": "Unesp - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-rio-claro-sp-abre-edital-de-concurso-publico-para-cargo-de-professor-assistente",
-    "end_date": "2026-02-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,17",
-    "salary_value": 16353.17
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-com-salario-de-12456-para-analista-de-informatica-em-presidente-prudente",
     "end_date": "2026-02-20",
@@ -736,14 +688,6 @@
     "vacancies": 2,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Instituto de Astronomia, Geofísica e Ciências Atmosféricas",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-instituto-de-astronomia-geofisica-e-ciencias-atmosfericas-abre-novo-concursos-publicos",
-    "end_date": "2026-02-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
   },
   {
     "title": "USP - Museu de Arqueologia e Etnologia",
