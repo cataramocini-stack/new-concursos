@@ -221,13 +221,6 @@
     "salary_value": 8975.41
   },
   {
-    "title": "Prefeitura de Cândido Rodrigues",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-rodrigues-sp-abre-processo-seletivo-para-merendeira-monitor-educacional-e-secretario",
-    "end_date": "2026-02-16",
-    "salary_text": "R$ 1.843,30",
-    "salary_value": 1843.3
-  },
-  {
     "title": "Prefeitura de Clementina",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clementina-sp-abre-concurso-publico-com-salarios-de-ate-16-6-mil",
     "end_date": "2026-03-11",
@@ -1076,5 +1069,13 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura de Nova Odessa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-abre-processo-seletivo-com-91-vagas-e-cadastro-reserva",
+    "end_date": "2026-03-16",
+    "vacancies": 91,
+    "salary_text": "R$ 5.668,74",
+    "salary_value": 5668.74
   }
 ]
