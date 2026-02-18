@@ -1061,5 +1061,13 @@
     "end_date": "2026-02-24",
     "salary_text": "R$ 1.941,16",
     "salary_value": 1941.16
+  },
+  {
+    "title": "Prefeitura de Nova Odessa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-retifica-processo-seletivo-com-novos-cargos-e-salarios-de-ate-5668",
+    "end_date": "2026-03-16",
+    "vacancies": 91,
+    "salary_text": "R$ 5.668,74",
+    "salary_value": 5668.74
   }
 ]
