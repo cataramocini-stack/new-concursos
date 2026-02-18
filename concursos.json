@@ -1040,5 +1040,26 @@
     "vacancies": 91,
     "salary_text": "R$ 5.668,74",
     "salary_value": 5668.74
+  },
+  {
+    "title": "Prefeitura de Sabino",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sabino-sp-abre-concurso-publico-com-salarios-de-ate-4-8-mil",
+    "end_date": "2026-03-03",
+    "vacancies": 13,
+    "salary_text": "R$ 4.882,04",
+    "salary_value": 4882.04
+  },
+  {
+    "title": "Prefeitura de Sorocaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
+    "end_date": "2026-04-01",
+    "vacancies": 26
+  },
+  {
+    "title": "Prefeitura de Teodoro Sampaio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-concurso-publico-para-operador-de-maquinas",
+    "end_date": "2026-02-24",
+    "salary_text": "R$ 1.941,16",
+    "salary_value": 1941.16
   }
 ]
