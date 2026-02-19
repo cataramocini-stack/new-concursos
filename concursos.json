@@ -1052,5 +1052,29 @@
     "end_date": "2026-02-22",
     "salary_text": "R$ 3.938,71",
     "salary_value": 3938.71
+  },
+  {
+    "title": "CIMPE - Consórcio Intermunicipal da Microrregião de Penápolis",
+    "link": "https://www.pciconcursos.com.br/noticias/cimpe-sp-abre-concurso-publico-com-salarios-de-ate-5-mil-para-profissionais-de-saude",
+    "end_date": "2026-03-08",
+    "vacancies": 2,
+    "salary_text": "R$ 5.027,32",
+    "salary_value": 5027.32
+  },
+  {
+    "title": "Prefeitura de Araçoiaba da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-selecao-para-motorista-de-transporte-escolar",
+    "end_date": "2026-02-24",
+    "vacancies": 1,
+    "salary_text": "R$ 2.133,30",
+    "salary_value": 2133.3
+  },
+  {
+    "title": "Prefeitura de Ituverava",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ituverava-sp-abre-processo-seletivo-com-vagas-para-diversas-areas-e-salarios-de-ate-5-4-mil",
+    "end_date": "2026-03-05",
+    "vacancies": 29,
+    "salary_text": "R$ 5.495,96",
+    "salary_value": 5495.96
   }
 ]
