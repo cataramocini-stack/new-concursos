@@ -24,14 +24,6 @@
     "salary_value": 4568.66
   },
   {
-    "title": "Prefeitura de Ibaté",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibate-sp-promove-concursos-publicos-com-90-vagas",
-    "end_date": "2026-02-19",
-    "vacancies": 90,
-    "salary_text": "R$ 7.500,00",
-    "salary_value": 7500.0
-  },
-  {
     "title": "Prefeitura de Itapecerica da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapecerica-da-serra-sp-anuncia-novo-concurso-publico-com-19-vagas",
     "end_date": "2026-02-23",
@@ -253,14 +245,6 @@
   },
   {
     "title": "Prefeitura de Jacareí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-novos-concursos-com-salarios-de-ate-8-mil",
-    "end_date": "2026-02-19",
-    "vacancies": 62,
-    "salary_text": "R$ 8.230,14",
-    "salary_value": 8230.14
-  },
-  {
-    "title": "Prefeitura de Jacareí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-concursos-com-salarios-de-ate-10-9-mil",
     "end_date": "2026-02-26",
     "vacancies": 32,
@@ -305,14 +289,6 @@
     "salary_value": 4588.5
   },
   {
-    "title": "Prefeitura de Santana da Ponte Pensa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-ponte-pensa-sp-abre-processo-seletivo-com-salarios-de-ate-5130",
-    "end_date": "2026-02-19",
-    "vacancies": 8,
-    "salary_text": "R$ 5.130,63",
-    "salary_value": 5130.63
-  },
-  {
     "title": "Prefeitura de Santana de Parnaíba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-processo-seletivo-para-medicos-com-salarios-de-ate-14-4-mil",
     "end_date": "2026-03-02",
@@ -334,14 +310,6 @@
     "vacancies": 28,
     "salary_text": "R$ 8.746,73",
     "salary_value": 8746.73
-  },
-  {
-    "title": "Prefeitura de Teodoro Sampaio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos",
-    "end_date": "2026-02-19",
-    "vacancies": 17,
-    "salary_text": "R$ 3.847,97",
-    "salary_value": 3847.97
   },
   {
     "title": "Prefeitura de Tuiuti",
@@ -412,14 +380,6 @@
     "vacancies": 2,
     "salary_text": "R$ 7.195,43",
     "salary_value": 7195.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-o-cargo-de-professor-substituto",
-    "end_date": "2026-02-19",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
