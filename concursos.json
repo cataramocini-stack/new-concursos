@@ -1083,5 +1083,35 @@
     "vacancies": 2,
     "salary_text": "R$ 1.763,10",
     "salary_value": 1763.1
+  },
+  {
+    "title": "FHSL - Fundação Hospital Santa Lydia",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-tecnico-de-enfermagem-biologo-e-fisioterapeuta",
+    "end_date": "2026-03-04",
+    "vacancies": 3,
+    "salary_text": "R$ 3.670,55",
+    "salary_value": 3670.55
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-oito-processos-seletivos-para-niveis-medio-e-superior",
+    "end_date": "2026-02-27",
+    "vacancies": 10,
+    "salary_text": "R$ 9.295,09",
+    "salary_value": 9295.09
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-geociencias",
+    "end_date": "2026-04-01",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
+    "end_date": "2026-03-11",
+    "vacancies": 1
   }
 ]
