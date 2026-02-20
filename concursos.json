@@ -1044,5 +1044,36 @@
     "vacancies": 1,
     "salary_text": "R$ 6.034,41",
     "salary_value": 6034.41
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-laboratorio-no-instituto-de-quimica",
+    "end_date": "2026-03-06",
+    "vacancies": 1,
+    "salary_text": "R$ 1.895,38",
+    "salary_value": 1895.38
+  },
+  {
+    "title": "Prefeitura de Jambeiro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jambeiro-sp-abre-processo-seletivo-para-diversos-cargos-e-formacao-de-cadastro-reserva",
+    "end_date": "2026-03-08",
+    "vacancies": 11,
+    "salary_text": "R$ 3.932,88",
+    "salary_value": 3932.88
+  },
+  {
+    "title": "Prefeitura de Riversul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-abre-concurso-publico-com-salarios-de-ate-11-6-mil",
+    "end_date": "2026-03-20",
+    "vacancies": 7,
+    "salary_text": "R$ 11.626,06",
+    "salary_value": 11626.06
+  },
+  {
+    "title": "Prefeitura de Sertãozinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-processo-seletivo-para-educador-social",
+    "end_date": "2026-03-11",
+    "salary_text": "R$ 2.207,92",
+    "salary_value": 2207.92
   }
 ]
