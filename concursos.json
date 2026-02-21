@@ -103,22 +103,6 @@
     "salary_value": 21.4
   },
   {
-    "title": "FDUSP - Faculdade de Direito da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processo-seletivo-para-o-cargo-de-professor-doutor-na-faculdade-de-direito",
-    "end_date": "2026-02-20",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
-  },
-  {
-    "title": "FUNAP - Fundação Prof. Dr. Manoel Pedro Pimentel",
-    "link": "https://www.pciconcursos.com.br/noticias/funap-abre-inscricoes-para-edital-de-concurso-publico-com-10-vagas",
-    "end_date": "2026-02-20",
-    "vacancies": 10,
-    "salary_text": "R$ 3.065,94",
-    "salary_value": 3065.94
-  },
-  {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
     "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-auxiliar-de-cozinha-no-gastrocentro",
     "end_date": "2026-02-23",
@@ -151,14 +135,6 @@
     "salary_value": 2551.6
   },
   {
-    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concursos-publicos-para-medicos-com-salarios-acima-de-5-mil",
-    "end_date": "2026-02-20",
-    "vacancies": 2,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
-  },
-  {
     "title": "HES - Hospital Estadual Sumaré",
     "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-eletricista",
     "end_date": "2026-02-26",
@@ -173,12 +149,6 @@
     "vacancies": 8,
     "salary_text": "R$ 5.600,86",
     "salary_value": 5600.86
-  },
-  {
-    "title": "MP - Ministério Público do estado de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/mp-sp-pgj-abre-concurso-publico-para-ingresso-na-carreira-com-55-vagas",
-    "end_date": "2026-02-20",
-    "vacancies": 55
   },
   {
     "title": "Prefeitura da Estância Turística de Salto",
@@ -226,14 +196,6 @@
     "end_date": "2026-02-22",
     "salary_text": "R$ 3.938,71",
     "salary_value": 3938.71
-  },
-  {
-    "title": "Prefeitura de Guariba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guariba-sp-retifica-edital-de-concurso-com-diversas-vagas",
-    "end_date": "2026-02-20",
-    "vacancies": 5,
-    "salary_text": "R$ 15.271,34",
-    "salary_value": 15271.34
   },
   {
     "title": "Prefeitura de Itaí",
@@ -319,14 +281,6 @@
     "salary_value": 3651.0
   },
   {
-    "title": "Prefeitura de Vargem",
-    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-vargem-sp-abre-concurso-publico-com-salarios-de-ate-6410",
-    "end_date": "2026-02-20",
-    "vacancies": 22,
-    "salary_text": "R$ 6.410,76",
-    "salary_value": 6410.76
-  },
-  {
     "title": "Prefeitura de Vargem Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-grande-do-sul-sp-abre-concurso-com-salarios-de-ate-10-2-mil",
     "end_date": "2026-03-09",
@@ -350,14 +304,6 @@
     "salary_value": 4967.04
   },
   {
-    "title": "UFSCar - Universidade Federal de São Carlos",
-    "link": "https://www.pciconcursos.com.br/noticias/ufscar-sp-abre-processo-seletivo-para-tradutores-e-interpretes-de-libras",
-    "end_date": "2026-02-20",
-    "vacancies": 4,
-    "salary_text": "R$ 8.692,32",
-    "salary_value": 8692.32
-  },
-  {
     "title": "Unesp - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-de-jaboticabal-sp-prorroga-inscricoes-dos-concursos-publicos-para-professores-assistentes",
     "end_date": "2026-02-23",
@@ -372,14 +318,6 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-assistente-em-cirurgia-buco-maxilo-facial",
-    "end_date": "2026-02-20",
-    "vacancies": 2,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
@@ -407,14 +345,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-novos-concursos-para-professores-substitutos",
-    "end_date": "2026-02-20",
-    "vacancies": 2,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-para-professor-substituto-em-sao-jose-dos-campos",
     "end_date": "2026-02-23",
     "vacancies": 1,
@@ -427,14 +357,6 @@
     "end_date": "2026-02-24",
     "salary_text": "R$ 32,93",
     "salary_value": 32.93
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-com-salario-de-12456-para-analista-de-informatica-em-presidente-prudente",
-    "end_date": "2026-02-20",
-    "vacancies": 1,
-    "salary_text": "R$ 12.456,12",
-    "salary_value": 12456.12
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
@@ -1113,5 +1035,20 @@
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
     "end_date": "2026-03-11",
     "vacancies": 1
+  },
+  {
+    "title": "Prefeitura de Barra do Turvo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-anuncia-processo-seletivo-para-professores-substitutos",
+    "end_date": "2026-02-25",
+    "salary_text": "R$ 3.651,00",
+    "salary_value": 3651.0
+  },
+  {
+    "title": "SAEAN - Serviço de Água e Esgoto de Artur Nogueira",
+    "link": "https://www.pciconcursos.com.br/noticias/saean-de-artur-nogueira-sp-abre-processo-seletivo-para-tecnico-em-quimica",
+    "end_date": "2026-02-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.113,21",
+    "salary_value": 3113.21
   }
 ]
