@@ -399,14 +399,6 @@
     "salary_value": 24309.11
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista - Guaratinguetá",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-guaratingueta-sp-abre-concurso-publico-para-cargo-de-professor-titular",
-    "end_date": "2026-02-21",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista - Jaboticabal",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-prorroga-inscricoes-do-concurso-publico-para-professor-doutor-no-campus-de-jaboticabal-sp",
     "end_date": "2026-02-23",
@@ -1050,5 +1042,12 @@
     "vacancies": 1,
     "salary_text": "R$ 3.113,21",
     "salary_value": 3113.21
+  },
+  {
+    "title": "Prefeitura de Cruzália",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzalia-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+    "end_date": "2026-03-06",
+    "salary_text": "R$ 4.042,50",
+    "salary_value": 4042.5
   }
 ]
