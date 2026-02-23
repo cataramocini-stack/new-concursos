@@ -1085,5 +1085,36 @@
     "vacancies": 21,
     "salary_text": "R$ 1.932,80",
     "salary_value": 1932.8
+  },
+  {
+    "title": "Câmara de Pardinho",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pardinho-sp-anuncia-concurso-publico-com-quatro-vagas-e-salarios-de-ate-5-4-mil",
+    "end_date": "2026-03-11",
+    "vacancies": 4,
+    "salary_text": "R$ 5.414,04",
+    "salary_value": 5414.04
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-fisioterapeuta-com-jornada-de-150-horas-mensais",
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 5.048,81",
+    "salary_value": 5048.81
+  },
+  {
+    "title": "ISG - Instituto Sócrates Guanaes",
+    "link": "https://www.pciconcursos.com.br/noticias/isg-sp-abre-selecao-para-cadastro-reserva-com-salarios-de-ate-12-4-mil-em-caraguatatuba",
+    "end_date": "2026-02-27",
+    "salary_text": "R$ 12.413,57",
+    "salary_value": 12413.57
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processos-seletivos-para-pesquisadores-com-salarios-acima-de-14-mil",
+    "end_date": "2026-04-07",
+    "vacancies": 2,
+    "salary_text": "R$ 14.717,71",
+    "salary_value": 14717.71
   }
 ]
