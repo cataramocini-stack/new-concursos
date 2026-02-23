@@ -80,14 +80,6 @@
     "salary_value": 10612.0
   },
   {
-    "title": "Câmara de Carapicuíba",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-carapicuiba-sp-abre-tres-vagas-em-novo-concurso-publico",
-    "end_date": "2026-02-22",
-    "vacancies": 3,
-    "salary_text": "R$ 5.100,75",
-    "salary_value": 5100.75
-  },
-  {
     "title": "Câmara de Mongaguá",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-abre-concurso-com-10-vagas-para-nivel-medio-e-superior",
     "end_date": "2026-03-13",
@@ -191,13 +183,6 @@
     "salary_value": 15782.22
   },
   {
-    "title": "Prefeitura de Cristais Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristais-paulista-sp-abre-processo-seletivo-para-professores-de-nivel-superior",
-    "end_date": "2026-02-22",
-    "salary_text": "R$ 3.938,71",
-    "salary_value": 3938.71
-  },
-  {
     "title": "Prefeitura de Itaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itai-sp-promove-concurso-publico-com-salarios-de-ate-6-1-mil",
     "end_date": "2026-02-23",
@@ -214,13 +199,6 @@
     "salary_value": 10986.31
   },
   {
-    "title": "Prefeitura de Martinópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-martinopolis-sp-abre-selecao-publica-para-professores-de-diversas-areas",
-    "end_date": "2026-02-22",
-    "salary_text": "R$ 26,34",
-    "salary_value": 26.34
-  },
-  {
     "title": "Prefeitura de Pontal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pontal-sp-promove-concurso-publico-para-controlador-interno",
     "end_date": "2026-02-23",
@@ -235,13 +213,6 @@
     "vacancies": 3,
     "salary_text": "R$ 14.574,65",
     "salary_value": 14574.65
-  },
-  {
-    "title": "Prefeitura de Santa Albertina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-albertina-sp-anuncia-selecao-com-salarios-de-ate-8813",
-    "end_date": "2026-02-22",
-    "salary_text": "R$ 8.813,66",
-    "salary_value": 8813.66
   },
   {
     "title": "Prefeitura de Santa Cruz do Rio Pardo",
@@ -466,14 +437,6 @@
     "title": "UNIFESP - Universidade Federal de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-vaga-para-professor-substituto-de-engenharia-quimica-na-baixada-santista",
     "end_date": "2026-02-26",
-    "vacancies": 1,
-    "salary_text": "R$ 8.058,29",
-    "salary_value": 8058.29
-  },
-  {
-    "title": "UNIFESP - Universidade Federal de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-processo-seletivo-para-professor-substituto-em-biologia-celular",
-    "end_date": "2026-02-22",
     "vacancies": 1,
     "salary_text": "R$ 8.058,29",
     "salary_value": 8058.29
@@ -919,13 +882,6 @@
     "vacancies": 91,
     "salary_text": "R$ 5.668,74",
     "salary_value": 5668.74
-  },
-  {
-    "title": "Prefeitura de Cristais Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristais-paulista-sp-retifica-processo-seletivo-para-professores",
-    "end_date": "2026-02-22",
-    "salary_text": "R$ 3.938,71",
-    "salary_value": 3938.71
   },
   {
     "title": "CIMPE - Consórcio Intermunicipal da Microrregião de Penápolis",
