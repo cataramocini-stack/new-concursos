@@ -1005,5 +1005,85 @@
     "end_date": "2026-03-06",
     "salary_text": "R$ 4.042,50",
     "salary_value": 4042.5
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecao-com-vaga-para-analista-de-projetos-junior",
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 4.437,39",
+    "salary_value": 4437.39
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-ortopedista-no-hospital-de-clinicas",
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 7.606,60",
+    "salary_value": 7606.6
+  },
+  {
+    "title": "IMA - Informática de Municípios Associados S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/ima-de-campinas-sp-retifica-edital-e-oferece-vagas-com-salarios-de-ate-5600",
+    "end_date": "2026-03-01",
+    "vacancies": 8,
+    "salary_text": "R$ 5.600,86",
+    "salary_value": 5600.86
+  },
+  {
+    "title": "Prefeitura de Barra do Turvo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-vaga-para-cuidador-de-idoso-com-salario-de-2-1-mil",
+    "end_date": "2026-02-28",
+    "vacancies": 1,
+    "salary_text": "R$ 2.120,40",
+    "salary_value": 2120.4
+  },
+  {
+    "title": "Prefeitura de Barra do Turvo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-selecao-para-profissional-de-apoio-escolar",
+    "end_date": "2026-02-24",
+    "vacancies": 7,
+    "salary_text": "R$ 2.140,47",
+    "salary_value": 2140.47
+  },
+  {
+    "title": "Prefeitura de Mombuca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-publicos-com-salarios-de-ate-4-8-mil",
+    "end_date": "2026-03-13",
+    "vacancies": 1,
+    "salary_text": "R$ 4.811,03",
+    "salary_value": 4811.03
+  },
+  {
+    "title": "Prefeitura de Panorama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panorama-sp-abre-selecao-para-tecnico-em-radiologia",
+    "end_date": "2026-03-05",
+    "vacancies": 3,
+    "salary_text": "R$ 1.930,01",
+    "salary_value": 1930.01
+  },
+  {
+    "title": "Prefeitura de Populina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-populina-sp-abre-concurso-publico-com-salarios-de-ate-4618",
+    "end_date": "2026-03-05",
+    "vacancies": 4,
+    "salary_text": "R$ 4.618,21",
+    "salary_value": 4618.21
+  },
+  {
+    "title": "Prefeitura de Riversul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-retifica-edital-de-concurso-com-salarios-de-ate-11-mil",
+    "end_date": "2026-03-20",
+    "vacancies": 7,
+    "salary_text": "R$ 11.626,06",
+    "salary_value": 11626.06
+  },
+  {
+    "title": "Prefeitura de Serra Negra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-abre-selecao-com-vagas-imediatas-e-cadastro-reserva",
+    "end_date": "2026-02-27",
+    "vacancies": 21,
+    "salary_text": "R$ 1.932,80",
+    "salary_value": 1932.8
   }
 ]
