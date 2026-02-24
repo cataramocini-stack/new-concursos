@@ -1076,5 +1076,17 @@
     "vacancies": 10,
     "salary_text": "R$ 9.295,09",
     "salary_value": 9295.09
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-docente-no-departamento-de-ciencias-da-natureza-e-matematica-do-colegio-tecnico-de-limeira",
+    "end_date": "2026-03-24",
+    "vacancies": 1
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-docente-de-matematica-no-colegio-tecnico-de-limeira",
+    "end_date": "2026-03-11",
+    "vacancies": 1
   }
 ]
