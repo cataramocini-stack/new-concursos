@@ -1044,5 +1044,37 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Câmara de Pacaembu",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pacaembu-sp-abre-concurso-publico-com-salarios-de-ate-5500",
+    "end_date": "2026-03-16",
+    "vacancies": 2,
+    "salary_text": "R$ 5.500,00",
+    "salary_value": 5500.0
+  },
+  {
+    "title": "CISMETRO - Consórcio Intermunicipal de Saúde da Região Metropolitana de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/cismetro-holambra-sp-abre-selecao-com-salarios-de-ate-10-mil",
+    "end_date": "2026-03-15",
+    "vacancies": 876,
+    "salary_text": "R$ 10.758,30",
+    "salary_value": 10758.3
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-capivari-sp-abre-concurso-publico-com-vagas-para-operador-de-estacao-de-tratamento",
+    "end_date": "2026-03-24",
+    "vacancies": 4,
+    "salary_text": "R$ 3.656,58",
+    "salary_value": 3656.58
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-oito-processos-seletivos-temporarios-para-niveis-medio-e-superior",
+    "end_date": "2026-02-27",
+    "vacancies": 10,
+    "salary_text": "R$ 9.295,09",
+    "salary_value": 9295.09
   }
 ]
