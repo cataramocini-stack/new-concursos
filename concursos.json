@@ -24,14 +24,6 @@
     "salary_value": 4568.66
   },
   {
-    "title": "Prefeitura de Itapecerica da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapecerica-da-serra-sp-anuncia-novo-concurso-publico-com-19-vagas",
-    "end_date": "2026-02-23",
-    "vacancies": 19,
-    "salary_text": "R$ 5.783,13",
-    "salary_value": 5783.13
-  },
-  {
     "title": "Prefeitura de Jarinu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jarinu-sp-promove-concurso-publico-para-guarda-municipal",
     "end_date": "2026-03-05",
@@ -93,14 +85,6 @@
     "end_date": "2026-06-16",
     "salary_text": "R$ 21,40",
     "salary_value": 21.4
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-auxiliar-de-cozinha-no-gastrocentro",
-    "end_date": "2026-02-23",
-    "vacancies": 1,
-    "salary_text": "R$ 1.980,00",
-    "salary_value": 1980.0
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -183,28 +167,12 @@
     "salary_value": 15782.22
   },
   {
-    "title": "Prefeitura de Itaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itai-sp-promove-concurso-publico-com-salarios-de-ate-6-1-mil",
-    "end_date": "2026-02-23",
-    "vacancies": 5,
-    "salary_text": "R$ 6.122,00",
-    "salary_value": 6122.0
-  },
-  {
     "title": "Prefeitura de Jacareí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-concursos-com-salarios-de-ate-10-9-mil",
     "end_date": "2026-02-26",
     "vacancies": 32,
     "salary_text": "R$ 10.986,31",
     "salary_value": 10986.31
-  },
-  {
-    "title": "Prefeitura de Pontal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pontal-sp-promove-concurso-publico-para-controlador-interno",
-    "end_date": "2026-02-23",
-    "vacancies": 1,
-    "salary_text": "R$ 13.282,29",
-    "salary_value": 13282.29
   },
   {
     "title": "Prefeitura de Sagres",
@@ -227,14 +195,6 @@
     "end_date": "2026-03-02",
     "salary_text": "R$ 14.493,23",
     "salary_value": 14493.23
-  },
-  {
-    "title": "Prefeitura de Santo Antônio de Posse",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-de-posse-sp-publica-cinco-editais-de-concursos-publicos",
-    "end_date": "2026-02-23",
-    "vacancies": 37,
-    "salary_text": "R$ 6.997,92",
-    "salary_value": 6997.92
   },
   {
     "title": "Prefeitura de São Vicente",
@@ -275,14 +235,6 @@
     "salary_value": 4967.04
   },
   {
-    "title": "Unesp - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-jaboticabal-sp-prorroga-inscricoes-dos-concursos-publicos-para-professores-assistentes",
-    "end_date": "2026-02-23",
-    "vacancies": 3,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-de-sao-jose-dos-campos-sp-divulga-concurso-publico-para-cargo-de-professor-titular",
     "end_date": "2026-03-04",
@@ -313,14 +265,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-para-professor-substituto-em-sao-jose-dos-campos",
-    "end_date": "2026-02-23",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,35",
-    "salary_value": 3379.35
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
@@ -370,33 +314,9 @@
     "salary_value": 24309.11
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista - Jaboticabal",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-prorroga-inscricoes-do-concurso-publico-para-professor-doutor-no-campus-de-jaboticabal-sp",
-    "end_date": "2026-02-23",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista - Jaboticabal",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-prorroga-inscricoes-de-concurso-para-professor-assistente-no-campus-de-jaboticabal",
-    "end_date": "2026-02-23",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-promove-concurso-publico-para-professor-doutor-nas-areas-de-quimica-inorganica-e-energia-e-sustentabilidade",
     "end_date": "2026-02-24",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-anuncia-retificacao-em-concurso-para-professor-doutor",
-    "end_date": "2026-02-23",
     "vacancies": 1,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
@@ -1116,5 +1036,13 @@
     "vacancies": 2,
     "salary_text": "R$ 14.717,71",
     "salary_value": 14717.71
+  },
+  {
+    "title": "UNESP - Araraquara",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-substituto-em-araraquara-sp",
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
