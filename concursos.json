@@ -267,13 +267,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-processo-seletivo-para-cargo-de-docente-na-area-de-quimica",
-    "end_date": "2026-02-24",
-    "salary_text": "R$ 32,93",
-    "salary_value": 32.93
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-no-campus-de-franca",
     "end_date": "2026-02-27",
@@ -312,14 +305,6 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-promove-concurso-publico-para-professor-doutor-nas-areas-de-quimica-inorganica-e-energia-e-sustentabilidade",
-    "end_date": "2026-02-24",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -789,13 +774,6 @@
     "vacancies": 26
   },
   {
-    "title": "Prefeitura de Teodoro Sampaio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-concurso-publico-para-operador-de-maquinas",
-    "end_date": "2026-02-24",
-    "salary_text": "R$ 1.941,16",
-    "salary_value": 1941.16
-  },
-  {
     "title": "Prefeitura de Nova Odessa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-retifica-processo-seletivo-com-novos-cargos-e-salarios-de-ate-5668",
     "end_date": "2026-03-16",
@@ -810,14 +788,6 @@
     "vacancies": 2,
     "salary_text": "R$ 5.027,32",
     "salary_value": 5027.32
-  },
-  {
-    "title": "Prefeitura de Araçoiaba da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-selecao-para-motorista-de-transporte-escolar",
-    "end_date": "2026-02-24",
-    "vacancies": 1,
-    "salary_text": "R$ 2.133,30",
-    "salary_value": 2133.3
   },
   {
     "title": "Prefeitura de Ituverava",
@@ -957,14 +927,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.120,40",
     "salary_value": 2120.4
-  },
-  {
-    "title": "Prefeitura de Barra do Turvo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-selecao-para-profissional-de-apoio-escolar",
-    "end_date": "2026-02-24",
-    "vacancies": 7,
-    "salary_text": "R$ 2.140,47",
-    "salary_value": 2140.47
   },
   {
     "title": "Prefeitura de Mombuca",
