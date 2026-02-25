@@ -1050,5 +1050,20 @@
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-docente-de-matematica-no-colegio-tecnico-de-limeira",
     "end_date": "2026-03-11",
     "vacancies": 1
+  },
+  {
+    "title": "Prefeitura de Bilac",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversos-cargos",
+    "end_date": "2026-03-10",
+    "salary_text": "R$ 5.862,08",
+    "salary_value": 5862.08
+  },
+  {
+    "title": "SAAEB - Serviço Autônomo de Água e Esgoto de Barretos",
+    "link": "https://www.pciconcursos.com.br/noticias/saaeb-sp-abre-processo-seletivo-para-tecnico-em-quimica-e-operador",
+    "end_date": "2026-03-16",
+    "vacancies": 37,
+    "salary_text": "R$ 3.440,11",
+    "salary_value": 3440.11
   }
 ]
