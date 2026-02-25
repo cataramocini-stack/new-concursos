@@ -1065,5 +1065,29 @@
     "vacancies": 37,
     "salary_text": "R$ 3.440,11",
     "salary_value": 3440.11
+  },
+  {
+    "title": "FSA - Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-bibliotecario-i",
+    "end_date": "2026-03-26",
+    "vacancies": 1,
+    "salary_text": "R$ 3.576,20",
+    "salary_value": 3576.2
+  },
+  {
+    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-processo-seletivo-para-profissional-de-atendimento-educacional-especializado",
+    "end_date": "2026-03-25",
+    "vacancies": 1,
+    "salary_text": "R$ 4.967,04",
+    "salary_value": 4967.04
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-ciencias-biologicas-em-botucatu",
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
