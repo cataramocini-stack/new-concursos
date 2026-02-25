@@ -1089,5 +1089,13 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura de Lençóis Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-6-6-mil",
+    "end_date": "2026-03-30",
+    "vacancies": 4,
+    "salary_text": "R$ 6.625,01",
+    "salary_value": 6625.01
   }
 ]
