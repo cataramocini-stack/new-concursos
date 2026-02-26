@@ -1082,5 +1082,45 @@
     "vacancies": 5,
     "salary_text": "R$ 6.099,06",
     "salary_value": 6099.06
+  },
+  {
+    "title": "Prefeitura de Uchoa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uchoa-sp-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
+    "end_date": "2026-03-14",
+    "vacancies": 74,
+    "salary_text": "R$ 4.660,15",
+    "salary_value": 4660.15
+  },
+  {
+    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-vaga-para-professor-substituto-de-ciencias-biologicas",
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-publico-para-professor-assistente-no-campus-de-bauru",
+    "end_date": "2026-04-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-toxicologia-de-alimentos",
+    "end_date": "2026-05-04",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-substituto-em-enfermagem-obstetrica",
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 5.949,07",
+    "salary_value": 5949.07
   }
 ]
