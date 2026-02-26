@@ -1058,5 +1058,29 @@
     "vacancies": 4,
     "salary_text": "R$ 6.625,01",
     "salary_value": 6625.01
+  },
+  {
+    "title": "Prefeitura de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-para-cargos-de-nivel-superior",
+    "end_date": "2026-03-26",
+    "vacancies": 8,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06
+  },
+  {
+    "title": "Prefeitura de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-cinco-concursos-publicos-para-diversas-areas",
+    "end_date": "2026-03-26",
+    "vacancies": 49,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06
+  },
+  {
+    "title": "Prefeitura do Município de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-de-nivel-superior",
+    "end_date": "2026-03-26",
+    "vacancies": 5,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06
   }
 ]
