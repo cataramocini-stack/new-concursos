@@ -8,14 +8,6 @@
     "salary_value": 10868.02
   },
   {
-    "title": "FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fapesp-abre-concurso-publico-com-vagas-para-cargos-de-nivel-superior",
-    "end_date": "2026-02-25",
-    "vacancies": 13,
-    "salary_text": "R$ 10.235,95",
-    "salary_value": 10235.95
-  },
-  {
     "title": "FPS - Fundação Pró-Sangue Hemocentro de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-pro-sangue-hemocentro-de-sao-paulo-abre-cinco-vagas-em-concurso-publico",
     "end_date": "2026-03-05",
@@ -276,24 +268,8 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-de-concurso-publico-para-professor-substituto-no-campus-de-aracatuba-sp",
-    "end_date": "2026-02-25",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-historia-no-campus-de-assis-sp",
     "end_date": "2026-02-26",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-computacao-em-bauru-sp",
-    "end_date": "2026-02-25",
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
@@ -837,14 +813,6 @@
     "salary_value": 2207.92
   },
   {
-    "title": "Prefeitura de Araçoiaba da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vagas-para-vigia-com-remuneracao-de-2-7-mil",
-    "end_date": "2026-02-25",
-    "vacancies": 2,
-    "salary_text": "R$ 1.763,10",
-    "salary_value": 1763.1
-  },
-  {
     "title": "FHSL - Fundação Hospital Santa Lydia",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-tecnico-de-enfermagem-biologo-e-fisioterapeuta",
     "end_date": "2026-03-04",
@@ -873,13 +841,6 @@
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
     "end_date": "2026-03-11",
     "vacancies": 1
-  },
-  {
-    "title": "Prefeitura de Barra do Turvo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-anuncia-processo-seletivo-para-professores-substitutos",
-    "end_date": "2026-02-25",
-    "salary_text": "R$ 3.651,00",
-    "salary_value": 3651.0
   },
   {
     "title": "SAEAN - Serviço de Água e Esgoto de Artur Nogueira",
