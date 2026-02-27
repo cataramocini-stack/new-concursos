@@ -17,14 +17,21 @@ from bs4 import BeautifulSoup
 
 URLS = [
     "https://www.pciconcursos.com.br/concursos/sudeste/sp/",
+    "https://www.pciconcursos.com.br/concursos/sudeste/sp",
     "https://www.pciconcursos.com.br/concursos/sudeste/",
     "https://www.pciconcursos.com.br/concursos/sp/",
+    "https://www.pciconcursos.com.br/concursos/sp",
 ]
 
 DATA_FILE = "concursos.json"
 HASH_FILE = "last_page.hash"
 
-SELECTORS = ["div.ca", "div.concurso"]
+SELECTORS = [
+    "div.ca",
+    "div.concurso",
+    "ul li",
+    "table tr",
+]
 
 DATE_PATTERN = re.compile(r"\b\d{2}/\d{2}/\d{4}\b")
 SALARY_PATTERN = re.compile(r"R\$\s*[\d\.]+,\d{2}")
@@ -37,102 +44,116 @@ BANCAS = [
     ("Instituto Mais", re.compile(r"Instituto Mais", re.IGNORECASE)),
 ]
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+# ================= LOGGING =================
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
+
 logger = logging.getLogger(__name__)
 
 # ================= HTTP SESSION =================
 
+
 def create_session():
     session = requests.Session()
-    session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
-    retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    session.headers.update({"User-Agent": "Mozilla/5.0"})
+
+    retry = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+
     adapter = HTTPAdapter(max_retries=retry)
     session.mount("http://", adapter)
     session.mount("https://", adapter)
+
     return session
+
 
 SESSION = create_session()
 
 # ================= STORAGE =================
 
+
 def load_data():
-    if not os.path.exists(DATA_FILE): return []
+    if not os.path.exists(DATA_FILE):
+        return []
+
     try:
         with open(DATA_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
-            return data if isinstance(data, list) else []
-    except: return []
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
 
 def save_data(items):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
+
 # ================= PARSERS =================
+
 
 def parse_date(text):
     match = re.search(r"Inscrições até\s*(\d{2}/\d{2}/\d{4})", text, re.I)
-    if not match: match = DATE_PATTERN.search(text)
-    if not match: return None
+    if not match:
+        match = DATE_PATTERN.search(text)
+
+    if not match:
+        return None
+
     try:
-        dt_str = match.group(1 if "Inscrições" in match.group(0) else 0)
-        return datetime.strptime(dt_str, "%d/%m/%Y").date()
-    except: return None
+        return datetime.strptime(match.group(1 if "Inscrições" in match.group(0) else 0), "%d/%m/%Y").date()
+    except Exception:
+        return None
+
 
 def parse_salary(text):
     match = SALARY_PATTERN.search(text)
-    if not match: return "Não definido", None
-    
+    if not match:
+        return None, None
+
     salary_text = match.group(0)
     normalized = salary_text.replace("R$", "").replace(".", "").replace(",", ".").strip()
-    
-    try: 
-        val = float(normalized)
-        # Lógica: Se o valor for ridículo (menos de 500), é valor/hora. 
-        # Gambiarra necessária porque o site nem sempre especifica "/h" no texto.
-        if val < 500.00:
-            return f"{salary_text}/h", val
-        return salary_text, val
-    except: 
-        return "Não definido", None
+
+    try:
+        return salary_text, float(normalized)
+    except ValueError:
+        return salary_text, None
+
 
 def parse_vacancies(text):
     match = VACANCY_PATTERN.search(text)
     return int(match.group(1)) if match else None
 
-# ================= EXTRAÇÃO DE CARGOS =================
-
-def extract_positions(contest_url):
-    try:
-        time.sleep(random.uniform(1, 2))
-        resp = SESSION.get(contest_url, timeout=30)
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        main_content = soup.find('div', id='concurso') or soup.find('div', class_='ca')
-        text = main_content.get_text(" ", strip=True) if main_content else soup.get_text(" ", strip=True)
-
-        match = re.search(r"(?:Cargos?|Vagas? para):\s*(.+?)(?:\.|Inscri|Remunera|Salári|Edital|Taxa|Prova)", text, re.I | re.S)
-        
-        if not match: return []
-
-        raw = match.group(1)
-        cargos = [
-            c.strip(" ,.;:-") 
-            for c in re.split(r",|;|e\s\b|•|\n", raw) 
-            if len(c.strip()) > 4 and "http" not in c.lower()
-        ]
-
-        return list(dict.fromkeys(cargos))[:5]
-    except Exception as e:
-        logger.warning(f"Erro extraindo cargos: {e}")
-        return []
 
 # ================= HELPERS =================
 
+
+def normalize_title(title: str) -> str:
+    return re.sub(r"\s+", " ", title).strip().lower()
+
+
 def contest_id(item):
-    return hashlib.md5(item["link"].encode()).hexdigest()
+    return normalize_title(item["title"]), item["end_date"]
+
 
 def detect_bancas(text):
     return [label for label, pattern in BANCAS if pattern.search(text)]
+
+
+def find_containers(soup):
+    for selector in SELECTORS:
+        items = soup.select(selector)
+        if items:
+            logger.info("Usando seletor: %s", selector)
+            return items
+    return []
+
 
 def find_official_link(container):
     for anchor in container.find_all("a", href=True):
@@ -141,154 +162,193 @@ def find_official_link(container):
             return href
     return None
 
+
 # ================= SCRAPER =================
+
 
 def extract_contests(html, base_url, filter_sp):
     soup = BeautifulSoup(html, "html.parser")
-    containers = []
-    for s in SELECTORS:
-        found = soup.select(s)
-        if found:
-            containers = found
-            break
+    containers = find_containers(soup)
 
     contests = {}
+
     for container in containers:
         anchor = container.find("a", href=True)
-        if not anchor: continue
-
-        title = anchor.get_text(" ", strip=True)
-        text = container.get_text(" ", strip=True)
-        
-        if filter_sp and not re.search(r"\bSP\b|São Paulo", text, re.I):
+        if not anchor:
             continue
 
-        end_date = parse_date(text)
+        title = anchor.get_text(" ", strip=True)
+        if not title:
+            continue
+
+        text = container.get_text(" ", strip=True)
+        parent_text = container.parent.get_text(" ", strip=True) if container.parent else ""
+        combined_text = f"{text} {parent_text}"
+
+        if filter_sp and not re.search(r"\bSP\b|São Paulo", combined_text, re.I):
+            continue
+
+        end_date = parse_date(combined_text)
         if not end_date or end_date < date.today():
             continue
 
         link = urljoin(base_url, anchor["href"])
-        salary_text, salary_value = parse_salary(text)
-        
+
+        salary_text, salary_value = parse_salary(combined_text)
+        vacancies = parse_vacancies(combined_text)
+
         contests[link] = {
             "title": title,
             "link": link,
             "official_link": find_official_link(container),
             "end_date": end_date.isoformat(),
-            "vacancies": parse_vacancies(text),
+            "vacancies": vacancies,
             "salary_text": salary_text,
             "salary_value": salary_value,
-            "raw_text": text,
+            "raw_text": combined_text,
         }
 
     return list(contests.values())
 
+
 # ================= DISCORD =================
+
+
+def send_error_discord(message):
+    webhook = os.getenv("DISCORD_WEBHOOK")
+    if not webhook:
+        return
+
+    requests.post(webhook, json={
+        "embeds": [{"title": "⚠️ Erro Sniper Concursos", "description": message}]
+    }, timeout=30)
+
 
 def send_discord(items):
     webhook = os.getenv("DISCORD_WEBHOOK")
-    if not webhook: 
-        logger.warning("DISCORD_WEBHOOK não configurada.")
+    if not webhook:
+        logger.warning("DISCORD_WEBHOOK não configurado.")
         return
 
     items.sort(key=lambda x: x.get("salary_value") or 0, reverse=True)
 
     for i in range(0, len(items), 10):
+        chunk = items[i:i + 10]
         embeds = []
-        for item in items[i:i + 10]:
+
+        for item in chunk:
             end_date = datetime.fromisoformat(item["end_date"]).date()
             days_left = (end_date - date.today()).days
+
             bancas = detect_bancas(item["title"] + item["raw_text"])
-            
-            # Removido cargo do título conforme solicitado
-            display_title = item['title']
+            premium = (item.get("salary_value") or 0) > 10000
 
-            summary = [
-                f"📅 {end_date:%d/%m/%Y} ({days_left}d)",
-                f"💰 {item.get('salary_text')}", # Agora retorna "Não definido" ou "R$ .../h"
-                f"👥 {item.get('vacancies') or '?'} vaga(s)"
+            title = f"💰 {item['title']}" if premium else item["title"]
+
+            fields = [
+                {"name": "Inscrições até", "value": end_date.strftime("%d/%m/%Y"), "inline": True},
+                {"name": "⏳ Restam", "value": f"{days_left} dias", "inline": True},
             ]
-            if bancas: summary.append(f"🎯 {', '.join(bancas)}")
 
-            fields = []
-            if item.get("positions") and len(item["positions"]) > 0:
-                fields.append({
-                    "name": "🧾 Cargos Identificados",
-                    "value": "\n".join(f"• {c}" for c in item["positions"]),
-                    "inline": False,
-                })
+            if bancas:
+                fields.append({"name": "Banca", "value": ", ".join(bancas), "inline": True})
+
+            if item.get("vacancies"):
+                fields.append({"name": "Vagas", "value": str(item["vacancies"]), "inline": True})
+
+            if item.get("salary_text"):
+                fields.append({"name": "Salário", "value": item["salary_text"], "inline": True})
 
             if item.get("official_link"):
-                fields.append({
-                    "name": "🔗 Edital/Link Oficial",
-                    "value": item["official_link"],
-                    "inline": False,
-                })
+                fields.append({"name": "Link oficial", "value": item["official_link"], "inline": False})
 
             embeds.append({
-                "title": display_title[:250],
+                "title": title,
                 "url": item["link"],
-                "description": " • ".join(summary),
                 "fields": fields,
-                "color": 0x2ECC71,
-                "footer": {"text": f"Ref: {contest_id(item)[:8]} | Atualizado: {datetime.now():%d/%m/%Y %H:%M}"}
+                "color": 0xF1C40F if premium else 0x2ECC71,
+                "footer": {"text": f"Atualizado em {datetime.now():%d/%m/%Y %H:%M}"}
             })
 
-        try:
-            requests.post(webhook, json={"embeds": embeds}, timeout=30)
-        except Exception as e:
-            logger.error(f"Erro Discord: {e}")
+        requests.post(webhook, json={"embeds": embeds}, timeout=30)
 
-# ================= MAIN =================
+
+# ================= FETCH =================
+
 
 def fetch_page():
+    errors = []
+
     for url in URLS:
         try:
-            time.sleep(2)
-            resp = SESSION.get(url, timeout=30)
-            if resp.status_code != 200: continue
-            
-            new_hash = hashlib.md5(resp.text.encode()).hexdigest()
+            time.sleep(random.uniform(1.5, 3.5))  # anti-ban
+
+            response = SESSION.get(url, timeout=30)
+
+            if response.status_code != 200:
+                errors.append(f"{url} -> {response.status_code}")
+                continue
+
+            html = response.text
+
+            # hash cache
+            new_hash = hashlib.md5(html.encode()).hexdigest()
+
             if os.path.exists(HASH_FILE):
                 with open(HASH_FILE) as f:
                     if f.read() == new_hash:
-                        logger.info(f"Sem alterações em {url}")
-                        return resp.url, None
+                        logger.info("Página não mudou.")
+                        return response.url, None
 
-            with open(HASH_FILE, "w") as f: f.write(new_hash)
-            return resp.url, resp.text
-        except: continue
-    raise RuntimeError("PCI Offline ou Bloqueado")
+            with open(HASH_FILE, "w") as f:
+                f.write(new_hash)
+
+            return response.url, html
+
+        except Exception as e:
+            errors.append(f"{url} -> {e}")
+
+    msg = "Falha ao acessar PCI: " + " | ".join(errors)
+    send_error_discord(msg)
+    raise RuntimeError(msg)
+
+
+# ================= MAIN =================
+
 
 def main():
     existing = load_data()
     today = date.today()
-    cleaned = [i for i in existing if datetime.fromisoformat(i["end_date"]).date() >= today]
-    
-    try:
-        base_url, html = fetch_page()
-    except Exception as e:
-        logger.error(e)
+
+    cleaned = [
+        item for item in existing
+        if datetime.fromisoformat(item["end_date"]).date() >= today
+    ]
+
+    base_url, html = fetch_page()
+
+    if html is None:
+        logger.info("Nada novo.")
         return
 
-    if html is None: return
-
     filter_sp = "sudeste" in base_url and "/sp" not in base_url
-    scraped = extract_contests(html, base_url, filter_sp)
-    
-    existing_links = {i["link"] for i in cleaned}
-    new_items = []
 
-    for item in scraped:
-        if item["link"] not in existing_links:
-            logger.info(f"New: {item['title']}")
-            item["positions"] = extract_positions(item["link"])
-            new_items.append(item)
+    scraped = extract_contests(html, base_url, filter_sp)
+
+    if not scraped:
+        send_error_discord("⚠️ Estrutura do PCI pode ter mudado.")
+
+    existing_ids = {contest_id(i) for i in cleaned}
+    new_items = [i for i in scraped if contest_id(i) not in existing_ids]
+
+    updated = cleaned + new_items
+    save_data(updated)
 
     if new_items:
-        save_data(cleaned + new_items)
         send_discord(new_items)
-        logger.info(f"Processados {len(new_items)} novos concursos.")
+
+    logger.info("Novos concursos: %s", len(new_items))
+
 
 if __name__ == "__main__":
     main()
