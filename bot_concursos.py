@@ -131,10 +131,47 @@ def parse_vacancies(text):
     return int(match.group(1)) if match else None
 
 
+# ================= EXTRAÇÃO DE CARGOS =================
+
+
+def extract_positions(contest_url):
+    """Busca cargos dentro da página individual do concurso"""
+    try:
+        time.sleep(random.uniform(1, 2))
+
+        resp = SESSION.get(contest_url, timeout=30)
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        text = soup.get_text(" ", strip=True)
+
+        match = re.search(
+            r"cargo[s]?:\s*(.+?)(?:inscri|remunera|salári|edital)",
+            text,
+            re.I,
+        )
+
+        if not match:
+            return []
+
+        raw = match.group(1)
+
+        cargos = [
+            c.strip(" ,.;:-")
+            for c in re.split(r",|•|-|\n", raw)
+            if len(c.strip()) > 3
+        ]
+
+        return cargos[:5]
+
+    except Exception as e:
+        logger.warning("Erro extraindo cargos: %s", e)
+        return []
+
+
 # ================= HELPERS =================
 
 
-def normalize_title(title: str) -> str:
+def normalize_title(title):
     return re.sub(r"\s+", " ", title).strip().lower()
 
 
@@ -178,9 +215,6 @@ def extract_contests(html, base_url, filter_sp):
             continue
 
         title = anchor.get_text(" ", strip=True)
-        if not title:
-            continue
-
         text = container.get_text(" ", strip=True)
         parent_text = container.parent.get_text(" ", strip=True) if container.parent else ""
         combined_text = f"{text} {parent_text}"
@@ -211,63 +245,68 @@ def extract_contests(html, base_url, filter_sp):
     return list(contests.values())
 
 
-# ================= DISCORD =================
-
-
-def send_error_discord(message):
-    webhook = os.getenv("DISCORD_WEBHOOK")
-    if not webhook:
-        return
-
-    requests.post(webhook, json={
-        "embeds": [{"title": "⚠️ Erro Sniper Concursos", "description": message}]
-    }, timeout=30)
+# ================= DISCORD (LAYOUT PROFISSIONAL) =================
 
 
 def send_discord(items):
     webhook = os.getenv("DISCORD_WEBHOOK")
     if not webhook:
-        logger.warning("DISCORD_WEBHOOK não configurado.")
         return
 
     items.sort(key=lambda x: x.get("salary_value") or 0, reverse=True)
 
     for i in range(0, len(items), 10):
-        chunk = items[i:i + 10]
         embeds = []
 
-        for item in chunk:
+        for item in items[i:i + 10]:
+
             end_date = datetime.fromisoformat(item["end_date"]).date()
             days_left = (end_date - date.today()).days
-
             bancas = detect_bancas(item["title"] + item["raw_text"])
-            premium = (item.get("salary_value") or 0) > 10000
 
-            title = f"💰 {item['title']}" if premium else item["title"]
-
-            fields = [
-                {"name": "Inscrições até", "value": end_date.strftime("%d/%m/%Y"), "inline": True},
-                {"name": "⏳ Restam", "value": f"{days_left} dias", "inline": True},
+            summary = [
+                f"📅 {end_date:%d/%m/%Y}",
+                f"⏳ {days_left} dias",
             ]
 
-            if bancas:
-                fields.append({"name": "Banca", "value": ", ".join(bancas), "inline": True})
-
             if item.get("vacancies"):
-                fields.append({"name": "Vagas", "value": str(item["vacancies"]), "inline": True})
+                summary.append(f"👥 {item['vacancies']} vaga(s)")
 
             if item.get("salary_text"):
-                fields.append({"name": "Salário", "value": item["salary_text"], "inline": True})
+                summary.append(f"💰 {item['salary_text']}")
+
+            if bancas:
+                summary.append(f"🎯 {', '.join(bancas)}")
+
+            fields = [{
+                "name": "📌 Informações",
+                "value": " • ".join(summary),
+                "inline": False,
+            }]
+
+            if item.get("positions"):
+                cargos = "\n".join(f"• {c}" for c in item["positions"])
+                fields.append({
+                    "name": "🧾 Cargos",
+                    "value": cargos[:1000],
+                    "inline": False,
+                })
 
             if item.get("official_link"):
-                fields.append({"name": "Link oficial", "value": item["official_link"], "inline": False})
+                fields.append({
+                    "name": "🔗 Link oficial",
+                    "value": item["official_link"],
+                    "inline": False,
+                })
 
             embeds.append({
-                "title": title,
+                "title": item["title"],
                 "url": item["link"],
                 "fields": fields,
-                "color": 0xF1C40F if premium else 0x2ECC71,
-                "footer": {"text": f"Atualizado em {datetime.now():%d/%m/%Y %H:%M}"}
+                "color": 0x2ECC71,
+                "footer": {
+                    "text": f"Atualizado em {datetime.now():%d/%m/%Y %H:%M}"
+                },
             })
 
         requests.post(webhook, json={"embeds": embeds}, timeout=30)
@@ -277,40 +316,28 @@ def send_discord(items):
 
 
 def fetch_page():
-    errors = []
-
     for url in URLS:
-        try:
-            time.sleep(random.uniform(1.5, 3.5))  # anti-ban
+        time.sleep(random.uniform(1.5, 3.5))
 
-            response = SESSION.get(url, timeout=30)
+        response = SESSION.get(url, timeout=30)
+        if response.status_code != 200:
+            continue
 
-            if response.status_code != 200:
-                errors.append(f"{url} -> {response.status_code}")
-                continue
+        html = response.text
+        new_hash = hashlib.md5(html.encode()).hexdigest()
 
-            html = response.text
+        if os.path.exists(HASH_FILE):
+            with open(HASH_FILE) as f:
+                if f.read() == new_hash:
+                    logger.info("Página não mudou.")
+                    return response.url, None
 
-            # hash cache
-            new_hash = hashlib.md5(html.encode()).hexdigest()
+        with open(HASH_FILE, "w") as f:
+            f.write(new_hash)
 
-            if os.path.exists(HASH_FILE):
-                with open(HASH_FILE) as f:
-                    if f.read() == new_hash:
-                        logger.info("Página não mudou.")
-                        return response.url, None
+        return response.url, html
 
-            with open(HASH_FILE, "w") as f:
-                f.write(new_hash)
-
-            return response.url, html
-
-        except Exception as e:
-            errors.append(f"{url} -> {e}")
-
-    msg = "Falha ao acessar PCI: " + " | ".join(errors)
-    send_error_discord(msg)
-    raise RuntimeError(msg)
+    raise RuntimeError("Falha ao acessar PCI")
 
 
 # ================= MAIN =================
@@ -328,18 +355,19 @@ def main():
     base_url, html = fetch_page()
 
     if html is None:
-        logger.info("Nada novo.")
         return
 
     filter_sp = "sudeste" in base_url and "/sp" not in base_url
-
     scraped = extract_contests(html, base_url, filter_sp)
 
-    if not scraped:
-        send_error_discord("⚠️ Estrutura do PCI pode ter mudado.")
-
     existing_ids = {contest_id(i) for i in cleaned}
-    new_items = [i for i in scraped if contest_id(i) not in existing_ids]
+
+    new_items = []
+    for item in scraped:
+        if contest_id(item) not in existing_ids:
+            logger.info("Extraindo cargos: %s", item["title"])
+            item["positions"] = extract_positions(item["link"])
+            new_items.append(item)
 
     updated = cleaned + new_items
     save_data(updated)
