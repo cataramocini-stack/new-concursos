@@ -2,1079 +2,151 @@
   {
     "title": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André",
     "link": "https://www.pciconcursos.com.br/noticias/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico",
+    "official_link": null,
     "end_date": "2026-03-12",
     "vacancies": 95,
     "salary_text": "R$ 10.868,02",
-    "salary_value": 10868.02
+    "salary_value": 10868.02,
+    "raw_text": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André SP 95 vagas até R$ 10.868,02 Vários Cargos Fundamental / Médio / Técnico / Superior 12/03/2026",
+    "positions": []
   },
   {
     "title": "FPS - Fundação Pró-Sangue Hemocentro de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-pro-sangue-hemocentro-de-sao-paulo-abre-cinco-vagas-em-concurso-publico",
+    "official_link": null,
     "end_date": "2026-03-05",
     "vacancies": 5,
     "salary_text": "R$ 4.568,66",
-    "salary_value": 4568.66
-  },
-  {
-    "title": "Prefeitura de Jarinu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jarinu-sp-promove-concurso-publico-para-guarda-municipal",
-    "end_date": "2026-03-05",
-    "vacancies": 17,
-    "salary_text": "R$ 4.057,00",
-    "salary_value": 4057.0
-  },
-  {
-    "title": "Prefeitura de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-paulo-sp-retifica-concurso-publico-com-500-vagas-para-guarda-civil-metropolitano",
-    "end_date": "2026-03-03",
-    "vacancies": 500,
-    "salary_text": "R$ 4.127,52",
-    "salary_value": 4127.52
-  },
-  {
-    "title": "Câmara da Estância Turística de São Roque",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-roque-sp-abre-concursos-com-salarios-de-ate-12-8-mil",
-    "end_date": "2026-03-24",
-    "vacancies": 8,
-    "salary_text": "R$ 12.815,64",
-    "salary_value": 12815.64
-  },
-  {
-    "title": "Câmara de Américo de Campos",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-americo-de-campos-sp-abre-concurso-publico-com-salarios-de-ate-5-5-mil",
-    "end_date": "2026-03-08",
-    "vacancies": 4,
-    "salary_text": "R$ 5.505,18",
-    "salary_value": 5505.18
-  },
-  {
-    "title": "Câmara de Botucatu",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-botucatu-sp-abre-concurso-publico-com-salarios-de-ate-8-5-mil",
-    "end_date": "2026-03-01",
-    "vacancies": 3,
-    "salary_text": "R$ 8.596,80",
-    "salary_value": 8596.8
-  },
-  {
-    "title": "Câmara de Campo Limpo Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-campo-limpo-paulista-sp-retifica-concurso-publico-com-salarios-de-ate-10-6-mil",
-    "end_date": "2026-03-10",
-    "vacancies": 3,
-    "salary_text": "R$ 10.612,00",
-    "salary_value": 10612.0
-  },
-  {
-    "title": "Câmara de Mongaguá",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-abre-concurso-com-10-vagas-para-nivel-medio-e-superior",
-    "end_date": "2026-03-13",
-    "vacancies": 10,
-    "salary_text": "R$ 7.256,32",
-    "salary_value": 7256.32
-  },
-  {
-    "title": "Etec - Escola Técnica - Guarujá",
-    "link": "https://www.pciconcursos.com.br/noticias/etec-de-guaruja-sp-publica-abertura-de-inscricoes-para-dois-editais-de-processo-seletivo",
-    "end_date": "2026-06-16",
-    "salary_text": "R$ 21,40",
-    "salary_value": 21.4
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hospital-estadual-sumare",
-    "end_date": "2026-03-02",
-    "vacancies": 1,
-    "salary_text": "R$ 6.637,65",
-    "salary_value": 6637.65
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-tecnico-de-laboratorio-no-hospital-de-clinicas",
-    "end_date": "2026-03-03",
-    "vacancies": 1,
-    "salary_text": "R$ 3.588,07",
-    "salary_value": 3588.07
-  },
-  {
-    "title": "HCFAMEMA - Hospital das Clínicas da Faculdade de Medicina de Marília",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfamema-sp-abre-processo-seletivo-com-72-vagas-para-tecnico-em-enfermagem",
-    "end_date": "2026-03-01",
-    "vacancies": 72,
-    "salary_text": "R$ 2.551,60",
-    "salary_value": 2551.6
-  },
-  {
-    "title": "IMA - Informática de Municípios Associados S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/ima-sp-abre-oito-vagas-em-novo-concurso-publico",
-    "end_date": "2026-03-01",
-    "vacancies": 8,
-    "salary_text": "R$ 5.600,86",
-    "salary_value": 5600.86
+    "salary_value": 4568.66,
+    "raw_text": "FPS - Fundação Pró-Sangue Hemocentro de São Paulo SP 5 vagas até R$ 4.568,66 Vários Cargos Técnico / Superior 05/03/2026",
+    "positions": [
+      "Técnico d",
+      "Segurança do Trabalho (1 vaga) Biologista (1 vaga) Enfermeiro (1 vaga) Médico (1 vaga) Médico do Trabalho (1 vaga) Para participar",
+      "é necessário qu",
+      "o candidato comprov",
+      "o nível d"
+    ]
   },
   {
     "title": "Prefeitura da Estância Turística de Salto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-abre-concurso-com-salarios-de-ate-10693",
+    "official_link": null,
     "end_date": "2026-03-16",
     "vacancies": 126,
     "salary_text": "R$ 10.693,78",
-    "salary_value": 10693.78
+    "salary_value": 10693.78,
+    "raw_text": "Prefeitura da Estância Turística de Salto SP 126 vagas até R$ 10.693,78 Vários Cargos Médio / Superior 16/03/2026",
+    "positions": []
   },
   {
     "title": "Prefeitura da Estância Turística de São Roque",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-concursos-e-processo-seletivo-com-diversas-vagas",
+    "official_link": null,
     "end_date": "2026-03-09",
     "vacancies": 14,
     "salary_text": "R$ 7.860,07",
-    "salary_value": 7860.07
+    "salary_value": 7860.07,
+    "raw_text": "Prefeitura da Estância Turística de São Roque SP 14 vagas até R$ 7.860,07 Vários Cargos Fundamental / Médio / Superior 09/03/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Clementina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clementina-sp-abre-concurso-publico-com-salarios-de-ate-16-6-mil",
-    "end_date": "2026-03-11",
-    "vacancies": 11,
-    "salary_text": "R$ 16.698,30",
-    "salary_value": 16698.3
-  },
-  {
-    "title": "Prefeitura de Conchas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchas-sp-abre-concurso-com-salarios-de-ate-15-mil",
-    "end_date": "2026-03-09",
-    "vacancies": 27,
-    "salary_text": "R$ 15.782,22",
-    "salary_value": 15782.22
-  },
-  {
-    "title": "Prefeitura de Sagres",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sagres-sp-abre-concurso-publico-com-salarios-de-ate-14574",
-    "end_date": "2026-03-13",
-    "vacancies": 3,
-    "salary_text": "R$ 14.574,65",
-    "salary_value": 14574.65
-  },
-  {
-    "title": "Prefeitura de Santana de Parnaíba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-processo-seletivo-para-medicos-com-salarios-de-ate-14-4-mil",
-    "end_date": "2026-03-02",
-    "salary_text": "R$ 14.493,23",
-    "salary_value": 14493.23
-  },
-  {
-    "title": "Prefeitura de São Vicente",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-sp-abre-novo-concurso-publico-com-28-vagas",
+    "title": "Prefeitura de Jarinu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jarinu-sp-promove-concurso-publico-para-guarda-municipal",
+    "official_link": null,
     "end_date": "2026-03-05",
-    "vacancies": 28,
-    "salary_text": "R$ 8.746,73",
-    "salary_value": 8746.73
-  },
-  {
-    "title": "Prefeitura de Tuiuti",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversas-areas",
-    "end_date": "2026-03-20",
-    "salary_text": "R$ 3.651,00",
-    "salary_value": 3651.0
-  },
-  {
-    "title": "Prefeitura de Vargem Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-grande-do-sul-sp-abre-concurso-com-salarios-de-ate-10-2-mil",
-    "end_date": "2026-03-09",
-    "salary_text": "R$ 10.274,59",
-    "salary_value": 10274.59
-  },
-  {
-    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/saae-de-mogi-mirim-sp-abre-concursos-publicos-com-salarios-de-ate-6-mil",
-    "end_date": "2026-03-06",
-    "vacancies": 11,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06
-  },
-  {
-    "title": "UFSCar - Universidade Federal de São Carlos",
-    "link": "https://www.pciconcursos.com.br/noticias/ufscar-sp-publica-edital-de-concurso-para-cargos-tecnico-administrativos",
-    "end_date": "2026-03-06",
-    "vacancies": 48,
-    "salary_text": "R$ 4.967,04",
-    "salary_value": 4967.04
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-sao-jose-dos-campos-sp-divulga-concurso-publico-para-cargo-de-professor-titular",
-    "end_date": "2026-03-04",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-assistente-no-campus-de-franca",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-doutor-no-campus-de-marilia",
-    "end_date": "2026-03-10",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-assistente-com-salario-de-16353",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-no-campus-de-franca",
-    "end_date": "2026-02-27",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-titular-no-campus-de-franca-sp",
-    "end_date": "2026-04-06",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor",
-    "end_date": "2026-03-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-o-cargo-de-professor-doutor-com-salarios-de-ate-16-mil",
-    "end_date": "2026-04-13",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNIFESP - Universidade Federal de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-concurso-publico-com-20-vagas-para-docentes-doutores-com-13-2-mil-reais",
-    "end_date": "2026-02-28",
-    "vacancies": 20,
-    "salary_text": "R$ 13.288,85",
-    "salary_value": 13288.85
-  },
-  {
-    "title": "UNIFESP - Universidade Federal de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/processo-seletivo-aberto-para-professor-de-filosofia-na-unifesp",
-    "end_date": "2026-02-27",
-    "vacancies": 1,
-    "salary_text": "R$ 8.058,29",
-    "salary_value": 8058.29
-  },
-  {
-    "title": "USP - Faculdade de Medicina de Ribeirão Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-inscricoes-para-dois-concursos-publico",
-    "end_date": "2026-04-27",
-    "vacancies": 2,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Museu de Arqueologia e Etnologia",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-dois-editais-de-concursos-publicos-para-professores-doutores",
-    "end_date": "2026-03-10",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-abertura-de-concurso-publico-para-cargo-de-professor-titular",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-instituto-de-matematica-estatistica-e-ciencia-da-computacao-abre-novo-concurso-publico",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-titular-na-area-de-sistemas-dinamicos",
-    "end_date": "2026-03-10",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-novo-concurso-publico-para-professor-titular",
-    "end_date": "2026-03-10",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-lanca-abertura-de-cinco-editais-de-concurso-publico",
-    "end_date": "2026-03-20",
-    "vacancies": 6,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-lanca-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
-    "end_date": "2026-03-30",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-edital-de-concurso-publico-com-uma-vaga-para-cargo-de-professor",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 10.696,17",
-    "salary_value": 10696.17
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
-    "end_date": "2026-05-18",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-quatro-concursos-publicos-para-professor-titular-na-escola-politecnica",
-    "end_date": "2026-05-12",
-    "vacancies": 4,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-teoria-literaria-e-literatura-comparada",
-    "end_date": "2026-02-28",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
-    "end_date": "2026-06-01",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-cargo-de-professor-doutor",
-    "end_date": "2026-03-02",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-uma-vaga-para-cargo-de-professor",
-    "end_date": "2026-03-04",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-de-quimica-organica",
-    "end_date": "2026-03-10",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-de-quimica-inorganica",
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-divulga-concurso-publico-para-professor-doutor-em-patologia",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-concurso-publico-para-professor-titular-na-area-de-ciencias-basicas-e-ambientais",
-    "end_date": "2026-06-15",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-fisica-de-plasmas",
-    "end_date": "2026-04-14",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-ciencias-atmosfericas",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-na-area-de-populacoes-estelares",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-fisica-nuclear",
-    "end_date": "2026-04-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-sistemas-complexos",
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-abre-seis-concursos-publicos-para-professores",
-    "end_date": "2026-03-09",
-    "vacancies": 6,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-de-comunicacoes-e-artes-promove-inscricoes-para-novos-concursos-publicos",
-    "end_date": "2026-04-02",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-musica-brasileira-e-historia-da-musica",
-    "end_date": "2026-03-19",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-artes-plasticas",
-    "end_date": "2026-03-26",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-concurso-publico-uma-vaga-para-cargo-de-professor-doutor",
-    "end_date": "2026-03-12",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-eca-anuncia-inscricoes-para-novos-concursos-publicos",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-veterinaria-e-zootecnia-anuncia-novos-concursos-publicos",
-    "end_date": "2026-03-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-de-enfermagem-anuncia-inscricoes-para-novo-concurso-publico",
-    "end_date": "2026-03-20",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-oito-concursos-publicos-para-niveis-tecnico-e-superior",
-    "end_date": "2026-03-06",
-    "vacancies": 8,
-    "salary_text": "R$ 11.334,47",
-    "salary_value": 11334.47
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-instituto-de-psicologia",
-    "end_date": "2026-04-02",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-salarios-de-16353-para-professor-doutor",
-    "end_date": "2026-05-11",
-    "vacancies": 3,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo - Escola Politécnica",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-abre-inscricoes-para-nove-concursos-publico",
-    "end_date": "2026-03-30",
-    "vacancies": 10,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo - Instituto de Física",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-tres-concurso-publico-junto-ao-instituto-de-fisica",
-    "end_date": "2026-03-16",
-    "vacancies": 3,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo - Ribeirão Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-novo-concurso-publico",
-    "end_date": "2026-03-11",
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo - São Carlos",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-titular-em-engenharia-civil",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-fisica",
-    "end_date": "2026-04-24",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-na-faculdade-de-engenharia-de-alimentos",
-    "end_date": "2026-04-23",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-cirurgiao-pediatrico",
-    "end_date": "2026-03-04",
-    "vacancies": 1,
-    "salary_text": "R$ 100,38",
-    "salary_value": 100.38
-  },
-  {
-    "title": "Prefeitura de Carapicuíba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-concurso-com-vagas-para-todos-os-niveis-de-escolaridade",
-    "end_date": "2026-03-20",
-    "vacancies": 12,
-    "salary_text": "R$ 4.370,56",
-    "salary_value": 4370.56
-  },
-  {
-    "title": "Prefeitura de São José da Bela Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-para-cadastro-reserva-em-diversas-areas",
-    "end_date": "2026-03-12",
-    "salary_text": "R$ 7.078,72",
-    "salary_value": 7078.72
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-no-instituto-de-biociencias-de-botucatu-sp",
-    "end_date": "2026-03-04",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-processos-seletivos-para-professor-substituto-no-campus-de-assis-sp",
-    "end_date": "2026-02-27",
-    "vacancies": 4,
-    "salary_text": "R$ 3.379,35",
-    "salary_value": 3379.35
-  },
-  {
-    "title": "USP - Escola Politécnica da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-oferece-vaga-para-professor-doutor-em-engenharia-de-telecomunicacoes",
-    "end_date": "2026-04-12",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "SEDUC - Secretaria Municipal de Educação de Guarujá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-sp-abre-concurso-publico-e-processo-seletivo-para-a-educacao",
-    "end_date": "2026-03-19",
-    "vacancies": 37,
-    "salary_text": "R$ 3.098,00",
-    "salary_value": 3098.0
-  },
-  {
-    "title": "Prefeitura de Louveira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-processo-seletivo-para-professores-com-salarios-de-ate-6-4-mil",
-    "end_date": "2026-03-16",
-    "salary_text": "R$ 6.421,00",
-    "salary_value": 6421.0
-  },
-  {
-    "title": "UNESP - Faculdade de Medicina Veterinária e Zootecnia",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-botucatu-sp-abre-vaga-para-professor-substituto-em-cirurgia-veterinaria",
-    "end_date": "2026-03-04",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "Prefeitura de Nova Odessa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-abre-processo-seletivo-com-91-vagas-e-cadastro-reserva",
-    "end_date": "2026-03-16",
-    "vacancies": 91,
-    "salary_text": "R$ 5.668,74",
-    "salary_value": 5668.74
-  },
-  {
-    "title": "Prefeitura de Sabino",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sabino-sp-abre-concurso-publico-com-salarios-de-ate-4-8-mil",
+    "vacancies": 17,
+    "salary_text": "R$ 4.057,00",
+    "salary_value": 4057.0,
+    "raw_text": "Prefeitura de Jarinu SP 17 vagas até R$ 4.057,00 Guarda Municipal Ensino Médio 05/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-paulo-sp-retifica-concurso-publico-com-500-vagas-para-guarda-civil-metropolitano",
+    "official_link": null,
     "end_date": "2026-03-03",
-    "vacancies": 13,
-    "salary_text": "R$ 4.882,04",
-    "salary_value": 4882.04
+    "vacancies": 500,
+    "salary_text": "R$ 4.127,52",
+    "salary_value": 4127.52,
+    "raw_text": "Prefeitura de São Paulo SP 500 vagas até R$ 4.127,52 Guarda Civil Metropolitano Ensino Médio 03/03/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Sorocaba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
-    "end_date": "2026-04-01",
-    "vacancies": 26
-  },
-  {
-    "title": "Prefeitura de Nova Odessa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-retifica-processo-seletivo-com-novos-cargos-e-salarios-de-ate-5668",
-    "end_date": "2026-03-16",
-    "vacancies": 91,
-    "salary_text": "R$ 5.668,74",
-    "salary_value": 5668.74
-  },
-  {
-    "title": "CIMPE - Consórcio Intermunicipal da Microrregião de Penápolis",
-    "link": "https://www.pciconcursos.com.br/noticias/cimpe-sp-abre-concurso-publico-com-salarios-de-ate-5-mil-para-profissionais-de-saude",
-    "end_date": "2026-03-08",
-    "vacancies": 2,
-    "salary_text": "R$ 5.027,32",
-    "salary_value": 5027.32
-  },
-  {
-    "title": "Prefeitura de Ituverava",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ituverava-sp-abre-processo-seletivo-com-vagas-para-diversas-areas-e-salarios-de-ate-5-4-mil",
-    "end_date": "2026-03-05",
-    "vacancies": 29,
-    "salary_text": "R$ 5.495,96",
-    "salary_value": 5495.96
-  },
-  {
-    "title": "Câmara de Sertãozinho",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sertaozinho-sp-abre-concurso-publico-com-vaga-para-jornalista",
-    "end_date": "2026-04-01",
-    "vacancies": 1,
-    "salary_text": "R$ 6.034,41",
-    "salary_value": 6034.41
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-laboratorio-no-instituto-de-quimica",
-    "end_date": "2026-03-06",
-    "vacancies": 1,
-    "salary_text": "R$ 1.895,38",
-    "salary_value": 1895.38
-  },
-  {
-    "title": "Prefeitura de Jambeiro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jambeiro-sp-abre-processo-seletivo-para-diversos-cargos-e-formacao-de-cadastro-reserva",
-    "end_date": "2026-03-08",
-    "vacancies": 11,
-    "salary_text": "R$ 3.932,88",
-    "salary_value": 3932.88
-  },
-  {
-    "title": "Prefeitura de Riversul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-abre-concurso-publico-com-salarios-de-ate-11-6-mil",
-    "end_date": "2026-03-20",
-    "vacancies": 7,
-    "salary_text": "R$ 11.626,06",
-    "salary_value": 11626.06
-  },
-  {
-    "title": "Prefeitura de Sertãozinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-processo-seletivo-para-educador-social",
-    "end_date": "2026-03-11",
-    "salary_text": "R$ 2.207,92",
-    "salary_value": 2207.92
-  },
-  {
-    "title": "FHSL - Fundação Hospital Santa Lydia",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-tecnico-de-enfermagem-biologo-e-fisioterapeuta",
-    "end_date": "2026-03-04",
-    "vacancies": 3,
-    "salary_text": "R$ 3.670,55",
-    "salary_value": 3670.55
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-oito-processos-seletivos-para-niveis-medio-e-superior",
-    "end_date": "2026-02-27",
-    "vacancies": 10,
-    "salary_text": "R$ 9.295,09",
-    "salary_value": 9295.09
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-geociencias",
-    "end_date": "2026-04-01",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
-    "end_date": "2026-03-11",
-    "vacancies": 1
-  },
-  {
-    "title": "SAEAN - Serviço de Água e Esgoto de Artur Nogueira",
-    "link": "https://www.pciconcursos.com.br/noticias/saean-de-artur-nogueira-sp-abre-processo-seletivo-para-tecnico-em-quimica",
-    "end_date": "2026-02-27",
-    "vacancies": 1,
-    "salary_text": "R$ 3.113,21",
-    "salary_value": 3113.21
-  },
-  {
-    "title": "Prefeitura de Cruzália",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzalia-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
-    "end_date": "2026-03-06",
-    "salary_text": "R$ 4.042,50",
-    "salary_value": 4042.5
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecao-com-vaga-para-analista-de-projetos-junior",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 4.437,39",
-    "salary_value": 4437.39
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-ortopedista-no-hospital-de-clinicas",
-    "end_date": "2026-03-09",
-    "vacancies": 1,
-    "salary_text": "R$ 7.606,60",
-    "salary_value": 7606.6
-  },
-  {
-    "title": "IMA - Informática de Municípios Associados S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/ima-de-campinas-sp-retifica-edital-e-oferece-vagas-com-salarios-de-ate-5600",
-    "end_date": "2026-03-01",
+    "title": "Câmara da Estância Turística de São Roque",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-roque-sp-abre-concursos-com-salarios-de-ate-12-8-mil",
+    "official_link": null,
+    "end_date": "2026-03-24",
     "vacancies": 8,
-    "salary_text": "R$ 5.600,86",
-    "salary_value": 5600.86
+    "salary_text": "R$ 12.815,64",
+    "salary_value": 12815.64,
+    "raw_text": "Câmara da Estância Turística de São Roque SP 8 vagas até R$ 12.815,64 Vários Cargos Médio / Técnico / Superior 24/03/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Barra do Turvo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-vaga-para-cuidador-de-idoso-com-salario-de-2-1-mil",
-    "end_date": "2026-02-28",
-    "vacancies": 1,
-    "salary_text": "R$ 2.120,40",
-    "salary_value": 2120.4
+    "title": "Câmara de Américo de Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-americo-de-campos-sp-abre-concurso-publico-com-salarios-de-ate-5-5-mil",
+    "official_link": null,
+    "end_date": "2026-03-08",
+    "vacancies": 4,
+    "salary_text": "R$ 5.505,18",
+    "salary_value": 5505.18,
+    "raw_text": "Câmara de Américo de Campos SP 4 vagas até R$ 5.505,18 Vários Cargos Fundamental / Superior 08/03/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Mombuca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-publicos-com-salarios-de-ate-4-8-mil",
-    "end_date": "2026-03-13",
-    "vacancies": 1,
-    "salary_text": "R$ 4.811,03",
-    "salary_value": 4811.03
-  },
-  {
-    "title": "Prefeitura de Panorama",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panorama-sp-abre-selecao-para-tecnico-em-radiologia",
-    "end_date": "2026-03-05",
+    "title": "Câmara de Botucatu",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-botucatu-sp-abre-concurso-publico-com-salarios-de-ate-8-5-mil",
+    "official_link": null,
+    "end_date": "2026-03-01",
     "vacancies": 3,
-    "salary_text": "R$ 1.930,01",
-    "salary_value": 1930.01
+    "salary_text": "R$ 8.596,80",
+    "salary_value": 8596.8,
+    "raw_text": "Câmara de Botucatu SP 3 vagas + CR até R$ 8.596,80 Vários Cargos Fundamental / Médio / Superior 01/03/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Populina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-populina-sp-abre-concurso-publico-com-salarios-de-ate-4618",
-    "end_date": "2026-03-05",
-    "vacancies": 4,
-    "salary_text": "R$ 4.618,21",
-    "salary_value": 4618.21
-  },
-  {
-    "title": "Prefeitura de Riversul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-retifica-edital-de-concurso-com-salarios-de-ate-11-mil",
-    "end_date": "2026-03-20",
-    "vacancies": 7,
-    "salary_text": "R$ 11.626,06",
-    "salary_value": 11626.06
-  },
-  {
-    "title": "Prefeitura de Serra Negra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-abre-selecao-com-vagas-imediatas-e-cadastro-reserva",
-    "end_date": "2026-02-27",
-    "vacancies": 21,
-    "salary_text": "R$ 1.932,80",
-    "salary_value": 1932.8
-  },
-  {
-    "title": "Câmara de Pardinho",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pardinho-sp-anuncia-concurso-publico-com-quatro-vagas-e-salarios-de-ate-5-4-mil",
-    "end_date": "2026-03-11",
-    "vacancies": 4,
-    "salary_text": "R$ 5.414,04",
-    "salary_value": 5414.04
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-fisioterapeuta-com-jornada-de-150-horas-mensais",
+    "title": "Câmara de Campo Limpo Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-campo-limpo-paulista-sp-retifica-concurso-publico-com-salarios-de-ate-10-6-mil",
+    "official_link": null,
     "end_date": "2026-03-10",
-    "vacancies": 1,
-    "salary_text": "R$ 5.048,81",
-    "salary_value": 5048.81
+    "vacancies": 3,
+    "salary_text": "R$ 10.612,00",
+    "salary_value": 10612.0,
+    "raw_text": "Câmara de Campo Limpo Paulista SP 3 vagas até R$ 10.612,00 Vários Cargos Médio / Técnico / Superior 10/03/2026",
+    "positions": []
   },
   {
-    "title": "ISG - Instituto Sócrates Guanaes",
-    "link": "https://www.pciconcursos.com.br/noticias/isg-sp-abre-selecao-para-cadastro-reserva-com-salarios-de-ate-12-4-mil-em-caraguatatuba",
-    "end_date": "2026-02-27",
-    "salary_text": "R$ 12.413,57",
-    "salary_value": 12413.57
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processos-seletivos-para-pesquisadores-com-salarios-acima-de-14-mil",
-    "end_date": "2026-04-07",
-    "vacancies": 2,
-    "salary_text": "R$ 14.717,71",
-    "salary_value": 14717.71
-  },
-  {
-    "title": "UNESP - Araraquara",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-substituto-em-araraquara-sp",
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
+    "title": "Câmara de Mongaguá",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-abre-concurso-com-10-vagas-para-nivel-medio-e-superior",
+    "official_link": null,
+    "end_date": "2026-03-13",
+    "vacancies": 10,
+    "salary_text": "R$ 7.256,32",
+    "salary_value": 7256.32,
+    "raw_text": "Câmara de Mongaguá SP 10 vagas até R$ 7.256,32 Vários Cargos Médio / Superior 13/03/2026",
+    "positions": []
   },
   {
     "title": "Câmara de Pacaembu",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-pacaembu-sp-abre-concurso-publico-com-salarios-de-ate-5500",
+    "official_link": null,
     "end_date": "2026-03-16",
     "vacancies": 2,
     "salary_text": "R$ 5.500,00",
-    "salary_value": 5500.0
+    "salary_value": 5500.0,
+    "raw_text": "Câmara de Pacaembu SP 2 vagas até R$ 5.500,00 Auxiliar de Secretaria e Redação, Encarregado de Tecnologia da Informação e Comunicação Médio / Técnico / Superior 02 a 16/03/2026",
+    "positions": []
   },
   {
-    "title": "CISMETRO - Consórcio Intermunicipal de Saúde da Região Metropolitana de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/cismetro-holambra-sp-abre-selecao-com-salarios-de-ate-10-mil",
-    "end_date": "2026-03-15",
-    "vacancies": 876,
-    "salary_text": "R$ 10.758,30",
-    "salary_value": 10758.3
-  },
-  {
-    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari",
-    "link": "https://www.pciconcursos.com.br/noticias/saae-de-capivari-sp-abre-concurso-publico-com-vagas-para-operador-de-estacao-de-tratamento",
-    "end_date": "2026-03-24",
-    "vacancies": 4,
-    "salary_text": "R$ 3.656,58",
-    "salary_value": 3656.58
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-oito-processos-seletivos-temporarios-para-niveis-medio-e-superior",
-    "end_date": "2026-02-27",
-    "vacancies": 10,
-    "salary_text": "R$ 9.295,09",
-    "salary_value": 9295.09
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-docente-no-departamento-de-ciencias-da-natureza-e-matematica-do-colegio-tecnico-de-limeira",
-    "end_date": "2026-03-24",
-    "vacancies": 1
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-docente-de-matematica-no-colegio-tecnico-de-limeira",
+    "title": "Câmara de Pardinho",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pardinho-sp-anuncia-concurso-publico-com-quatro-vagas-e-salarios-de-ate-5-4-mil",
+    "official_link": null,
     "end_date": "2026-03-11",
-    "vacancies": 1
-  },
-  {
-    "title": "Prefeitura de Bilac",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversos-cargos",
-    "end_date": "2026-03-10",
-    "salary_text": "R$ 5.862,08",
-    "salary_value": 5862.08
-  },
-  {
-    "title": "SAAEB - Serviço Autônomo de Água e Esgoto de Barretos",
-    "link": "https://www.pciconcursos.com.br/noticias/saaeb-sp-abre-processo-seletivo-para-tecnico-em-quimica-e-operador",
-    "end_date": "2026-03-16",
-    "vacancies": 37,
-    "salary_text": "R$ 3.440,11",
-    "salary_value": 3440.11
-  },
-  {
-    "title": "FSA - Fundação Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-bibliotecario-i",
-    "end_date": "2026-03-26",
-    "vacancies": 1,
-    "salary_text": "R$ 3.576,20",
-    "salary_value": 3576.2
-  },
-  {
-    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-processo-seletivo-para-profissional-de-atendimento-educacional-especializado",
-    "end_date": "2026-03-25",
-    "vacancies": 1,
-    "salary_text": "R$ 4.967,04",
-    "salary_value": 4967.04
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-ciencias-biologicas-em-botucatu",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "Prefeitura de Lençóis Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-6-6-mil",
-    "end_date": "2026-03-30",
     "vacancies": 4,
-    "salary_text": "R$ 6.625,01",
-    "salary_value": 6625.01
-  },
-  {
-    "title": "Prefeitura de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-para-cargos-de-nivel-superior",
-    "end_date": "2026-03-26",
-    "vacancies": 8,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06
-  },
-  {
-    "title": "Prefeitura de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-cinco-concursos-publicos-para-diversas-areas",
-    "end_date": "2026-03-26",
-    "vacancies": 49,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06
-  },
-  {
-    "title": "Prefeitura do Município de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-de-nivel-superior",
-    "end_date": "2026-03-26",
-    "vacancies": 5,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06
-  },
-  {
-    "title": "Prefeitura de Uchoa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uchoa-sp-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
-    "end_date": "2026-03-14",
-    "vacancies": 74,
-    "salary_text": "R$ 4.660,15",
-    "salary_value": 4660.15
-  },
-  {
-    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-vaga-para-professor-substituto-de-ciencias-biologicas",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-publico-para-professor-assistente-no-campus-de-bauru",
-    "end_date": "2026-04-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-toxicologia-de-alimentos",
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNIFESP - Universidade Federal de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-substituto-em-enfermagem-obstetrica",
-    "end_date": "2026-03-16",
-    "vacancies": 1,
-    "salary_text": "R$ 5.949,07",
-    "salary_value": 5949.07
+    "salary_text": "R$ 5.414,04",
+    "salary_value": 5414.04,
+    "raw_text": "Câmara de Pardinho SP 4 vagas até R$ 5.414,04 Vários Cargos Fundamental / Superior 11/03/2026",
+    "positions": []
   },
   {
     "title": "Câmara de Potim",
@@ -1084,27 +156,52 @@
     "vacancies": 1,
     "salary_text": "R$ 7.792,89",
     "salary_value": 7792.89,
-    "raw_text": "Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026 Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026"
+    "raw_text": "Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026",
+    "positions": []
   },
   {
-    "title": "FSA - Fundação Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-analista-administrativo-academico",
+    "title": "Câmara de Sertãozinho",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sertaozinho-sp-abre-concurso-publico-com-vaga-para-jornalista",
     "official_link": null,
-    "end_date": "2026-03-30",
+    "end_date": "2026-04-01",
     "vacancies": 1,
-    "salary_text": "R$ 2.109,91",
-    "salary_value": 2109.91,
-    "raw_text": "FSA - Fundação Santo André SP 1 vaga até R$ 2.109,91 Analista Administrativo-Acadêmico Superior 30/03/2026 FSA - Fundação Santo André SP 1 vaga até R$ 2.109,91 Analista Administrativo-Acadêmico Superior 30/03/2026"
+    "salary_text": "R$ 6.034,41",
+    "salary_value": 6034.41,
+    "raw_text": "Câmara de Sertãozinho SP 1 vaga até R$ 6.034,41 Jornalista Superior 02/03 a 01/04/2026",
+    "positions": []
   },
   {
-    "title": "Prefeitura de Presidente Bernardes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-bernardes-sp-abre-concurso-para-professores-de-diversas-areas",
+    "title": "CIMPE - Consórcio Intermunicipal da Microrregião de Penápolis",
+    "link": "https://www.pciconcursos.com.br/noticias/cimpe-sp-abre-concurso-publico-com-salarios-de-ate-5-mil-para-profissionais-de-saude",
     "official_link": null,
-    "end_date": "2026-03-20",
-    "vacancies": 10,
-    "salary_text": "R$ 23,35",
-    "salary_value": 23.35,
-    "raw_text": "Prefeitura de Presidente Bernardes SP 10 vagas até R$ 23,35 por hora-aula Professor de Educação Básica II Superior 03 a 20/03/2026 Prefeitura de Presidente Bernardes SP 10 vagas até R$ 23,35 por hora-aula Professor de Educação Básica II Superior 03 a 20/03/2026"
+    "end_date": "2026-03-08",
+    "vacancies": 2,
+    "salary_text": "R$ 5.027,32",
+    "salary_value": 5027.32,
+    "raw_text": "CIMPE - Consórcio Intermunicipal da Microrregião de Penápolis SP 2 vagas até R$ 5.027,32 Enfermeiro, Médico Psiquiatra Superior 08/03/2026",
+    "positions": []
+  },
+  {
+    "title": "CISMETRO - Consórcio Intermunicipal de Saúde da Região Metropolitana de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/cismetro-holambra-sp-abre-selecao-com-salarios-de-ate-10-mil",
+    "official_link": null,
+    "end_date": "2026-03-15",
+    "vacancies": 936,
+    "salary_text": "R$ 10.758,30",
+    "salary_value": 10758.3,
+    "raw_text": "CISMETRO - Consórcio Intermunicipal de Saúde da Região Metropolitana de Campinas SP 936 vagas até R$ 10.758,30 Vários Cargos Fundamental / Médio / Técnico / Superior 15/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Etec - Escola Técnica - Guarujá",
+    "link": "https://www.pciconcursos.com.br/noticias/etec-de-guaruja-sp-publica-abertura-de-inscricoes-para-dois-editais-de-processo-seletivo",
+    "official_link": null,
+    "end_date": "2026-06-16",
+    "vacancies": null,
+    "salary_text": "R$ 21,40",
+    "salary_value": 21.4,
+    "raw_text": "Etec - Escola Técnica - Guarujá SP Vagas até R$ 21,40 h/a Professores de Ensino Médio e Técnico Superior 02 a 16/06/2026",
+    "positions": []
   },
   {
     "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
@@ -1114,7 +211,183 @@
     "vacancies": 2,
     "salary_text": "R$ 4.175,71",
     "salary_value": 4175.71,
-    "raw_text": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar SP 2 vagas até R$ 4.175,71 Técnico de Enfermagem, Enfermeiro Técnico / Superior 04 a 13/03/2026 FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar SP 2 vagas até R$ 4.175,71 Técnico de Enfermagem, Enfermeiro Técnico / Superior 04 a 13/03/2026",
+    "raw_text": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar SP 2 vagas até R$ 4.175,71 Técnico de Enfermagem, Enfermeiro Técnico / Superior 04 a 13/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FHSL - Fundação Hospital Santa Lydia",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-tecnico-de-enfermagem-biologo-e-fisioterapeuta",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 3,
+    "salary_text": "R$ 3.670,55",
+    "salary_value": 3670.55,
+    "raw_text": "FHSL - Fundação Hospital Santa Lydia SP 3 vagas até R$ 3.670,55 Técnico de Enfermagem, Biólogo, Fisioterapeuta Médio / Técnico / Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FSA - Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-bibliotecario-i",
+    "official_link": null,
+    "end_date": "2026-03-26",
+    "vacancies": 1,
+    "salary_text": "R$ 3.576,20",
+    "salary_value": 3576.2,
+    "raw_text": "FSA - Fundação Santo André SP 1 vaga até R$ 3.576,20 Bibliotecário I Superior 26/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FSA - Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-analista-administrativo-academico",
+    "official_link": null,
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 2.109,91",
+    "salary_value": 2109.91,
+    "raw_text": "FSA - Fundação Santo André SP 1 vaga até R$ 2.109,91 Analista Administrativo-Acadêmico Superior 30/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-enfermeiro-no-hospital-estadual-sumare",
+    "official_link": null,
+    "end_date": "2026-03-02",
+    "vacancies": 1,
+    "salary_text": "R$ 6.637,65",
+    "salary_value": 6637.65,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 6.637,65 Enfermeiro Superior 02/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-tecnico-de-laboratorio-no-hospital-de-clinicas",
+    "official_link": null,
+    "end_date": "2026-03-03",
+    "vacancies": 1,
+    "salary_text": "R$ 3.588,07",
+    "salary_value": 3588.07,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 3.588,07 Técnico de Laboratório Ensino Técnico 03/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-cirurgiao-pediatrico",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 100,38",
+    "salary_value": 100.38,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 100,38 por hora Médico Cirurgião Pediátrico, Cirurgião Pediátrico Plantonista Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-laboratorio-no-instituto-de-quimica",
+    "official_link": null,
+    "end_date": "2026-03-06",
+    "vacancies": 1,
+    "salary_text": "R$ 1.895,38",
+    "salary_value": 1895.38,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 1.895,38 Técnico de Laboratório Técnico / Superior 06/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecao-com-vaga-para-analista-de-projetos-junior",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 4.437,39",
+    "salary_value": 4437.39,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 4.437,39 Analista de Projetos Júnior Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-ortopedista-no-hospital-de-clinicas",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 7.606,60",
+    "salary_value": 7606.6,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 7.606,60 Médico Ortopedista Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-fisioterapeuta-com-jornada-de-150-horas-mensais",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 5.048,81",
+    "salary_value": 5048.81,
+    "raw_text": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 5.048,81 Fisioterapeuta Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "HCFAMEMA - Hospital das Clínicas da Faculdade de Medicina de Marília",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfamema-sp-abre-processo-seletivo-com-72-vagas-para-tecnico-em-enfermagem",
+    "official_link": null,
+    "end_date": "2026-03-01",
+    "vacancies": 72,
+    "salary_text": "R$ 2.551,60",
+    "salary_value": 2551.6,
+    "raw_text": "HCFAMEMA - Hospital das Clínicas da Faculdade de Medicina de Marília SP 72 vagas até R$ 2.551,60 Técnico em Enfermagem Ensino Técnico 01/03/2026",
+    "positions": []
+  },
+  {
+    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-processo-seletivo-para-profissional-de-atendimento-educacional-especializado",
+    "official_link": null,
+    "end_date": "2026-03-25",
+    "vacancies": 1,
+    "salary_text": "R$ 4.967,04",
+    "salary_value": 4967.04,
+    "raw_text": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo SP 1 vaga até R$ 4.967,04 Profissional de Atendimento Educacional Especializado Superior 25/03/2026",
+    "positions": []
+  },
+  {
+    "title": "IMA - Informática de Municípios Associados S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/ima-de-campinas-sp-retifica-edital-e-oferece-vagas-com-salarios-de-ate-5600",
+    "official_link": null,
+    "end_date": "2026-03-01",
+    "vacancies": 8,
+    "salary_text": "R$ 5.600,86",
+    "salary_value": 5600.86,
+    "raw_text": "IMA - Informática de Municípios Associados S.A. SP 8 vagas até R$ 5.600,86 Vários Cargos Médio / Superior 01/03/2026",
+    "positions": []
+  },
+  {
+    "title": "ISG - Instituto Sócrates Guanaes",
+    "link": "https://www.pciconcursos.com.br/noticias/isg-sp-abre-selecao-para-cadastro-reserva-com-salarios-de-ate-12-4-mil-em-caraguatatuba",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": null,
+    "salary_text": "R$ 12.413,57",
+    "salary_value": 12413.57,
+    "raw_text": "ISG - Instituto Sócrates Guanaes SP Cadastro Reserva até R$ 12.413,57 Vários Cargos Fundamental / Médio / Técnico / Superior 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Barra do Turvo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-vaga-para-cuidador-de-idoso-com-salario-de-2-1-mil",
+    "official_link": null,
+    "end_date": "2026-02-28",
+    "vacancies": 1,
+    "salary_text": "R$ 2.120,40",
+    "salary_value": 2120.4,
+    "raw_text": "Prefeitura de Barra do Turvo SP 1 vaga até R$ 2.120,40 Cuidador de Idoso Médio / Técnico 28/02/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Bilac",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversos-cargos",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": null,
+    "salary_text": "R$ 5.862,08",
+    "salary_value": 5862.08,
+    "raw_text": "Prefeitura de Bilac SP Cadastro Reserva até R$ 5.862,08 Vários Cargos Fundamental / Médio / Superior 10/03/2026",
     "positions": []
   },
   {
@@ -1125,8 +398,1222 @@
     "vacancies": null,
     "salary_text": "R$ 25,66",
     "salary_value": 25.66,
-    "raw_text": "Prefeitura de Boracéia SP Cadastro Reserva até R$ 25,66 por hora Professor de Educação Física, Professor - PEB I Superior 28/02 a 09/03/2026 Prefeitura de Boracéia SP Cadastro Reserva até R$ 25,66 por hora Professor de Educação Física, Professor - PEB I Superior 28/02 a 09/03/2026",
+    "raw_text": "Prefeitura de Boracéia SP Cadastro Reserva até R$ 25,66 por hora Professor de Educação Física, Professor - PEB I Superior 28/02 a 09/03/2026",
     "positions": []
   },
-  
+  {
+    "title": "Prefeitura de Carapicuíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-concurso-com-vagas-para-todos-os-niveis-de-escolaridade",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 12,
+    "salary_text": "R$ 4.370,56",
+    "salary_value": 4370.56,
+    "raw_text": "Prefeitura de Carapicuíba SP 12 vagas até R$ 4.370,56 Vários Cargos Fundamental / Médio / Técnico / Superior 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Clementina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clementina-sp-abre-concurso-publico-com-salarios-de-ate-16-6-mil",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": 11,
+    "salary_text": "R$ 16.698,30",
+    "salary_value": 16698.3,
+    "raw_text": "Prefeitura de Clementina SP 11 vagas até R$ 16.698,30 Vários Cargos Fundamental / Médio / Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Conchas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchas-sp-abre-concurso-com-salarios-de-ate-15-mil",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 27,
+    "salary_text": "R$ 15.782,22",
+    "salary_value": 15782.22,
+    "raw_text": "Prefeitura de Conchas SP 27 vagas até R$ 15.782,22 Vários Cargos Fundamental / Médio / Técnico / Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Cruzália",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzalia-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-06",
+    "vacancies": null,
+    "salary_text": "R$ 4.042,50",
+    "salary_value": 4042.5,
+    "raw_text": "Prefeitura de Cruzália SP Cadastro reserva até R$ 4.042,50 Vários Cargos Médio / Superior 06/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Ituverava",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ituverava-sp-abre-processo-seletivo-com-vagas-para-diversas-areas-e-salarios-de-ate-5-4-mil",
+    "official_link": null,
+    "end_date": "2026-03-05",
+    "vacancies": 29,
+    "salary_text": "R$ 5.495,96",
+    "salary_value": 5495.96,
+    "raw_text": "Prefeitura de Ituverava SP 29 vagas até R$ 5.495,96 Vários Cargos Médio / Superior 05/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Jambeiro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jambeiro-sp-abre-processo-seletivo-para-diversos-cargos-e-formacao-de-cadastro-reserva",
+    "official_link": null,
+    "end_date": "2026-03-08",
+    "vacancies": 11,
+    "salary_text": "R$ 3.932,88",
+    "salary_value": 3932.88,
+    "raw_text": "Prefeitura de Jambeiro SP 11 vagas até R$ 3.932,88 Vários Cargos Fundamental / Médio / Superior 08/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Lençóis Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-6-6-mil",
+    "official_link": null,
+    "end_date": "2026-03-30",
+    "vacancies": 4,
+    "salary_text": "R$ 6.625,01",
+    "salary_value": 6625.01,
+    "raw_text": "Prefeitura de Lençóis Paulista SP 4 vagas até R$ 6.625,01 Vários Cargos Médio / Técnico / Superior 30/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Louveira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-processo-seletivo-para-professores-com-salarios-de-ate-6-4-mil",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": null,
+    "salary_text": "R$ 6.421,00",
+    "salary_value": 6421.0,
+    "raw_text": "Prefeitura de Louveira SP Cadastro de reserva até R$ 6.421,00 Professor de Artes, Professor de Educação Básica, Professor de Educação Especial Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-para-cargos-de-nivel-superior",
+    "official_link": null,
+    "end_date": "2026-03-26",
+    "vacancies": 8,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06,
+    "raw_text": "Prefeitura de Mogi Mirim SP 8 vagas até R$ 6.099,06 Vários Cargos Superior 26/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-cinco-concursos-publicos-para-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-26",
+    "vacancies": 49,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06,
+    "raw_text": "Prefeitura de Mogi Mirim SP 49 vagas + CR até R$ 6.099,06 Vários Cargos Fundamental / Médio / Técnico / Superior 26/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Mombuca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-publicos-com-salarios-de-ate-4-8-mil",
+    "official_link": null,
+    "end_date": "2026-03-13",
+    "vacancies": 1,
+    "salary_text": "R$ 4.811,03",
+    "salary_value": 4811.03,
+    "raw_text": "Prefeitura de Mombuca SP 1 vaga + CR até R$ 4.811,03 Vários Cargos Fundamental / Médio / Técnico / Superior 13/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Nova Odessa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-odessa-sp-retifica-processo-seletivo-com-novos-cargos-e-salarios-de-ate-5668",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 91,
+    "salary_text": "R$ 5.668,74",
+    "salary_value": 5668.74,
+    "raw_text": "Prefeitura de Nova Odessa SP 91 vagas até R$ 5.668,74 Vários Cargos Fundamental / Médio / Técnico / Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Panorama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panorama-sp-abre-selecao-para-tecnico-em-radiologia",
+    "official_link": null,
+    "end_date": "2026-03-05",
+    "vacancies": 3,
+    "salary_text": "R$ 1.930,01",
+    "salary_value": 1930.01,
+    "raw_text": "Prefeitura de Panorama SP 3 vagas até R$ 1.930,01 Técnico em Radiologia (RX) Médio / Técnico 05/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Populina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-populina-sp-abre-concurso-publico-com-salarios-de-ate-4618",
+    "official_link": null,
+    "end_date": "2026-03-05",
+    "vacancies": 4,
+    "salary_text": "R$ 4.618,21",
+    "salary_value": 4618.21,
+    "raw_text": "Prefeitura de Populina SP 4 vagas até R$ 4.618,21 Vários Cargos Médio / Superior 05/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Presidente Bernardes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-bernardes-sp-abre-concurso-para-professores-de-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 10,
+    "salary_text": "R$ 23,35",
+    "salary_value": 23.35,
+    "raw_text": "Prefeitura de Presidente Bernardes SP 10 vagas até R$ 23,35 por hora-aula Professor de Educação Básica II Superior 03 a 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Riversul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-retifica-edital-de-concurso-com-salarios-de-ate-11-mil",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 7,
+    "salary_text": "R$ 11.626,06",
+    "salary_value": 11626.06,
+    "raw_text": "Prefeitura de Riversul SP 7 vagas até R$ 11.626,06 Vários Cargos Fundamental / Médio / Superior 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Sabino",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sabino-sp-abre-concurso-publico-com-salarios-de-ate-4-8-mil",
+    "official_link": null,
+    "end_date": "2026-03-03",
+    "vacancies": 13,
+    "salary_text": "R$ 4.882,04",
+    "salary_value": 4882.04,
+    "raw_text": "Prefeitura de Sabino SP 13 vagas + CR até R$ 4.882,04 Vários Cargos Fundamental / Médio / Técnico / Superior 03/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Sagres",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sagres-sp-abre-concurso-publico-com-salarios-de-ate-14574",
+    "official_link": null,
+    "end_date": "2026-03-13",
+    "vacancies": 3,
+    "salary_text": "R$ 14.574,65",
+    "salary_value": 14574.65,
+    "raw_text": "Prefeitura de Sagres SP 3 vagas + CR até R$ 14.574,65 Vários Cargos Fundamental / Médio / Superior 13/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-processo-seletivo-para-medicos-com-salarios-de-ate-14-4-mil",
+    "official_link": null,
+    "end_date": "2026-03-02",
+    "vacancies": null,
+    "salary_text": "R$ 14.493,23",
+    "salary_value": 14493.23,
+    "raw_text": "Prefeitura de Santana de Parnaíba SP Cadastro Reserva até R$ 14.493,23 Vários Cargos Superior 02/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de São José da Bela Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-para-cadastro-reserva-em-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-12",
+    "vacancies": null,
+    "salary_text": "R$ 7.078,72",
+    "salary_value": 7078.72,
+    "raw_text": "Prefeitura de São José da Bela Vista SP Cadastro Reserva até R$ 7.078,72 Vários Cargos Médio / Técnico / Superior 12/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de São Vicente",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-sp-abre-novo-concurso-publico-com-28-vagas",
+    "official_link": null,
+    "end_date": "2026-03-05",
+    "vacancies": 28,
+    "salary_text": "R$ 8.746,73",
+    "salary_value": 8746.73,
+    "raw_text": "Prefeitura de São Vicente SP 28 vagas até R$ 8.746,73 Vários Cargos Fundamental / Médio / Técnico / Superior 05/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Serra Negra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-abre-selecao-com-vagas-imediatas-e-cadastro-reserva",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 21,
+    "salary_text": "R$ 1.932,80",
+    "salary_value": 1932.8,
+    "raw_text": "Prefeitura de Serra Negra SP 21 vagas + CR até R$ 1.932,80 Vários Cargos Fundamental / Médio 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Sertãozinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-processo-seletivo-para-educador-social",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": null,
+    "salary_text": "R$ 2.207,92",
+    "salary_value": 2207.92,
+    "raw_text": "Prefeitura de Sertãozinho SP Cadastro reserva até R$ 2.207,92 Educador Social Ensino Médio 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Sorocaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
+    "official_link": null,
+    "end_date": "2026-04-01",
+    "vacancies": 26,
+    "salary_text": null,
+    "salary_value": null,
+    "raw_text": "Prefeitura de Sorocaba SP 26 vagas Técnico de Enfermagem, Médico I Técnico / Superior 01/04/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Tuiuti",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": null,
+    "salary_text": "R$ 3.651,00",
+    "salary_value": 3651.0,
+    "raw_text": "Prefeitura de Tuiuti SP CR até R$ 3.651,00 Vários Cargos Médio / Superior 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Uchoa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uchoa-sp-abre-concurso-publico-com-vagas-para-diversos-niveis-de-escolaridade",
+    "official_link": null,
+    "end_date": "2026-03-14",
+    "vacancies": 74,
+    "salary_text": "R$ 4.660,15",
+    "salary_value": 4660.15,
+    "raw_text": "Prefeitura de Uchoa SP 74 vagas até R$ 4.660,15 Vários Cargos Fundamental / Médio / Técnico / Superior 14/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura de Vargem Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-grande-do-sul-sp-abre-concurso-com-salarios-de-ate-10-2-mil",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": null,
+    "salary_text": "R$ 10.274,59",
+    "salary_value": 10274.59,
+    "raw_text": "Prefeitura de Vargem Grande do Sul SP Cadastro Reserva até R$ 10.274,59 Vários Cargos Fundamental / Médio / Técnico / Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "Prefeitura do Município de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-de-nivel-superior",
+    "official_link": null,
+    "end_date": "2026-03-26",
+    "vacancies": 5,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06,
+    "raw_text": "Prefeitura do Município de Mogi Mirim SP 5 vagas até R$ 6.099,06 Vários Cargos Superior 26/03/2026",
+    "positions": []
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-capivari-sp-abre-concurso-publico-com-vagas-para-operador-de-estacao-de-tratamento",
+    "official_link": null,
+    "end_date": "2026-03-24",
+    "vacancies": 4,
+    "salary_text": "R$ 3.656,58",
+    "salary_value": 3656.58,
+    "raw_text": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari SP 4 vagas até R$ 3.656,58 Operador de Estação de Tratamento Ensino Técnico 24/03/2026",
+    "positions": []
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-mogi-mirim-sp-abre-concursos-publicos-com-salarios-de-ate-6-mil",
+    "official_link": null,
+    "end_date": "2026-03-06",
+    "vacancies": 11,
+    "salary_text": "R$ 6.099,06",
+    "salary_value": 6099.06,
+    "raw_text": "SAAE - Serviço Autônomo de Água e Esgoto de Mogi Mirim SP 11 vagas até R$ 6.099,06 Vários Cargos Fundamental / Médio / Técnico / Superior 06/03/2026",
+    "positions": []
+  },
+  {
+    "title": "SAAEB - Serviço Autônomo de Água e Esgoto de Barretos",
+    "link": "https://www.pciconcursos.com.br/noticias/saaeb-sp-abre-processo-seletivo-para-tecnico-em-quimica-e-operador",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 37,
+    "salary_text": "R$ 3.440,11",
+    "salary_value": 3440.11,
+    "raw_text": "SAAEB - Serviço Autônomo de Água e Esgoto de Barretos SP 37 vagas até R$ 3.440,11 Operador, Técnico em Química Médio / Técnico 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "SAEAN - Serviço de Água e Esgoto de Artur Nogueira",
+    "link": "https://www.pciconcursos.com.br/noticias/saean-de-artur-nogueira-sp-abre-processo-seletivo-para-tecnico-em-quimica",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.113,21",
+    "salary_value": 3113.21,
+    "raw_text": "SAEAN - Serviço de Água e Esgoto de Artur Nogueira SP 1 vaga até R$ 3.113,21 Técnico em Química Ensino Técnico 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "SEDUC - Secretaria Municipal de Educação de Guarujá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-sp-abre-concurso-publico-e-processo-seletivo-para-a-educacao",
+    "official_link": null,
+    "end_date": "2026-03-19",
+    "vacancies": 37,
+    "salary_text": "R$ 3.098,00",
+    "salary_value": 3098.0,
+    "raw_text": "SEDUC - Secretaria Municipal de Educação de Guarujá SP 37 vagas até R$ 3.098,00 Inspetor de Alunos, Professor de Educação Básica III Fundamental / Superior 19/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UFSCar - Universidade Federal de São Carlos",
+    "link": "https://www.pciconcursos.com.br/noticias/ufscar-sp-publica-edital-de-concurso-para-cargos-tecnico-administrativos",
+    "official_link": null,
+    "end_date": "2026-03-06",
+    "vacancies": 48,
+    "salary_text": "R$ 4.967,04",
+    "salary_value": 4967.04,
+    "raw_text": "UFSCar - Universidade Federal de São Carlos SP 48 vagas até R$ 4.967,04 Vários Cargos Médio / Técnico / Superior 06/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Araraquara",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-substituto-em-araraquara-sp",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Araraquara SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-vaga-para-professor-substituto-de-ciencias-biologicas",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Faculdade de Ciências e Letras de Assis SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 02 a 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Faculdade de Medicina Veterinária e Zootecnia",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-botucatu-sp-abre-vaga-para-professor-substituto-em-cirurgia-veterinaria",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Faculdade de Medicina Veterinária e Zootecnia SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-sao-jose-dos-campos-sp-divulga-concurso-publico-para-cargo-de-professor-titular",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "UNESP - Universidade Estadual Paulista SP 1 vaga até R$ 24.309,11 Professor Titular Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-assistente-no-campus-de-franca",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43,
+    "raw_text": "UNESP - Universidade Estadual Paulista SP 1 vaga até R$ 7.195,43 Professor Assistente Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-doutor-no-campus-de-marilia",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43,
+    "raw_text": "UNESP - Universidade Estadual Paulista SP 1 vaga até R$ 7.195,43 Professor Doutor Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-assistente-com-salario-de-16353",
+    "official_link": null,
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "UNESP - Universidade Estadual Paulista SP 1 vaga até R$ 16.353,01 Professor Assistente Superior 10/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-no-campus-de-franca",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-titular-no-campus-de-franca-sp",
+    "official_link": null,
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 1 vaga até R$ 24.309,11 Professor Titular Superior 06/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-no-instituto-de-biociencias-de-botucatu-sp",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-processos-seletivos-para-professor-substituto-no-campus-de-assis-sp",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 4,
+    "salary_text": "R$ 3.379,35",
+    "salary_value": 3379.35,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 4 vagas até R$ 3.379,35 Professor Substituto Superior 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processos-seletivos-para-pesquisadores-com-salarios-acima-de-14-mil",
+    "official_link": null,
+    "end_date": "2026-04-07",
+    "vacancies": 2,
+    "salary_text": "R$ 14.717,71",
+    "salary_value": 14717.71,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 2 vagas até R$ 14.717,71 Pesquisador IV Superior 09/03 a 07/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-ciencias-biologicas-em-botucatu",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 02 a 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-publico-para-professor-assistente-no-campus-de-bauru",
+    "official_link": null,
+    "end_date": "2026-04-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 1 vaga até R$ 16.353,01 Professor Assistente Superior 03/03 a 13/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor",
+    "official_link": null,
+    "end_date": "2026-03-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 13/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-o-cargo-de-professor-doutor-com-salarios-de-ate-16-mil",
+    "official_link": null,
+    "end_date": "2026-04-13",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 2 vagas até R$ 16.353,30 Professor Doutor Superior 13/04/2026",
+    "positions": [
+      "Edital nº 362/2026: Professor doutor/ Fundamentos físicos",
+      "químicos",
+      "biológicos d",
+      "alimentos (1 vaga)"
+    ]
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-fisica",
+    "official_link": null,
+    "end_date": "2026-04-24",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 24/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-na-faculdade-de-engenharia-de-alimentos",
+    "official_link": null,
+    "end_date": "2026-04-23",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 23/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-oito-processos-seletivos-temporarios-para-niveis-medio-e-superior",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 10,
+    "salary_text": "R$ 9.295,09",
+    "salary_value": 9295.09,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 10 vagas até R$ 9.295,09 Vários Cargos Médio / Técnico / Superior 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-geociencias",
+    "official_link": null,
+    "end_date": "2026-04-01",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 03/03 a 01/04/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": null,
+    "salary_value": null,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-docente-no-departamento-de-ciencias-da-natureza-e-matematica-do-colegio-tecnico-de-limeira",
+    "official_link": null,
+    "end_date": "2026-03-24",
+    "vacancies": 1,
+    "salary_text": null,
+    "salary_value": null,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 24/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-docente-de-matematica-no-colegio-tecnico-de-limeira",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": null,
+    "salary_value": null,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-toxicologia-de-alimentos",
+    "official_link": null,
+    "end_date": "2026-05-04",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 04/03 a 04/05/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-pesquisador-com-salario-de-ate-13957",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-pesquisador-no-centro-de-memoria",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 2,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 2 vagas até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-em-tecnologias-digitais-na-educacao",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador nível C Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-no-cepetro-com-salarios-de-ate-13957",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-na-area-de-caracterizacao-geologica",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-em-saude-reprodutiva-e-sexualidade",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-vaga-de-pesquisador-no-cepetro",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-pesquisador-com-salario-de-ate-13-9-mil",
+    "official_link": null,
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27,
+    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
+    "positions": []
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-concurso-publico-com-20-vagas-para-docentes-doutores-com-13-2-mil-reais",
+    "official_link": null,
+    "end_date": "2026-02-28",
+    "vacancies": 20,
+    "salary_text": "R$ 13.288,85",
+    "salary_value": 13288.85,
+    "raw_text": "UNIFESP - Universidade Federal de São Paulo SP 20 vagas até R$ 13.288,85 Professor(a) da Carreira do Magistério Superior Superior 28/02/2026",
+    "positions": []
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/processo-seletivo-aberto-para-professor-de-filosofia-na-unifesp",
+    "official_link": null,
+    "end_date": "2026-02-27",
+    "vacancies": 1,
+    "salary_text": "R$ 8.058,29",
+    "salary_value": 8058.29,
+    "raw_text": "UNIFESP - Universidade Federal de São Paulo SP 1 vaga até R$ 8.058,29 Professor Assistente-A Substituto Superior 27/02/2026",
+    "positions": []
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-substituto-em-enfermagem-obstetrica",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 5.949,07",
+    "salary_value": 5949.07,
+    "raw_text": "UNIFESP - Universidade Federal de São Paulo SP 1 vaga até R$ 5.949,07 Professor Substituto Superior 02 a 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Escola Politécnica da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-oferece-vaga-para-professor-doutor-em-engenharia-de-telecomunicacoes",
+    "official_link": null,
+    "end_date": "2026-04-12",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Escola Politécnica da Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 12/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Faculdade de Medicina de Ribeirão Preto",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-inscricoes-para-dois-concursos-publico",
+    "official_link": null,
+    "end_date": "2026-04-27",
+    "vacancies": 2,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Faculdade de Medicina de Ribeirão Preto SP 2 vagas até R$ 24.309,11 Professor Titular - Cirurgia e Anatomia, Professor Titular - Puericultura e Pediatria Superior 27/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Museu de Arqueologia e Etnologia",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-dois-editais-de-concursos-publicos-para-professores-doutores",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Museu de Arqueologia e Etnologia SP 2 vagas até R$ 16.353,01 Professor Doutor Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-abertura-de-concurso-publico-para-cargo-de-professor-titular",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-instituto-de-matematica-estatistica-e-ciencia-da-computacao-abre-novo-concurso-publico",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-titular-na-area-de-sistemas-dinamicos",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-novo-concurso-publico-para-professor-titular",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-lanca-abertura-de-cinco-editais-de-concurso-publico",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 6,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 6 vagas até R$ 24.309,11 Professor Titular Superior 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-lanca-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
+    "official_link": null,
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor titular - Teoria e História da Arquitetura e Urbanismo Superior 30/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-edital-de-concurso-publico-com-uma-vaga-para-cargo-de-professor",
+    "official_link": null,
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 10.696,17",
+    "salary_value": 10696.17,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 10.696,17 Professor Titular Superior 15/05/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
+    "official_link": null,
+    "end_date": "2026-05-18",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular (Língua e Literaturas Espanhola e Hispano-Americana) Superior 18/05/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-quatro-concursos-publicos-para-professor-titular-na-escola-politecnica",
+    "official_link": null,
+    "end_date": "2026-05-12",
+    "vacancies": 4,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 4 vagas até R$ 24.309,11 Vários Cargos Superior 12/05/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-teoria-literaria-e-literatura-comparada",
+    "official_link": null,
+    "end_date": "2026-02-28",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 28/02/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
+    "official_link": null,
+    "end_date": "2026-06-01",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 01/06/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-cargo-de-professor-doutor",
+    "official_link": null,
+    "end_date": "2026-03-02",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 2 vagas até R$ 16.353,01 Professor Doutor - Bioquímica e Biologia Molecular Superior 02/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-uma-vaga-para-cargo-de-professor",
+    "official_link": null,
+    "end_date": "2026-03-04",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor - Química Analítica Superior 04/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-de-quimica-organica",
+    "official_link": null,
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 10/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-de-quimica-inorganica",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor - Química Inorgânica Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-divulga-concurso-publico-para-professor-doutor-em-patologia",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-concurso-publico-para-professor-titular-na-area-de-ciencias-basicas-e-ambientais",
+    "official_link": null,
+    "end_date": "2026-06-15",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 15/06/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-fisica-de-plasmas",
+    "official_link": null,
+    "end_date": "2026-04-14",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 14/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-ciencias-atmosfericas",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-na-area-de-populacoes-estelares",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor - Populações Estelares Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-fisica-nuclear",
+    "official_link": null,
+    "end_date": "2026-04-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 13/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-sistemas-complexos",
+    "official_link": null,
+    "end_date": "2026-05-04",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 04/05/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-abre-seis-concursos-publicos-para-professores",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 6,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 6 vagas até R$ 16.353,01 Professor Doutor Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-de-comunicacoes-e-artes-promove-inscricoes-para-novos-concursos-publicos",
+    "official_link": null,
+    "end_date": "2026-04-02",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 02/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-musica-brasileira-e-historia-da-musica",
+    "official_link": null,
+    "end_date": "2026-03-19",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 19/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-artes-plasticas",
+    "official_link": null,
+    "end_date": "2026-03-26",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 26/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-concurso-publico-uma-vaga-para-cargo-de-professor-doutor",
+    "official_link": null,
+    "end_date": "2026-03-12",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 12/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-eca-anuncia-inscricoes-para-novos-concursos-publicos",
+    "official_link": null,
+    "end_date": "2026-03-09",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 09/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-veterinaria-e-zootecnia-anuncia-novos-concursos-publicos",
+    "official_link": null,
+    "end_date": "2026-03-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 13/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-de-enfermagem-anuncia-inscricoes-para-novo-concurso-publico",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 20/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-oito-concursos-publicos-para-niveis-tecnico-e-superior",
+    "official_link": null,
+    "end_date": "2026-03-06",
+    "vacancies": 8,
+    "salary_text": "R$ 11.334,47",
+    "salary_value": 11334.47,
+    "raw_text": "USP - Universidade de São Paulo SP 8 vagas até R$ 11.334,47 Vários Cargos Técnico / Superior 06/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-instituto-de-psicologia",
+    "official_link": null,
+    "end_date": "2026-04-02",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 02/04/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-salarios-de-16353-para-professor-doutor",
+    "official_link": null,
+    "end_date": "2026-05-11",
+    "vacancies": 3,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo SP 3 vagas até R$ 16.353,01 Professor Doutor Superior 11/05/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo - Escola Politécnica",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-abre-inscricoes-para-nove-concursos-publico",
+    "official_link": null,
+    "end_date": "2026-03-30",
+    "vacancies": 10,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo - Escola Politécnica SP 10 vagas até R$ 24.309,11 Vários Cargos Superior 30/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo - Instituto de Física",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-tres-concurso-publico-junto-ao-instituto-de-fisica",
+    "official_link": null,
+    "end_date": "2026-03-16",
+    "vacancies": 3,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo - Instituto de Física SP 3 vagas até R$ 16.353,01 Professores Doutores Superior 16/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo - Ribeirão Preto",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-novo-concurso-publico",
+    "official_link": null,
+    "end_date": "2026-03-11",
+    "vacancies": null,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01,
+    "raw_text": "USP - Universidade de São Paulo - Ribeirão Preto SP Vagas até R$ 16.353,01 Professor Doutor (Oncologia Clínica) Superior 11/03/2026",
+    "positions": []
+  },
+  {
+    "title": "USP - Universidade de São Paulo - São Carlos",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-titular-em-engenharia-civil",
+    "official_link": null,
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11,
+    "raw_text": "USP - Universidade de São Paulo - São Carlos SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/04/2026",
+    "positions": []
+  }
 ]
