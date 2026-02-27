@@ -1622,5 +1622,13 @@
     "vacancies": 1,
     "salary_text": "R$ 4.450,00",
     "salary_value": 4450.0
+  },
+  {
+    "title": "Prefeitura de Bernardino de Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bernardino-de-campos-sp-reabre-inscricoes-de-concurso-publico",
+    "end_date": "2026-03-04",
+    "vacancies": 25,
+    "salary_text": "R$ 5.971,74",
+    "salary_value": 5971.74
   }
 ]
