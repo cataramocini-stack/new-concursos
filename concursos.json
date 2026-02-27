@@ -1075,5 +1075,35 @@
     "vacancies": 1,
     "salary_text": "R$ 5.949,07",
     "salary_value": 5949.07
+  },
+  {
+    "title": "Câmara de Potim",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-potim-sp-abre-selecao-para-procurador-juridico-com-salario-de-7-7-mil",
+    "official_link": null,
+    "end_date": "2026-03-19",
+    "vacancies": 1,
+    "salary_text": "R$ 7.792,89",
+    "salary_value": 7792.89,
+    "raw_text": "Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026 Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026"
+  },
+  {
+    "title": "FSA - Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-analista-administrativo-academico",
+    "official_link": null,
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 2.109,91",
+    "salary_value": 2109.91,
+    "raw_text": "FSA - Fundação Santo André SP 1 vaga até R$ 2.109,91 Analista Administrativo-Acadêmico Superior 30/03/2026 FSA - Fundação Santo André SP 1 vaga até R$ 2.109,91 Analista Administrativo-Acadêmico Superior 30/03/2026"
+  },
+  {
+    "title": "Prefeitura de Presidente Bernardes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-bernardes-sp-abre-concurso-para-professores-de-diversas-areas",
+    "official_link": null,
+    "end_date": "2026-03-20",
+    "vacancies": 10,
+    "salary_text": "R$ 23,35",
+    "salary_value": 23.35,
+    "raw_text": "Prefeitura de Presidente Bernardes SP 10 vagas até R$ 23,35 por hora-aula Professor de Educação Básica II Superior 03 a 20/03/2026 Prefeitura de Presidente Bernardes SP 10 vagas até R$ 23,35 por hora-aula Professor de Educação Básica II Superior 03 a 20/03/2026"
   }
 ]
