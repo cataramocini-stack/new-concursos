@@ -80,44 +80,48 @@ def parse_date(text):
 
 def parse_salary(text):
     match = SALARY_PATTERN.search(text)
-    if not match: return None, None
+    if not match: return "Não definido", None
+    
     salary_text = match.group(0)
     normalized = salary_text.replace("R$", "").replace(".", "").replace(",", ".").strip()
-    try: return salary_text, float(normalized)
-    except: return salary_text, None
+    
+    try: 
+        val = float(normalized)
+        # Lógica: Se o valor for ridículo (menos de 500), é valor/hora. 
+        # Gambiarra necessária porque o site nem sempre especifica "/h" no texto.
+        if val < 500.00:
+            return f"{salary_text}/h", val
+        return salary_text, val
+    except: 
+        return "Não definido", None
 
 def parse_vacancies(text):
     match = VACANCY_PATTERN.search(text)
     return int(match.group(1)) if match else None
 
-# ================= EXTRAÇÃO DE CARGOS (REFATORADA) =================
+# ================= EXTRAÇÃO DE CARGOS =================
 
 def extract_positions(contest_url):
-    """Busca cargos com regex mais restritiva para evitar 'shitcode' no resultado"""
     try:
         time.sleep(random.uniform(1, 2))
         resp = SESSION.get(contest_url, timeout=30)
         soup = BeautifulSoup(resp.text, "html.parser")
         
-        # O segredo é focar na div central de conteúdo da PCI
         main_content = soup.find('div', id='concurso') or soup.find('div', class_='ca')
         text = main_content.get_text(" ", strip=True) if main_content else soup.get_text(" ", strip=True)
 
-        # Regex focada em capturar o que vem após 'Cargo:' ou 'Vagas para:' 
-        # ignorando blocos de 'Inscrições', 'Salário' e links.
         match = re.search(r"(?:Cargos?|Vagas? para):\s*(.+?)(?:\.|Inscri|Remunera|Salári|Edital|Taxa|Prova)", text, re.I | re.S)
         
         if not match: return []
 
         raw = match.group(1)
-        # Split por vírgula ou ponto e vírgula, limpando lixo e removendo strings curtas demais (ruído)
         cargos = [
             c.strip(" ,.;:-") 
             for c in re.split(r",|;|e\s\b|•|\n", raw) 
             if len(c.strip()) > 4 and "http" not in c.lower()
         ]
 
-        return list(dict.fromkeys(cargos))[:5] # Remove duplicatas mantendo ordem
+        return list(dict.fromkeys(cargos))[:5]
     except Exception as e:
         logger.warning(f"Erro extraindo cargos: {e}")
         return []
@@ -125,7 +129,6 @@ def extract_positions(contest_url):
 # ================= HELPERS =================
 
 def contest_id(item):
-    # ID único baseado no link, já que o título pode repetir
     return hashlib.md5(item["link"].encode()).hexdigest()
 
 def detect_bancas(text):
@@ -157,7 +160,6 @@ def extract_contests(html, base_url, filter_sp):
         title = anchor.get_text(" ", strip=True)
         text = container.get_text(" ", strip=True)
         
-        # Filtro geográfico básico
         if filter_sp and not re.search(r"\bSP\b|São Paulo", text, re.I):
             continue
 
@@ -185,7 +187,9 @@ def extract_contests(html, base_url, filter_sp):
 
 def send_discord(items):
     webhook = os.getenv("DISCORD_WEBHOOK")
-    if not webhook: return
+    if not webhook: 
+        logger.warning("DISCORD_WEBHOOK não configurada.")
+        return
 
     items.sort(key=lambda x: x.get("salary_value") or 0, reverse=True)
 
@@ -196,22 +200,21 @@ def send_discord(items):
             days_left = (end_date - date.today()).days
             bancas = detect_bancas(item["title"] + item["raw_text"])
             
-            # Melhora o título: Se tiver cargo, coloca no título para diferenciar as vagas da UNICAMP
-            main_pos = f" - {item['positions'][0]}" if item.get("positions") else ""
-            display_title = f"{item['title']}{main_pos}"
+            # Removido cargo do título conforme solicitado
+            display_title = item['title']
 
             summary = [
                 f"📅 {end_date:%d/%m/%Y} ({days_left}d)",
-                f"💰 {item.get('salary_text', 'Não informado')}",
+                f"💰 {item.get('salary_text')}", # Agora retorna "Não definido" ou "R$ .../h"
                 f"👥 {item.get('vacancies') or '?'} vaga(s)"
             ]
             if bancas: summary.append(f"🎯 {', '.join(bancas)}")
 
             fields = []
-            if item.get("positions") and len(item["positions"]) > 1:
+            if item.get("positions") and len(item["positions"]) > 0:
                 fields.append({
-                    "name": "🧾 Outros Cargos",
-                    "value": "\n".join(f"• {c}" for c in item["positions"][1:]),
+                    "name": "🧾 Cargos Identificados",
+                    "value": "\n".join(f"• {c}" for c in item["positions"]),
                     "inline": False,
                 })
 
@@ -228,7 +231,7 @@ def send_discord(items):
                 "description": " • ".join(summary),
                 "fields": fields,
                 "color": 0x2ECC71,
-                "footer": {"text": f"Ref: {contest_id(item)[:8]} | Atualizado: {datetime.now():%H:%M}"}
+                "footer": {"text": f"Ref: {contest_id(item)[:8]} | Atualizado: {datetime.now():%d/%m/%Y %H:%M}"}
             })
 
         try:
@@ -237,6 +240,25 @@ def send_discord(items):
             logger.error(f"Erro Discord: {e}")
 
 # ================= MAIN =================
+
+def fetch_page():
+    for url in URLS:
+        try:
+            time.sleep(2)
+            resp = SESSION.get(url, timeout=30)
+            if resp.status_code != 200: continue
+            
+            new_hash = hashlib.md5(resp.text.encode()).hexdigest()
+            if os.path.exists(HASH_FILE):
+                with open(HASH_FILE) as f:
+                    if f.read() == new_hash:
+                        logger.info(f"Sem alterações em {url}")
+                        return resp.url, None
+
+            with open(HASH_FILE, "w") as f: f.write(new_hash)
+            return resp.url, resp.text
+        except: continue
+    raise RuntimeError("PCI Offline ou Bloqueado")
 
 def main():
     existing = load_data()
@@ -267,25 +289,6 @@ def main():
         save_data(cleaned + new_items)
         send_discord(new_items)
         logger.info(f"Processados {len(new_items)} novos concursos.")
-
-def fetch_page():
-    for url in URLS:
-        try:
-            time.sleep(2)
-            resp = SESSION.get(url, timeout=30)
-            if resp.status_code != 200: continue
-            
-            new_hash = hashlib.md5(resp.text.encode()).hexdigest()
-            if os.path.exists(HASH_FILE):
-                with open(HASH_FILE) as f:
-                    if f.read() == new_hash:
-                        logger.info(f"Sem alterações em {url}")
-                        return resp.url, None
-
-            with open(HASH_FILE, "w") as f: f.write(new_hash)
-            return resp.url, resp.text
-        except: continue
-    raise RuntimeError("PCI Offline ou Bloqueado")
 
 if __name__ == "__main__":
     main()
