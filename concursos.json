@@ -103,14 +103,6 @@
     "salary_value": 2551.6
   },
   {
-    "title": "HES - Hospital Estadual Sumaré",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-eletricista",
-    "end_date": "2026-02-26",
-    "vacancies": 1,
-    "salary_text": "R$ 2.882,99",
-    "salary_value": 2882.99
-  },
-  {
     "title": "IMA - Informática de Municípios Associados S.A.",
     "link": "https://www.pciconcursos.com.br/noticias/ima-sp-abre-oito-vagas-em-novo-concurso-publico",
     "end_date": "2026-03-01",
@@ -135,14 +127,6 @@
     "salary_value": 7860.07
   },
   {
-    "title": "Prefeitura de Batatais",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-batatais-sp-retifica-concurso-publico-com-21-vagas",
-    "end_date": "2026-02-26",
-    "vacancies": 21,
-    "salary_text": "R$ 8.975,41",
-    "salary_value": 8975.41
-  },
-  {
     "title": "Prefeitura de Clementina",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clementina-sp-abre-concurso-publico-com-salarios-de-ate-16-6-mil",
     "end_date": "2026-03-11",
@@ -159,27 +143,12 @@
     "salary_value": 15782.22
   },
   {
-    "title": "Prefeitura de Jacareí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-concursos-com-salarios-de-ate-10-9-mil",
-    "end_date": "2026-02-26",
-    "vacancies": 32,
-    "salary_text": "R$ 10.986,31",
-    "salary_value": 10986.31
-  },
-  {
     "title": "Prefeitura de Sagres",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sagres-sp-abre-concurso-publico-com-salarios-de-ate-14574",
     "end_date": "2026-03-13",
     "vacancies": 3,
     "salary_text": "R$ 14.574,65",
     "salary_value": 14574.65
-  },
-  {
-    "title": "Prefeitura de Santa Cruz do Rio Pardo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-rio-pardo-sp-abre-processo-seletivo-para-educacao-e-assistencia-social",
-    "end_date": "2026-02-26",
-    "salary_text": "R$ 4.588,50",
-    "salary_value": 4588.5
   },
   {
     "title": "Prefeitura de Santana de Parnaíba",
@@ -268,14 +237,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-historia-no-campus-de-assis-sp",
-    "end_date": "2026-02-26",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-titular-no-campus-de-franca-sp",
     "end_date": "2026-04-06",
     "vacancies": 1,
@@ -310,14 +271,6 @@
     "title": "UNIFESP - Universidade Federal de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/processo-seletivo-aberto-para-professor-de-filosofia-na-unifesp",
     "end_date": "2026-02-27",
-    "vacancies": 1,
-    "salary_text": "R$ 8.058,29",
-    "salary_value": 8058.29
-  },
-  {
-    "title": "UNIFESP - Universidade Federal de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-vaga-para-professor-substituto-de-engenharia-quimica-na-baixada-santista",
-    "end_date": "2026-02-26",
     "vacancies": 1,
     "salary_text": "R$ 8.058,29",
     "salary_value": 8058.29
