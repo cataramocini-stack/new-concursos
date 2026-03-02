@@ -1503,5 +1503,28 @@
     "vacancies": 2,
     "salary_text": "R$ 4.862,12",
     "salary_value": 4862.12
+  },
+  {
+    "title": "CISMETRO - Consórcio Intermunicipal de Saúde da Região Metropolitana de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/cismetro-holambra-sp-retifica-selecao-com-salarios-de-ate-10-mil",
+    "end_date": "2026-03-15",
+    "vacancies": 936,
+    "salary_text": "R$ 10.758,30",
+    "salary_value": 10758.3
+  },
+  {
+    "title": "Prefeitura de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-prorroga-inscricoes-de-processo-seletivo-para-medicos",
+    "end_date": "2026-03-02",
+    "salary_text": "R$ 14.493,23",
+    "salary_value": 14493.23
+  },
+  {
+    "title": "USP - Faculdade de Educação da Universidade de São Paulo (FEUSP)",
+    "link": "https://www.pciconcursos.com.br/noticias/feusp-sp-abre-processo-seletivo-para-professor-na-area-de-psicologia-e-psicanalise",
+    "end_date": "2026-03-11",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
   }
 ]
