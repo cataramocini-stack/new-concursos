@@ -1487,5 +1487,13 @@
     "vacancies": 25,
     "salary_text": "R$ 5.971,74",
     "salary_value": 5971.74
+  },
+  {
+    "title": "Câmara de Duartina",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-duartina-sp-abre-concurso-publico-com-salarios-de-ate-5500",
+    "end_date": "2026-04-09",
+    "vacancies": 5,
+    "salary_text": "R$ 5.500,00",
+    "salary_value": 5500.0
   }
 ]
