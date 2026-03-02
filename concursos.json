@@ -1495,5 +1495,13 @@
     "vacancies": 5,
     "salary_text": "R$ 5.500,00",
     "salary_value": 5500.0
+  },
+  {
+    "title": "Prefeitura de Mogi Mirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-para-arquivista",
+    "end_date": "2026-03-26",
+    "vacancies": 2,
+    "salary_text": "R$ 4.862,12",
+    "salary_value": 4862.12
   }
 ]
