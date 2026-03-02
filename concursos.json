@@ -1526,5 +1526,37 @@
     "vacancies": 1,
     "salary_text": "R$ 2.834,62",
     "salary_value": 2834.62
+  },
+  {
+    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-concurso-para-professor-assistente-com-salario-de-16-3-mil",
+    "end_date": "2026-04-08",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-na-faculdade-de-zootecnia-e-engenharia-de-alimentos",
+    "end_date": "2026-04-13",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-com-salario-de-16-3-mil",
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-no-departamento-de-microbiologia",
+    "end_date": "2026-04-30",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
