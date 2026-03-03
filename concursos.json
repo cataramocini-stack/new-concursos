@@ -1518,5 +1518,20 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
+  },
+  {
+    "title": "CRIS - Consórcio Regional Intermunicipal de Saúde - Herculândia",
+    "link": "https://www.pciconcursos.com.br/noticias/cris-sp-consorcio-abre-concurso-publico-para-cargos-de-niveis-medio-e-tecnico-em-herculandia",
+    "end_date": "2026-03-11",
+    "vacancies": 2,
+    "salary_text": "R$ 3.022,72",
+    "salary_value": 3022.72
+  },
+  {
+    "title": "Prefeitura de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-prorroga-inscricoes-de-processo-seletivo-para-medicos",
+    "end_date": "2026-03-16",
+    "salary_text": "R$ 14.493,23",
+    "salary_value": 14493.23
   }
 ]
