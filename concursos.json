@@ -1533,5 +1533,13 @@
     "end_date": "2026-03-16",
     "salary_text": "R$ 14.493,23",
     "salary_value": 14493.23
+  },
+  {
+    "title": "Prefeitura de Conchas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchas-sp-abre-processo-seletivo-com-vagas-para-professores",
+    "end_date": "2026-03-12",
+    "vacancies": 17,
+    "salary_text": "R$ 26,62",
+    "salary_value": 26.62
   }
 ]
