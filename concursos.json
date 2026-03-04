@@ -1564,5 +1564,36 @@
     "vacancies": 2,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diversos-cargos-em-bauru-e-botucatu",
+    "end_date": "2026-03-18",
+    "vacancies": 31,
+    "salary_text": "R$ 6.069,79",
+    "salary_value": 6069.79
+  },
+  {
+    "title": "Prefeitura de Porto Feliz",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-processo-seletivo-com-salarios-de-ate-8-4-mil",
+    "end_date": "2026-04-07",
+    "salary_text": "R$ 8.467,39",
+    "salary_value": 8467.39
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-assistente-tecnico-administrativo-i-em-sao-jose-do-rio-preto",
+    "end_date": "2026-04-02",
+    "vacancies": 1,
+    "salary_text": "R$ 10.247,69",
+    "salary_value": 10247.69
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-na-area-de-saude-reprodutiva-e-sexualidade",
+    "end_date": "2026-04-02",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27
   }
 ]
