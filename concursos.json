@@ -1508,5 +1508,61 @@
     "vacancies": 17,
     "salary_text": "R$ 26,62",
     "salary_value": 26.62
+  },
+  {
+    "title": "Centro Universitário de Adamantina",
+    "link": "https://www.pciconcursos.com.br/noticias/centro-universitario-de-adamantina-sp-abre-processo-seletivo-com-salarios-de-ate-4-3-mil",
+    "end_date": "2026-03-25",
+    "vacancies": 6,
+    "salary_text": "R$ 4.300,48",
+    "salary_value": 4300.48
+  },
+  {
+    "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-vagas-para-professor-doutor-na-escola-de-engenharia-de-sao-carlos",
+    "end_date": "2026-05-07",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-anuncia-concurso-publico-para-professor-doutor-em-telecomunicacoes",
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura de Campos Novos Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-paulista-sp-abre-concurso-com-salarios-de-ate-9-2-mil",
+    "end_date": "2026-04-02",
+    "vacancies": 14,
+    "salary_text": "R$ 9.238,95",
+    "salary_value": 9238.95
+  },
+  {
+    "title": "Prefeitura de São Joaquim da Barra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-da-barra-sp-abre-concurso-com-34-vagas-e-cadastro-de-reserva",
+    "end_date": "2026-03-23",
+    "vacancies": 34,
+    "salary_text": "R$ 10.171,75",
+    "salary_value": 10171.75
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-professor-doutor-na-faculdade-de-tecnologia",
+    "end_date": "2026-04-07",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-cargos-de-professor-doutor-em-engenharia-agricola",
+    "end_date": "2026-04-07",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
