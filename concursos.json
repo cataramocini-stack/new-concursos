@@ -1521,5 +1521,45 @@
     "vacancies": 1,
     "salary_text": "R$ 13.957,27",
     "salary_value": 13957.27
+  },
+  {
+    "title": "Câmara de Altinópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-altinopolis-sp-abre-concurso-com-salarios-de-ate-6-9-mil",
+    "end_date": "2026-03-24",
+    "vacancies": 4,
+    "salary_text": "R$ 6.958,13",
+    "salary_value": 6958.13
+  },
+  {
+    "title": "FERSB - Fundação Estatal Regional de Saúde da Região de Bauru",
+    "link": "https://www.pciconcursos.com.br/noticias/fersb-sp-abre-processo-seletivo-com-salarios-de-ate-4-1-mil",
+    "end_date": "2026-04-05",
+    "vacancies": 5,
+    "salary_text": "R$ 4.190,24",
+    "salary_value": 4190.24
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-otorrinolaringologista-plantonista",
+    "end_date": "2026-03-20",
+    "vacancies": 1,
+    "salary_text": "R$ 272,03",
+    "salary_value": 272.03
+  },
+  {
+    "title": "Prefeitura de Guzolândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guzolandia-sp-abre-concurso-publico-com-salarios-de-ate-15-mil",
+    "end_date": "2026-04-03",
+    "vacancies": 14,
+    "salary_text": "R$ 15.151,96",
+    "salary_value": 15151.96
+  },
+  {
+    "title": "Prefeitura de Tatuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tatui-sp-abre-processo-seletivo-para-medico-psiquiatra-infantil",
+    "end_date": "2026-03-10",
+    "vacancies": 1,
+    "salary_text": "R$ 159,02",
+    "salary_value": 159.02
   }
 ]
