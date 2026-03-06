@@ -1504,5 +1504,21 @@
     "end_date": "2026-04-08",
     "salary_text": "R$ 6.046,84",
     "salary_value": 6046.84
+  },
+  {
+    "title": "Prefeitura de Analândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-analandia-sp-abre-concurso-publico-com-salarios-de-ate-5-2-mil",
+    "end_date": "2026-04-02",
+    "vacancies": 9,
+    "salary_text": "R$ 5.252,31",
+    "salary_value": 5252.31
+  },
+  {
+    "title": "Prefeitura de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-para-diversos-cargos",
+    "end_date": "2026-04-05",
+    "vacancies": 48,
+    "salary_text": "R$ 5.413,51",
+    "salary_value": 5413.51
   }
 ]
