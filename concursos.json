@@ -11,23 +11,6 @@
     "positions": []
   },
   {
-    "title": "FPS - Fundação Pró-Sangue Hemocentro de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-pro-sangue-hemocentro-de-sao-paulo-abre-cinco-vagas-em-concurso-publico",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 5,
-    "salary_text": "R$ 4.568,66",
-    "salary_value": 4568.66,
-    "raw_text": "FPS - Fundação Pró-Sangue Hemocentro de São Paulo SP 5 vagas até R$ 4.568,66 Vários Cargos Técnico / Superior 05/03/2026",
-    "positions": [
-      "Técnico d",
-      "Segurança do Trabalho (1 vaga) Biologista (1 vaga) Enfermeiro (1 vaga) Médico (1 vaga) Médico do Trabalho (1 vaga) Para participar",
-      "é necessário qu",
-      "o candidato comprov",
-      "o nível d"
-    ]
-  },
-  {
     "title": "Prefeitura da Estância Turística de Salto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-abre-concurso-com-salarios-de-ate-10693",
     "official_link": null,
@@ -47,17 +30,6 @@
     "salary_text": "R$ 7.860,07",
     "salary_value": 7860.07,
     "raw_text": "Prefeitura da Estância Turística de São Roque SP 14 vagas até R$ 7.860,07 Vários Cargos Fundamental / Médio / Superior 09/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de Jarinu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jarinu-sp-promove-concurso-publico-para-guarda-municipal",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 17,
-    "salary_text": "R$ 4.057,00",
-    "salary_value": 4057.0,
-    "raw_text": "Prefeitura de Jarinu SP 17 vagas até R$ 4.057,00 Guarda Municipal Ensino Médio 05/03/2026",
     "positions": []
   },
   {
@@ -336,17 +308,6 @@
     "positions": []
   },
   {
-    "title": "Prefeitura de Ituverava",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ituverava-sp-abre-processo-seletivo-com-vagas-para-diversas-areas-e-salarios-de-ate-5-4-mil",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 29,
-    "salary_text": "R$ 5.495,96",
-    "salary_value": 5495.96,
-    "raw_text": "Prefeitura de Ituverava SP 29 vagas até R$ 5.495,96 Vários Cargos Médio / Superior 05/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura de Jambeiro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jambeiro-sp-abre-processo-seletivo-para-diversos-cargos-e-formacao-de-cadastro-reserva",
     "official_link": null,
@@ -424,28 +385,6 @@
     "positions": []
   },
   {
-    "title": "Prefeitura de Panorama",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panorama-sp-abre-selecao-para-tecnico-em-radiologia",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 3,
-    "salary_text": "R$ 1.930,01",
-    "salary_value": 1930.01,
-    "raw_text": "Prefeitura de Panorama SP 3 vagas até R$ 1.930,01 Técnico em Radiologia (RX) Médio / Técnico 05/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de Populina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-populina-sp-abre-concurso-publico-com-salarios-de-ate-4618",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 4,
-    "salary_text": "R$ 4.618,21",
-    "salary_value": 4618.21,
-    "raw_text": "Prefeitura de Populina SP 4 vagas até R$ 4.618,21 Vários Cargos Médio / Superior 05/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura de Presidente Bernardes",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-bernardes-sp-abre-concurso-para-professores-de-diversas-areas",
     "official_link": null,
@@ -487,17 +426,6 @@
     "salary_text": "R$ 7.078,72",
     "salary_value": 7078.72,
     "raw_text": "Prefeitura de São José da Bela Vista SP Cadastro Reserva até R$ 7.078,72 Vários Cargos Médio / Técnico / Superior 12/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de São Vicente",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-sp-abre-novo-concurso-publico-com-28-vagas",
-    "official_link": null,
-    "end_date": "2026-03-05",
-    "vacancies": 28,
-    "salary_text": "R$ 8.746,73",
-    "salary_value": 8746.73,
-    "raw_text": "Prefeitura de São Vicente SP 28 vagas até R$ 8.746,73 Vários Cargos Fundamental / Médio / Técnico / Superior 05/03/2026",
     "positions": []
   },
   {
@@ -1561,5 +1489,20 @@
     "vacancies": 1,
     "salary_text": "R$ 159,02",
     "salary_value": 159.02
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-administracao-hospitalar",
+    "end_date": "2026-03-20",
+    "vacancies": 1,
+    "salary_text": "R$ 3.254,51",
+    "salary_value": 3254.51
+  },
+  {
+    "title": "Prefeitura de São João da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-boa-vista-sp-abre-concurso-para-analista-de-procuradoria-e-contador",
+    "end_date": "2026-04-08",
+    "salary_text": "R$ 6.046,84",
+    "salary_value": 6046.84
   }
 ]
