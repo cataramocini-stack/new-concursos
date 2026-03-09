@@ -1464,5 +1464,36 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura de Bilac",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-abre-concurso-publico-com-salarios-de-ate-8-3-mil",
+    "end_date": "2026-03-25",
+    "salary_text": "R$ 8.303,24",
+    "salary_value": 8303.24
+  },
+  {
+    "title": "Prefeitura de Indaiatuba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaiatuba-sp-abre-concurso-com-50-vagas-para-professores",
+    "end_date": "2026-04-28",
+    "vacancies": 50,
+    "salary_text": "R$ 5.998,65",
+    "salary_value": 5998.65
+  },
+  {
+    "title": "Prefeitura de Piratininga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-vaga-em-processo-seletivo-para-medico-de-saude-da-familia",
+    "end_date": "2026-03-13",
+    "vacancies": 1,
+    "salary_text": "R$ 9.005,10",
+    "salary_value": 9005.1
+  },
+  {
+    "title": "Prefeitura de Serra Negra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-abre-processo-seletivo-com-5-vagas-para-merendeira",
+    "end_date": "2026-03-20",
+    "vacancies": 5,
+    "salary_text": "R$ 1.596,42",
+    "salary_value": 1596.42
   }
 ]
