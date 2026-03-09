@@ -1495,5 +1495,29 @@
     "vacancies": 5,
     "salary_text": "R$ 1.596,42",
     "salary_value": 1596.42
+  },
+  {
+    "title": "DAEP - Autarquia Municipal de Saneamento Ambiental",
+    "link": "https://www.pciconcursos.com.br/noticias/daep-de-penapolis-sp-abre-concurso-publico-com-salarios-de-ate-3-9-mil",
+    "end_date": "2026-03-22",
+    "vacancies": 3,
+    "salary_text": "R$ 3.955,18",
+    "salary_value": 3955.18
+  },
+  {
+    "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
+    "link": "https://www.pciconcursos.com.br/noticias/ebserh-sp-abre-processo-seletivo-para-medicos-no-hospital-universitario-da-ufscar",
+    "end_date": "2026-03-19",
+    "vacancies": 5,
+    "salary_text": "R$ 11.464,58",
+    "salary_value": 11464.58
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-assistente-na-area-de-musica",
+    "end_date": "2026-04-16",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
