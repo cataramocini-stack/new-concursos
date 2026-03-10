@@ -1419,5 +1419,20 @@
     "title": "Prefeitura de Taquaritinga",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquaritinga-sp-abre-selecao-para-cuidador-de-crianca-e-agente-de-apoio-escolar",
     "end_date": "2026-03-22"
+  },
+  {
+    "title": "Prefeitura de Mombuca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-para-agente-comunitario-de-saude-e-guarda-civil-municipal",
+    "end_date": "2026-04-10",
+    "salary_text": "R$ 3.036,00",
+    "salary_value": 3036.0
+  },
+  {
+    "title": "Prefeitura de Sarapuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-concurso-publico-e-processo-seletivo-para-cargos-de-nivel-medio",
+    "end_date": "2026-04-10",
+    "vacancies": 5,
+    "salary_text": "R$ 3.036,00",
+    "salary_value": 3036.0
   }
 ]
