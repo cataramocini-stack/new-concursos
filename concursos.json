@@ -1406,5 +1406,18 @@
     "vacancies": 34,
     "salary_text": "R$ 10.171,75",
     "salary_value": 10171.75
+  },
+  {
+    "title": "FSA - Centro Universitário Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-desenvolvedor-de-software",
+    "end_date": "2026-04-09",
+    "vacancies": 1,
+    "salary_text": "R$ 3.576,20",
+    "salary_value": 3576.2
+  },
+  {
+    "title": "Prefeitura de Taquaritinga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquaritinga-sp-abre-selecao-para-cuidador-de-crianca-e-agente-de-apoio-escolar",
+    "end_date": "2026-03-22"
   }
 ]
