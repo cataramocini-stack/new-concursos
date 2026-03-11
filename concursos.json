@@ -1338,5 +1338,20 @@
     "vacancies": 5,
     "salary_text": "R$ 3.036,00",
     "salary_value": 3036.0
+  },
+  {
+    "title": "DAE - Departamento de Água e Esgoto de Bauru",
+    "link": "https://www.pciconcursos.com.br/noticias/dae-de-bauru-sp-abre-concurso-publico-para-cargo-de-motorista",
+    "end_date": "2026-04-10",
+    "vacancies": 2,
+    "salary_text": "R$ 1.994,61",
+    "salary_value": 1994.61
+  },
+  {
+    "title": "Prefeitura de Santa Cruz das Palmeiras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-das-palmeiras-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-03-20",
+    "salary_text": "R$ 26,55",
+    "salary_value": 26.55
   }
 ]
