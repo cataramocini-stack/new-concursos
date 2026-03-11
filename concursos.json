@@ -1353,5 +1353,61 @@
     "end_date": "2026-03-20",
     "salary_text": "R$ 26,55",
     "salary_value": 26.55
+  },
+  {
+    "title": "FHSL - Fundação Hospital Santa Lydia",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4-2-mil",
+    "end_date": "2026-03-23",
+    "vacancies": 12,
+    "salary_text": "R$ 4.241,38",
+    "salary_value": 4241.38
+  },
+  {
+    "title": "PM/SP - Polícia Militar do Estado de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-concurso-com-36-vagas-para-medicos-em-diversas-especialidades",
+    "end_date": "2026-05-07",
+    "vacancies": 36,
+    "salary_text": "R$ 9.832,41",
+    "salary_value": 9832.41
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Ilha Solteira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilha-solteira-sp-abre-concurso-publico-com-salarios-de-ate-9-9-mil",
+    "end_date": "2026-04-09",
+    "vacancies": 18,
+    "salary_text": "R$ 9.967,55",
+    "salary_value": 9967.55
+  },
+  {
+    "title": "Prefeitura de Santo Antônio do Pinhal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-pinhal-sp-abre-concurso-com-salarios-de-ate-6-2-mil",
+    "end_date": "2026-04-10",
+    "vacancies": 8,
+    "salary_text": "R$ 6.255,61",
+    "salary_value": 6255.61
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-para-professor-substituto-no-campus-de-presidente-prudente",
+    "end_date": "2026-03-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-docente-de-geografia-no-campus-de-jaboticabal",
+    "end_date": "2026-03-19",
+    "vacancies": 1,
+    "salary_text": "R$ 32,92",
+    "salary_value": 32.92
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vagas-para-o-cargo-de-professor-doutor-no-instituto-de-artes",
+    "end_date": "2026-05-14",
+    "vacancies": 3,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
