@@ -1305,5 +1305,29 @@
     "vacancies": 3,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "Prefeitura de Fernão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fernao-sp-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-6-7-mil",
+    "end_date": "2026-03-26",
+    "vacancies": 23,
+    "salary_text": "R$ 6.734,86",
+    "salary_value": 6734.86
+  },
+  {
+    "title": "Prefeitura de Nipoã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nipoa-sp-abre-concurso-publico-com-14-vagas-e-salarios-de-ate-5-7-mil",
+    "end_date": "2026-03-21",
+    "vacancies": 14,
+    "salary_text": "R$ 5.746,30",
+    "salary_value": 5746.3
+  },
+  {
+    "title": "Prefeitura do Município de Cajati",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajati-sp-abre-vaga-para-coordenador-do-nucleo-de-gestao-do-trabalho-e-educacao-permanente",
+    "end_date": "2026-03-24",
+    "vacancies": 1,
+    "salary_text": "R$ 6.447,84",
+    "salary_value": 6447.84
   }
 ]
