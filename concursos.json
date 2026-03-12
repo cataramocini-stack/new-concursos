@@ -55,17 +55,6 @@
     "positions": []
   },
   {
-    "title": "Câmara de Pardinho",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pardinho-sp-anuncia-concurso-publico-com-quatro-vagas-e-salarios-de-ate-5-4-mil",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 4,
-    "salary_text": "R$ 5.414,04",
-    "salary_value": 5414.04,
-    "raw_text": "Câmara de Pardinho SP 4 vagas até R$ 5.414,04 Vários Cargos Fundamental / Superior 11/03/2026",
-    "positions": []
-  },
-  {
     "title": "Câmara de Potim",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-potim-sp-abre-selecao-para-procurador-juridico-com-salario-de-7-7-mil",
     "official_link": null,
@@ -162,17 +151,6 @@
     "salary_text": "R$ 4.370,56",
     "salary_value": 4370.56,
     "raw_text": "Prefeitura de Carapicuíba SP 12 vagas até R$ 4.370,56 Vários Cargos Fundamental / Médio / Técnico / Superior 20/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de Clementina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clementina-sp-abre-concurso-publico-com-salarios-de-ate-16-6-mil",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 11,
-    "salary_text": "R$ 16.698,30",
-    "salary_value": 16698.3,
-    "raw_text": "Prefeitura de Clementina SP 11 vagas até R$ 16.698,30 Vários Cargos Fundamental / Médio / Superior 11/03/2026",
     "positions": []
   },
   {
@@ -286,17 +264,6 @@
     "positions": []
   },
   {
-    "title": "Prefeitura de Sertãozinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-processo-seletivo-para-educador-social",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": null,
-    "salary_text": "R$ 2.207,92",
-    "salary_value": 2207.92,
-    "raw_text": "Prefeitura de Sertãozinho SP Cadastro reserva até R$ 2.207,92 Educador Social Ensino Médio 11/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura de Sorocaba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
     "official_link": null,
@@ -371,17 +338,6 @@
     "salary_text": "R$ 3.098,00",
     "salary_value": 3098.0,
     "raw_text": "SEDUC - Secretaria Municipal de Educação de Guarujá SP 37 vagas até R$ 3.098,00 Inspetor de Alunos, Professor de Educação Básica III Fundamental / Superior 19/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNESP - Araraquara",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-substituto-em-araraquara-sp",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43,
-    "raw_text": "UNESP - Araraquara SP 1 vaga até R$ 3.379,43 Professor Substituto Superior 11/03/2026",
     "positions": []
   },
   {
@@ -512,17 +468,6 @@
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-limeira",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": null,
-    "salary_value": null,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 11/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-docente-no-departamento-de-ciencias-da-natureza-e-matematica-do-colegio-tecnico-de-limeira",
     "official_link": null,
     "end_date": "2026-03-24",
@@ -530,17 +475,6 @@
     "salary_text": null,
     "salary_value": null,
     "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 24/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-docente-de-matematica-no-colegio-tecnico-de-limeira",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": null,
-    "salary_value": null,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 11/03/2026",
     "positions": []
   },
   {
@@ -743,17 +677,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-para-professor-doutor-de-quimica-inorganica",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor - Química Inorgânica Superior 11/03/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-divulga-concurso-publico-para-professor-doutor-em-patologia",
     "official_link": null,
     "end_date": "2026-03-16",
@@ -951,17 +874,6 @@
     "positions": []
   },
   {
-    "title": "USP - Universidade de São Paulo - Ribeirão Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-novo-concurso-publico",
-    "official_link": null,
-    "end_date": "2026-03-11",
-    "vacancies": null,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo - Ribeirão Preto SP Vagas até R$ 16.353,01 Professor Doutor (Oncologia Clínica) Superior 11/03/2026",
-    "positions": []
-  },
-  {
     "title": "USP - Universidade de São Paulo - São Carlos",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-titular-em-engenharia-civil",
     "official_link": null,
@@ -1004,14 +916,6 @@
     "salary_value": 10758.3
   },
   {
-    "title": "USP - Faculdade de Educação da Universidade de São Paulo (FEUSP)",
-    "link": "https://www.pciconcursos.com.br/noticias/feusp-sp-abre-processo-seletivo-para-professor-na-area-de-psicologia-e-psicanalise",
-    "end_date": "2026-03-11",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
-  },
-  {
     "title": "UNESP - Faculdade de Ciências e Letras de Assis",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-concurso-para-professor-assistente-com-salario-de-16-3-mil",
     "end_date": "2026-04-08",
@@ -1042,14 +946,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "CRIS - Consórcio Regional Intermunicipal de Saúde - Herculândia",
-    "link": "https://www.pciconcursos.com.br/noticias/cris-sp-consorcio-abre-concurso-publico-para-cargos-de-niveis-medio-e-tecnico-em-herculandia",
-    "end_date": "2026-03-11",
-    "vacancies": 2,
-    "salary_text": "R$ 3.022,72",
-    "salary_value": 3022.72
   },
   {
     "title": "Prefeitura de Santana de Parnaíba",
