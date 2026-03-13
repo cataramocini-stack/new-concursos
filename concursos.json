@@ -1335,5 +1335,93 @@
     "vacancies": 8,
     "salary_text": "R$ 6.255,61",
     "salary_value": 6255.61
+  },
+  {
+    "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-abre-concurso-publico-para-professor-doutor-no-departamento-de-engenharia-de-transportes",
+    "end_date": "2026-06-10",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "EEUSP - Escola de Enfermagem da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/escola-de-enfermagem-da-usp-abre-processo-seletivo-para-professor-contratado-na-area-de-enfermagem",
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,00",
+    "salary_value": 2834.0
+  },
+  {
+    "title": "FCAV - Faculdade de Ciências Agrárias e Veterinárias da Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/fcav-unesp-sp-abre-concurso-publico-para-docente-de-ensino-medio-e-tecnico",
+    "end_date": "2026-03-19",
+    "vacancies": 1,
+    "salary_text": "R$ 32,93",
+    "salary_value": 32.93
+  },
+  {
+    "title": "FUNSERV - Fundação da Seguridade Social dos Servidores Públicos Municipais de Sorocaba",
+    "link": "https://www.pciconcursos.com.br/noticias/funserv-de-sorocaba-sp-abre-concurso-publico-com-salarios-de-5-4-mil",
+    "end_date": "2026-04-22",
+    "vacancies": 10,
+    "salary_text": "R$ 5.476,40",
+    "salary_value": 5476.4
+  },
+  {
+    "title": "Prefeitura de Pereiras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pereiras-sp-abre-processo-seletivo-para-medico-veterinario",
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 4.851,24",
+    "salary_value": 4851.24
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-educacao-fisica-no-campus-de-rio-claro",
+    "end_date": "2026-03-31",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-assistente-operacional-ii-no-campus-de-tupa",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 4.258,11",
+    "salary_value": 4258.11
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-sorocaba-sp-abre-concurso-com-salario-de-6-2-mil-para-assistente-de-suporte-academico",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 6.291,18",
+    "salary_value": 6291.18
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-botucatu-sp-abre-concursos-com-salarios-de-ate-10-2-mil",
+    "end_date": "2026-04-27",
+    "vacancies": 4,
+    "salary_text": "R$ 10.247,69",
+    "salary_value": 10247.69
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-para-professor-substituto-de-quimica-em-botucatu",
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-publica-edital-de-concurso-publico-com-salarios-de-ate-12-4-mil",
+    "end_date": "2026-04-27",
+    "vacancies": 3,
+    "salary_text": "R$ 12.456,12",
+    "salary_value": 12456.12
   }
 ]
