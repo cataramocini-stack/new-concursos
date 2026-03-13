@@ -1,16 +1,5 @@
 [
   {
-    "title": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico",
-    "official_link": null,
-    "end_date": "2026-03-12",
-    "vacancies": 95,
-    "salary_text": "R$ 10.868,02",
-    "salary_value": 10868.02,
-    "raw_text": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André SP 95 vagas até R$ 10.868,02 Vários Cargos Fundamental / Médio / Técnico / Superior 12/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura da Estância Turística de Salto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-abre-concurso-com-salarios-de-ate-10693",
     "official_link": null,
@@ -250,17 +239,6 @@
     "salary_text": "R$ 14.574,65",
     "salary_value": 14574.65,
     "raw_text": "Prefeitura de Sagres SP 3 vagas + CR até R$ 14.574,65 Vários Cargos Fundamental / Médio / Superior 13/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de São José da Bela Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-para-cadastro-reserva-em-diversas-areas",
-    "official_link": null,
-    "end_date": "2026-03-12",
-    "vacancies": null,
-    "salary_text": "R$ 7.078,72",
-    "salary_value": 7078.72,
-    "raw_text": "Prefeitura de São José da Bela Vista SP Cadastro Reserva até R$ 7.078,72 Vários Cargos Médio / Técnico / Superior 12/03/2026",
     "positions": []
   },
   {
@@ -798,17 +776,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-concurso-publico-uma-vaga-para-cargo-de-professor-doutor",
-    "official_link": null,
-    "end_date": "2026-03-12",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 12/03/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-veterinaria-e-zootecnia-anuncia-novos-concursos-publicos",
     "official_link": null,
     "end_date": "2026-03-13",
@@ -953,14 +920,6 @@
     "end_date": "2026-03-16",
     "salary_text": "R$ 14.493,23",
     "salary_value": 14493.23
-  },
-  {
-    "title": "Prefeitura de Conchas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchas-sp-abre-processo-seletivo-com-vagas-para-professores",
-    "end_date": "2026-03-12",
-    "vacancies": 17,
-    "salary_text": "R$ 26,62",
-    "salary_value": 26.62
   },
   {
     "title": "Centro Universitário de Adamantina",
@@ -1337,5 +1296,28 @@
     "vacancies": 1,
     "salary_text": "R$ 3.154,45",
     "salary_value": 3154.45
+  },
+  {
+    "title": "CODESAN - Companhia de Desenvolvimento Santacruzense",
+    "link": "https://www.pciconcursos.com.br/noticias/codesan-sp-abre-processo-seletivo-para-cargos-de-nivel-fundamental",
+    "end_date": "2026-03-22",
+    "salary_text": "R$ 2.670,20",
+    "salary_value": 2670.2
+  },
+  {
+    "title": "Consórcio Intermunicipal Três Rios",
+    "link": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-tres-rios-sp-abre-selecoes-com-vagas-em-monteiro-lobato-e-natividade-da-serra",
+    "end_date": "2026-03-27",
+    "vacancies": 25,
+    "salary_text": "R$ 3.268,29",
+    "salary_value": 3268.29
+  },
+  {
+    "title": "PRODESAN - Progresso e Desenvolvimento de Santos",
+    "link": "https://www.pciconcursos.com.br/noticias/prodesan-sp-abre-20-vagas-em-processo-seletivo-para-auxiliar-de-limpeza",
+    "end_date": "2026-04-09",
+    "vacancies": 20,
+    "salary_text": "R$ 1.634,32",
+    "salary_value": 1634.32
   }
 ]
