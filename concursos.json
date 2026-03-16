@@ -1358,5 +1358,85 @@
     "end_date": "2026-04-16",
     "salary_text": "R$ 2.260,41",
     "salary_value": 2260.41
+  },
+  {
+    "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-concurso-publico-para-professor-doutor-no-departamento-de-oftalmologia-e-otorrinolaringologia",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-vaga-para-professor-doutor-na-area-de-psiquiatria-geral",
+    "end_date": "2026-05-07",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-departamento-de-patologia",
+    "end_date": "2026-05-08",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Tremembé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tremembe-sp-abre-concurso-publico-com-salarios-de-ate-8-9-mil",
+    "end_date": "2026-04-15",
+    "vacancies": 256,
+    "salary_text": "R$ 8.921,67",
+    "salary_value": 8921.67
+  },
+  {
+    "title": "Prefeitura de Urupês",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urupes-sp-abre-vagas-em-processo-seletivo-para-agentes-de-saude-e-endemias",
+    "end_date": "2026-03-30",
+    "vacancies": 2,
+    "salary_text": "R$ 3.143,68",
+    "salary_value": 3143.68
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-com-salarios-de-ate-10-2-mil-no-campus-de-bauru",
+    "end_date": "2026-04-27",
+    "vacancies": 3,
+    "salary_text": "R$ 10.247,69",
+    "salary_value": 10247.69
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-substituto-na-area-de-cirurgia-em-botucatu",
+    "end_date": "2026-04-02",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-vaga-em-concurso-publico-para-professor-doutor-na-faculdade-de-medicina",
+    "end_date": "2026-05-07",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-para-professor-doutor-de-patologia-clinica-na-faculdade-de-medicina",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processo-seletivo-para-professor-no-departamento-de-medicina-veterinaria",
+    "end_date": "2026-03-27",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
   }
 ]
