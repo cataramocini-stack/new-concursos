@@ -1335,5 +1335,28 @@
     "vacancies": 25,
     "salary_text": "R$ 15.182,61",
     "salary_value": 15182.61
+  },
+  {
+    "title": "Câmara de Teodoro Sampaio",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-teodoro-sampaio-sp-abre-concurso-para-auxiliar-administrativo-e-assessor-juridico",
+    "end_date": "2026-03-29",
+    "vacancies": 2,
+    "salary_text": "R$ 3.992,08",
+    "salary_value": 3992.08
+  },
+  {
+    "title": "Prefeitura de Boituva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boituva-sp-abre-concurso-publico-com-salarios-de-ate-6-4-mil",
+    "end_date": "2026-04-16",
+    "vacancies": 10,
+    "salary_text": "R$ 6.494,10",
+    "salary_value": 6494.1
+  },
+  {
+    "title": "Prefeitura de Junqueirópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-junqueiropolis-sp-abre-processo-seletivo-para-cadastro-de-reserva-na-area-da-educacao",
+    "end_date": "2026-04-16",
+    "salary_text": "R$ 2.260,41",
+    "salary_value": 2260.41
   }
 ]
