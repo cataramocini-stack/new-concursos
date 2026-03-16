@@ -1438,5 +1438,29 @@
     "vacancies": 1,
     "salary_text": "R$ 2.834,62",
     "salary_value": 2834.62
+  },
+  {
+    "title": "Câmara de Iepê",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-iepe-sp-abre-concurso-publico-para-o-cargo-de-controlador-interno",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.193,40",
+    "salary_value": 3193.4
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-edital-de-processo-seletivo-para-analista-de-redes-pleno",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 5.767,82",
+    "salary_value": 5767.82
+  },
+  {
+    "title": "UNIFAE - Centro Universitário das Faculdades Associadas de Ensino",
+    "link": "https://www.pciconcursos.com.br/noticias/unifae-sp-abre-concurso-publico-com-salarios-de-ate-5-1-mil",
+    "end_date": "2026-04-22",
+    "vacancies": 5,
+    "salary_text": "R$ 5.112,95",
+    "salary_value": 5112.95
   }
 ]
