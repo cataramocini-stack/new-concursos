@@ -1327,5 +1327,69 @@
     "vacancies": 4,
     "salary_text": "R$ 6.625,01",
     "salary_value": 6625.01
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diferentes-niveis-de-escolaridade-em-botucatu",
+    "end_date": "2026-03-30",
+    "vacancies": 9,
+    "salary_text": "R$ 5.784,95",
+    "salary_value": 5784.95
+  },
+  {
+    "title": "FEA/USP - Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-sp-abre-processo-seletivo-para-professor-contratado-iii-no-departamento-de-administracao",
+    "end_date": "2026-03-26",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "FEA/USP - Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-abre-vaga-para-professor-contratado-iii-na-area-de-economia-das-organizacoes",
+    "end_date": "2026-03-27",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "FMRP-USP - Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fmrp-usp-abre-concurso-para-professor-doutor-no-departamento-de-patologia-e-medicina-legal",
+    "end_date": "2026-06-15",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura de Bofete",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bofete-sp-abre-concurso-publico-com-salarios-de-ate-10-6-mil",
+    "end_date": "2026-04-13",
+    "vacancies": 14,
+    "salary_text": "R$ 10.678,59",
+    "salary_value": 10678.59
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-para-professor-substituto-na-faculdade-de-ciencias-e-tecnologia-de-presidente-prudente",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-para-professor-substituto-de-ciencia-da-computacao-em-sao-jose-do-rio-preto",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-abre-processo-seletivo-para-professor-contratado-iii-na-area-de-producao-e-operacoes",
+    "end_date": "2026-03-30",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
   }
 ]
