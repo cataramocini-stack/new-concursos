@@ -1312,5 +1312,20 @@
     "vacancies": 5,
     "salary_text": "R$ 5.112,95",
     "salary_value": 5112.95
+  },
+  {
+    "title": "FSA - Centro Universitário Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-assistente-social",
+    "end_date": "2026-04-22",
+    "salary_text": "R$ 2.747,43",
+    "salary_value": 2747.43
+  },
+  {
+    "title": "Prefeitura de Lençóis Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-publica-retificacoes-em-concurso-com-salarios-de-ate-6-6-mil",
+    "end_date": "2026-03-30",
+    "vacancies": 4,
+    "salary_text": "R$ 6.625,01",
+    "salary_value": 6625.01
   }
 ]
