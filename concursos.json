@@ -1430,5 +1430,50 @@
     "end_date": "2026-04-05",
     "salary_text": "R$ 25,66",
     "salary_value": 25.66
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vagas-de-nivel-medio-para-o-ame-de-santa-barbara-doeste",
+    "end_date": "2026-04-10",
+    "vacancies": 2,
+    "salary_text": "R$ 2.806,14",
+    "salary_value": 2806.14
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-enfermagem-no-hospital-de-clinicas",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.588,07",
+    "salary_value": 3588.07
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-agentes-temporarios-ambientais-em-sao-jose-do-barreiro",
+    "end_date": "2026-04-06"
+  },
+  {
+    "title": "Prefeitura de Iacri",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iacri-sp-abre-concurso-publico-para-mecanico-e-motorista",
+    "end_date": "2026-04-12",
+    "vacancies": 2,
+    "salary_text": "R$ 4.306,13",
+    "salary_value": 4306.13
+  },
+  {
+    "title": "Prefeitura de Macaubal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macaubal-sp-abre-concurso-publico-com-salarios-de-ate-6-2-mil",
+    "end_date": "2026-03-31",
+    "vacancies": 11,
+    "salary_text": "R$ 6.204,56",
+    "salary_value": 6204.56
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-assistente-operacional-ii-em-ilha-solteira",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 4.258,11",
+    "salary_value": 4258.11
   }
 ]
