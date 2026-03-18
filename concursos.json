@@ -1391,5 +1391,44 @@
     "vacancies": 14,
     "salary_text": "R$ 9.238,95",
     "salary_value": 9238.95
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-o-cargo-de-telefonista-no-ame-de-santa-barbara-doeste",
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 2.165,22",
+    "salary_value": 2165.22
+  },
+  {
+    "title": "Prefeitura de Embu das Artes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-selecao-para-o-programa-de-residencia-juridica",
+    "end_date": "2026-04-06",
+    "vacancies": 3,
+    "salary_text": "R$ 2.800,00",
+    "salary_value": 2800.0
+  },
+  {
+    "title": "Prefeitura de Macedônia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macedonia-sp-abre-concurso-para-fiscal-de-tributos",
+    "end_date": "2026-04-15",
+    "vacancies": 1,
+    "salary_text": "R$ 2.433,51",
+    "salary_value": 2433.51
+  },
+  {
+    "title": "Prefeitura de Mombuca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concurso-para-cargos-de-nivel-fundamental-e-medio",
+    "end_date": "2026-04-17",
+    "vacancies": 2,
+    "salary_text": "R$ 2.314,18",
+    "salary_value": 2314.18
+  },
+  {
+    "title": "Prefeitura de Ubirajara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubirajara-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-04-05",
+    "salary_text": "R$ 25,66",
+    "salary_value": 25.66
   }
 ]
