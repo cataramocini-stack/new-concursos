@@ -1475,5 +1475,20 @@
     "vacancies": 1,
     "salary_text": "R$ 4.008,62",
     "salary_value": 4008.62
+  },
+  {
+    "title": "Prefeitura de Pedregulho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-abre-concurso-com-salarios-de-ate-13776",
+    "end_date": "2026-04-23",
+    "vacancies": 7,
+    "salary_text": "R$ 13.776,67",
+    "salary_value": 13776.67
+  },
+  {
+    "title": "Prefeitura de Pedregulho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-abre-processo-seletivo-para-cadastro-reserva-em-cargos-de-nivel-superior",
+    "end_date": "2026-04-09",
+    "salary_text": "R$ 7.300,07",
+    "salary_value": 7300.07
   }
 ]
