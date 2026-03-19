@@ -1490,5 +1490,28 @@
     "end_date": "2026-04-09",
     "salary_text": "R$ 7.300,07",
     "salary_value": 7300.07
+  },
+  {
+    "title": "Prefeitura de Euclides da Cunha Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-euclides-da-cunha-paulista-sp-abre-processo-seletivo-para-o-programa-primeira-infancia",
+    "end_date": "2026-03-24",
+    "vacancies": 4,
+    "salary_text": "R$ 2.300,00",
+    "salary_value": 2300.0
+  },
+  {
+    "title": "Prefeitura de Iracemápolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iracemapolis-sp-abre-processo-seletivo-para-diversos-cargos-com-salarios-de-ate-5-4-mil",
+    "end_date": "2026-04-09",
+    "salary_text": "R$ 5.485,38",
+    "salary_value": 5485.38
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-professores-doutores-no-instituto-de-computacao",
+    "end_date": "2026-05-08",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
