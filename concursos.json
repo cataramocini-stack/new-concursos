@@ -1513,5 +1513,21 @@
     "vacancies": 2,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "PMO - Prefeitura da Estância Turística de Olímpia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpia-sp-abre-selecao-para-auxiliar-de-educacao-e-professor-de-educacao-basica-ii",
+    "end_date": "2026-04-08",
+    "vacancies": 20,
+    "salary_text": "R$ 1.674,00",
+    "salary_value": 1674.0
+  },
+  {
+    "title": "Prefeitura de Araçoiaba da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vaga-em-processo-seletivo-para-dentista",
+    "end_date": "2026-03-25",
+    "vacancies": 1,
+    "salary_text": "R$ 3.435,79",
+    "salary_value": 3435.79
   }
 ]
