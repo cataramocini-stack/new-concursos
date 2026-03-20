@@ -1571,5 +1571,66 @@
     "vacancies": 8,
     "salary_text": "R$ 12.815,64",
     "salary_value": 12815.64
+  },
+  {
+    "title": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
+    "link": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-processos-seletivos-com-salarios-ate-6-8-mil",
+    "end_date": "2026-03-29",
+    "vacancies": 26,
+    "salary_text": "R$ 6.889,64",
+    "salary_value": 6889.64
+  },
+  {
+    "title": "CEMMIL - Consórcio Intermunicipal para o Desenvolvimento Sustentável",
+    "link": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-processos-seletivos-com-vagas-para-cinco-municipios",
+    "end_date": "2026-04-13",
+    "vacancies": 67,
+    "salary_text": "R$ 5.167,23",
+    "salary_value": 5167.23
+  },
+  {
+    "title": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-com-vagas-para-diversos-cargos-e-localidades",
+    "end_date": "2026-04-06",
+    "vacancies": 41,
+    "salary_text": "R$ 6.418,05",
+    "salary_value": 6418.05
+  },
+  {
+    "title": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-vagas-para-farmaceutico-e-auxiliar-de-servicos-em-tambau",
+    "end_date": "2026-04-10",
+    "vacancies": 2,
+    "salary_text": "R$ 3.170,91",
+    "salary_value": 3170.91
+  },
+  {
+    "title": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-para-assistente-social-psicologo-e-escriturario-em-tambau",
+    "end_date": "2026-04-05",
+    "vacancies": 3,
+    "salary_text": "R$ 2.203,54",
+    "salary_value": 2203.54
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-copeiro-no-ame-de-santa-barbara-doeste",
+    "end_date": "2026-04-07",
+    "vacancies": 1,
+    "salary_text": "R$ 2.344,49",
+    "salary_value": 2344.49
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-brigadistas-e-chefes-de-esquadrao-em-presidente-epitacio",
+    "end_date": "2026-04-09"
+  },
+  {
+    "title": "Prefeitura de Bastos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bastos-sp-abre-concurso-publico-com-salarios-de-ate-15-7-mil",
+    "end_date": "2026-04-19",
+    "vacancies": 6,
+    "salary_text": "R$ 15.714,85",
+    "salary_value": 15714.85
   }
 ]
