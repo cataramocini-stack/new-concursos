@@ -1494,5 +1494,74 @@
     "vacancies": 51,
     "salary_text": "R$ 10.868,02",
     "salary_value": 10868.02
+  },
+  {
+    "title": "FMVZ - Faculdade de Medicina Veterinária e Zootecnia da UNESP",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-fmvz-sp-abre-concurso-publico-para-professor-substituto-com-salario-e-beneficios-que-superam-5300",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura de Embu das Artes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-processo-seletivo-com-vagas-para-medicos",
+    "end_date": "2026-04-30",
+    "vacancies": 11,
+    "salary_text": "R$ 23.187,15",
+    "salary_value": 23187.15
+  },
+  {
+    "title": "Prefeitura de Júlio Mesquita",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-julio-mesquita-sp-abre-processo-seletivo-com-vagas-para-diversos-cargos",
+    "end_date": "2026-04-13",
+    "vacancies": 17,
+    "salary_text": "R$ 2.750,00",
+    "salary_value": 2750.0
+  },
+  {
+    "title": "Prefeitura de São Miguel Arcanjo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-arcanjo-sp-abre-processo-seletivo-para-professor-de-ingles",
+    "end_date": "2026-03-31"
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-doutor-no-instituto-de-artes",
+    "end_date": "2026-04-17",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,67",
+    "salary_value": 2834.67
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-vaga-de-pesquisador-com-salarios-de-ate-13-9-mil",
+    "end_date": "2026-04-21",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-o-professor-doutor-no-instituto-de-computacao",
+    "end_date": "2026-05-08",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-para-professor-doutor-no-departamento-de-imunologia",
+    "end_date": "2026-05-18",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-farmacologia-integrativa",
+    "end_date": "2026-06-17",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
