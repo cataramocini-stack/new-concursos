@@ -1632,5 +1632,21 @@
     "vacancies": 6,
     "salary_text": "R$ 15.714,85",
     "salary_value": 15714.85
+  },
+  {
+    "title": "Câmara de Sarutaiá",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sarutaia-sp-abre-concurso-publico-com-vaga-para-contador",
+    "end_date": "2026-04-22",
+    "vacancies": 1,
+    "salary_text": "R$ 4.600,00",
+    "salary_value": 4600.0
+  },
+  {
+    "title": "Prefeitura de Carapicuíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-concurso-para-motorista-agente-de-defesa-civil-e-fiscal-de-tributos",
+    "end_date": "2026-04-24",
+    "vacancies": 4,
+    "salary_text": "R$ 1.687,50",
+    "salary_value": 1687.5
   }
 ]
