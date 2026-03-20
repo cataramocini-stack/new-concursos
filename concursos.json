@@ -11,17 +11,6 @@
     "positions": []
   },
   {
-    "title": "Câmara de Potim",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-potim-sp-abre-selecao-para-procurador-juridico-com-salario-de-7-7-mil",
-    "official_link": null,
-    "end_date": "2026-03-19",
-    "vacancies": 1,
-    "salary_text": "R$ 7.792,89",
-    "salary_value": 7792.89,
-    "raw_text": "Câmara de Potim SP 1 vaga até R$ 7.792,89 Procurador Jurídico Superior 06 a 19/03/2026",
-    "positions": []
-  },
-  {
     "title": "Câmara de Sertãozinho",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-sertaozinho-sp-abre-concurso-publico-com-vaga-para-jornalista",
     "official_link": null,
@@ -184,17 +173,6 @@
     "salary_text": "R$ 3.656,58",
     "salary_value": 3656.58,
     "raw_text": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari SP 4 vagas até R$ 3.656,58 Operador de Estação de Tratamento Ensino Técnico 24/03/2026",
-    "positions": []
-  },
-  {
-    "title": "SEDUC - Secretaria Municipal de Educação de Guarujá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-sp-abre-concurso-publico-e-processo-seletivo-para-a-educacao",
-    "official_link": null,
-    "end_date": "2026-03-19",
-    "vacancies": 37,
-    "salary_text": "R$ 3.098,00",
-    "salary_value": 3098.0,
-    "raw_text": "SEDUC - Secretaria Municipal de Educação de Guarujá SP 37 vagas até R$ 3.098,00 Inspetor de Alunos, Professor de Educação Básica III Fundamental / Superior 19/03/2026",
     "positions": []
   },
   {
@@ -545,17 +523,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-na-area-de-musica-brasileira-e-historia-da-musica",
-    "official_link": null,
-    "end_date": "2026-03-19",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 19/03/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-artes-plasticas",
     "official_link": null,
     "end_date": "2026-03-26",
@@ -865,14 +832,6 @@
     "salary_value": 3955.18
   },
   {
-    "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-    "link": "https://www.pciconcursos.com.br/noticias/ebserh-sp-abre-processo-seletivo-para-medicos-no-hospital-universitario-da-ufscar",
-    "end_date": "2026-03-19",
-    "vacancies": 5,
-    "salary_text": "R$ 11.464,58",
-    "salary_value": 11464.58
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-assistente-na-area-de-musica",
     "end_date": "2026-04-16",
@@ -972,14 +931,6 @@
     "salary_value": 3379.43
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-docente-de-geografia-no-campus-de-jaboticabal",
-    "end_date": "2026-03-19",
-    "vacancies": 1,
-    "salary_text": "R$ 32,92",
-    "salary_value": 32.92
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vagas-para-o-cargo-de-professor-doutor-no-instituto-de-artes",
     "end_date": "2026-05-14",
@@ -1073,14 +1024,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.834,00",
     "salary_value": 2834.0
-  },
-  {
-    "title": "FCAV - Faculdade de Ciências Agrárias e Veterinárias da Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/fcav-unesp-sp-abre-concurso-publico-para-docente-de-ensino-medio-e-tecnico",
-    "end_date": "2026-03-19",
-    "vacancies": 1,
-    "salary_text": "R$ 32,93",
-    "salary_value": 32.93
   },
   {
     "title": "FUNSERV - Fundação da Seguridade Social dos Servidores Públicos Municipais de Sorocaba",
