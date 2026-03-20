@@ -1648,5 +1648,13 @@
     "vacancies": 4,
     "salary_text": "R$ 1.687,50",
     "salary_value": 1687.5
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-edital-de-processo-seletivo-para-analista-desenvolvedor",
+    "end_date": "2026-04-08",
+    "vacancies": 1,
+    "salary_text": "R$ 11.501,60",
+    "salary_value": 11501.6
   }
 ]
