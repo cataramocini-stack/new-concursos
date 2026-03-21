@@ -1559,5 +1559,13 @@
     "vacancies": 1,
     "salary_text": "R$ 11.501,60",
     "salary_value": 11501.6
+  },
+  {
+    "title": "Câmara de Mongaguá",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-reabre-inscricoes-de-concurso-com-10-vagas-para-nivel-medio-e-superior",
+    "end_date": "2026-04-10",
+    "vacancies": 10,
+    "salary_text": "R$ 7.256,32",
+    "salary_value": 7256.32
   }
 ]
