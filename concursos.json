@@ -1547,5 +1547,60 @@
     "vacancies": 1,
     "salary_text": "R$ 2.231,59",
     "salary_value": 2231.59
+  },
+  {
+    "title": "Câmara de Barrinha",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-barrinha-sp-abre-concurso-publico-para-contador-e-motorista",
+    "end_date": "2026-04-12",
+    "vacancies": 1,
+    "salary_text": "R$ 6.589,17",
+    "salary_value": 6589.17
+  },
+  {
+    "title": "Câmara de Tabatinga",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-tabatinga-sp-abre-concurso-para-o-cargo-de-contabilista",
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 6.607,16",
+    "salary_value": 6607.16
+  },
+  {
+    "title": "FFCLRP - Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da USP",
+    "link": "https://www.pciconcursos.com.br/noticias/ffclrp-usp-processo-seletivo-aberto-para-docente-no-departamento-de-musica",
+    "end_date": "2026-04-08",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "Prefeitura de Taguaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taguai-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-04-13",
+    "salary_text": "R$ 27,18",
+    "salary_value": 27.18
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-com-salario-de-14-7-mil-para-pesquisador-iv",
+    "end_date": "2026-05-05",
+    "vacancies": 1,
+    "salary_text": "R$ 14.717,71",
+    "salary_value": 14717.71
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor-em-administracao-publica",
+    "end_date": "2026-04-22",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-com-salario-de-ate-13-9-mil",
+    "end_date": "2026-04-22",
+    "vacancies": 1,
+    "salary_text": "R$ 13.957,27",
+    "salary_value": 13957.27
   }
 ]
