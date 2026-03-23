@@ -1610,5 +1610,21 @@
     "vacancies": 11,
     "salary_text": "R$ 23.187,15",
     "salary_value": 23187.15
+  },
+  {
+    "title": "Prefeitura do Município de Osasco",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osasco-sp-abre-concurso-publico-com-35-vagas-e-salarios-de-ate-5-7-mil",
+    "end_date": "2026-05-04",
+    "vacancies": 35,
+    "salary_text": "R$ 5.710,88",
+    "salary_value": 5710.88
+  },
+  {
+    "title": "SAEMBA - Serviço de Água e Esgoto do Município de Bariri",
+    "link": "https://www.pciconcursos.com.br/noticias/saemba-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-reserva",
+    "end_date": "2026-04-05",
+    "vacancies": 2,
+    "salary_text": "R$ 3.897,10",
+    "salary_value": 3897.1
   }
 ]
