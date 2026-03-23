@@ -1539,5 +1539,13 @@
     "vacancies": 10,
     "salary_text": "R$ 7.256,32",
     "salary_value": 7256.32
+  },
+  {
+    "title": "Prefeitura de Lençóis Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-para-guarda-civil-municipal",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 2.231,59",
+    "salary_value": 2231.59
   }
 ]
