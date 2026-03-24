@@ -601,14 +601,6 @@
     "salary_value": 9238.95
   },
   {
-    "title": "Prefeitura de São Joaquim da Barra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-da-barra-sp-abre-concurso-com-34-vagas-e-cadastro-de-reserva",
-    "end_date": "2026-03-23",
-    "vacancies": 34,
-    "salary_text": "R$ 10.171,75",
-    "salary_value": 10171.75
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-professor-doutor-na-faculdade-de-tecnologia",
     "end_date": "2026-04-07",
@@ -703,14 +695,6 @@
     "salary_value": 8039.48
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-substituto-de-historia-em-presidente-prudente",
-    "end_date": "2026-03-23",
-    "vacancies": 1,
-    "salary_text": "R$ 3.279,43",
-    "salary_value": 3279.43
-  },
-  {
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-no-departamento-de-fisica-nuclear",
     "end_date": "2026-06-08",
@@ -742,14 +726,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de São Joaquim da Barra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-da-barra-sp-retifica-edital-de-concurso-publico-com-salarios-de-ate-10-1-mil",
-    "end_date": "2026-03-23",
-    "vacancies": 34,
-    "salary_text": "R$ 10.171,75",
-    "salary_value": 10171.75
-  },
-  {
     "title": "FSA - Centro Universitário Fundação Santo André",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-desenvolvedor-de-software",
     "end_date": "2026-04-09",
@@ -779,14 +755,6 @@
     "vacancies": 2,
     "salary_text": "R$ 1.994,61",
     "salary_value": 1994.61
-  },
-  {
-    "title": "FHSL - Fundação Hospital Santa Lydia",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-processo-seletivo-com-salarios-de-ate-4-2-mil",
-    "end_date": "2026-03-23",
-    "vacancies": 12,
-    "salary_text": "R$ 4.241,38",
-    "salary_value": 4241.38
   },
   {
     "title": "PM/SP - Polícia Militar do Estado de São Paulo",
@@ -867,14 +835,6 @@
     "vacancies": 20,
     "salary_text": "R$ 1.634,32",
     "salary_value": 1634.32
-  },
-  {
-    "title": "FHSL - Fundação Hospital Santa Lydia",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-retifica-processo-seletivo-com-salarios-de-ate-4-2-mil",
-    "end_date": "2026-03-23",
-    "vacancies": 12,
-    "salary_text": "R$ 4.241,38",
-    "salary_value": 4241.38
   },
   {
     "title": "Prefeitura de Santo Antônio do Pinhal",
