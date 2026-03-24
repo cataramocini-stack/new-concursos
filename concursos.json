@@ -1601,5 +1601,44 @@
     "end_date": "2026-04-09",
     "salary_text": "R$ 7.300,07",
     "salary_value": 7300.07
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-recepcionista-no-hospital-estadual-sumare",
+    "end_date": "2026-04-24",
+    "vacancies": 1,
+    "salary_text": "R$ 2.367,32",
+    "salary_value": 2367.32
+  },
+  {
+    "title": "Prefeitura de Alvinlândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinlandia-sp-abre-processo-seletivo-com-nove-vagas-imediatas",
+    "end_date": "2026-04-02",
+    "vacancies": 9,
+    "salary_text": "R$ 4.191,51",
+    "salary_value": 4191.51
+  },
+  {
+    "title": "Prefeitura de Pacaembu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pacaembu-sp-publica-edital-de-processo-seletivo-para-monitor-escolar",
+    "end_date": "2026-04-08",
+    "salary_text": "R$ 1.621,00",
+    "salary_value": 1621.0
+  },
+  {
+    "title": "Prefeitura de Piratininga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-selecao-para-terapeuta-ocupacional",
+    "end_date": "2026-03-27",
+    "vacancies": 2,
+    "salary_text": "R$ 5.242,82",
+    "salary_value": 5242.82
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-titular-na-area-de-fisiologia",
+    "end_date": "2026-05-04",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
   }
 ]
