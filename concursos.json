@@ -1640,5 +1640,21 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
+  },
+  {
+    "title": "Prefeitura de Alvinlândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinlandia-sp-retifica-processo-seletivo-com-nove-vagas-imediatas",
+    "end_date": "2026-04-02",
+    "vacancies": 9,
+    "salary_text": "R$ 4.191,51",
+    "salary_value": 4191.51
+  },
+  {
+    "title": "Prefeitura de Leme",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-8-3-mil",
+    "end_date": "2026-04-24",
+    "vacancies": 1,
+    "salary_text": "R$ 8.357,11",
+    "salary_value": 8357.11
   }
 ]
