@@ -1613,5 +1613,28 @@
     "end_date": "2026-03-25",
     "salary_text": "R$ 8.303,24",
     "salary_value": 8303.24
+  },
+  {
+    "title": "Prefeitura de Franco da Rocha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-franco-da-rocha-sp-anuncia-concurso-publico-com-salarios-de-ate-6-mil",
+    "end_date": "2026-04-22",
+    "salary_text": "R$ 6.067,97",
+    "salary_value": 6067.97
+  },
+  {
+    "title": "Prefeitura de Itariri",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itariri-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-reserva",
+    "end_date": "2026-04-21",
+    "vacancies": 14,
+    "salary_text": "R$ 9.193,38",
+    "salary_value": 9193.38
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-o-cargo-de-professor-doutor-no-instituto-de-fisica-gleb-wataghin",
+    "end_date": "2026-04-28",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
