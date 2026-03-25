@@ -1,16 +1,5 @@
 [
   {
-    "title": "Câmara da Estância Turística de São Roque",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-roque-sp-abre-concursos-com-salarios-de-ate-12-8-mil",
-    "official_link": null,
-    "end_date": "2026-03-24",
-    "vacancies": 8,
-    "salary_text": "R$ 12.815,64",
-    "salary_value": 12815.64,
-    "raw_text": "Câmara da Estância Turística de São Roque SP 8 vagas até R$ 12.815,64 Vários Cargos Médio / Técnico / Superior 24/03/2026",
-    "positions": []
-  },
-  {
     "title": "Câmara de Sertãozinho",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-sertaozinho-sp-abre-concurso-publico-com-vaga-para-jornalista",
     "official_link": null,
@@ -121,17 +110,6 @@
     "positions": []
   },
   {
-    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari",
-    "link": "https://www.pciconcursos.com.br/noticias/saae-de-capivari-sp-abre-concurso-publico-com-vagas-para-operador-de-estacao-de-tratamento",
-    "official_link": null,
-    "end_date": "2026-03-24",
-    "vacancies": 4,
-    "salary_text": "R$ 3.656,58",
-    "salary_value": 3656.58,
-    "raw_text": "SAAE - Serviço Autônomo de Água e Esgoto de Capivari SP 4 vagas até R$ 3.656,58 Operador de Estação de Tratamento Ensino Técnico 24/03/2026",
-    "positions": []
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-assistente-com-salario-de-16353",
     "official_link": null,
@@ -222,17 +200,6 @@
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3,
     "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 03/03 a 01/04/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-docente-no-departamento-de-ciencias-da-natureza-e-matematica-do-colegio-tecnico-de-limeira",
-    "official_link": null,
-    "end_date": "2026-03-24",
-    "vacancies": 1,
-    "salary_text": null,
-    "salary_value": null,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga Professor Superior 24/03/2026",
     "positions": []
   },
   {
@@ -640,14 +607,6 @@
     "salary_value": 13957.27
   },
   {
-    "title": "Câmara de Altinópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-altinopolis-sp-abre-concurso-com-salarios-de-ate-6-9-mil",
-    "end_date": "2026-03-24",
-    "vacancies": 4,
-    "salary_text": "R$ 6.958,13",
-    "salary_value": 6958.13
-  },
-  {
     "title": "FERSB - Fundação Estatal Regional de Saúde da Região de Bauru",
     "link": "https://www.pciconcursos.com.br/noticias/fersb-sp-abre-processo-seletivo-com-salarios-de-ate-4-1-mil",
     "end_date": "2026-04-05",
@@ -803,14 +762,6 @@
     "vacancies": 23,
     "salary_text": "R$ 6.734,86",
     "salary_value": 6734.86
-  },
-  {
-    "title": "Prefeitura do Município de Cajati",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajati-sp-abre-vaga-para-coordenador-do-nucleo-de-gestao-do-trabalho-e-educacao-permanente",
-    "end_date": "2026-03-24",
-    "vacancies": 1,
-    "salary_text": "R$ 6.447,84",
-    "salary_value": 6447.84
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1270,14 +1221,6 @@
     "salary_value": 7300.07
   },
   {
-    "title": "Prefeitura de Euclides da Cunha Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-euclides-da-cunha-paulista-sp-abre-processo-seletivo-para-o-programa-primeira-infancia",
-    "end_date": "2026-03-24",
-    "vacancies": 4,
-    "salary_text": "R$ 2.300,00",
-    "salary_value": 2300.0
-  },
-  {
     "title": "Prefeitura de Iracemápolis",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iracemapolis-sp-abre-processo-seletivo-para-diversos-cargos-com-salarios-de-ate-5-4-mil",
     "end_date": "2026-04-09",
@@ -1398,14 +1341,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Câmara da Estância Turística de São Roque",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-roque-sp-retifica-editais-de-concursos-com-salarios-de-ate-12-8-mil",
-    "end_date": "2026-03-24",
-    "vacancies": 8,
-    "salary_text": "R$ 12.815,64",
-    "salary_value": 12815.64
   },
   {
     "title": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
