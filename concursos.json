@@ -1603,5 +1603,51 @@
     "vacancies": 5,
     "salary_text": "R$ 8.303,24",
     "salary_value": 8303.24
+  },
+  {
+    "title": "EMURJA - Empresa Municipal de Urbanização de Jaboticabal",
+    "link": "https://www.pciconcursos.com.br/noticias/emurja-de-jaboticabal-sp-abre-processo-seletivo-para-cargos-de-nivel-fundamental",
+    "end_date": "2026-04-16",
+    "salary_text": "R$ 2.637,68",
+    "salary_value": 2637.68
+  },
+  {
+    "title": "Prefeitura de Lucélia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lucelia-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversos-niveis-de-escolaridade",
+    "end_date": "2026-04-12",
+    "salary_text": "R$ 3.242,00",
+    "salary_value": 3242.0
+  },
+  {
+    "title": "Prefeitura de Ourinhos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ourinhos-sp-abre-concurso-com-20-vagas-para-agente-administrativo-i",
+    "end_date": "2026-04-13",
+    "vacancies": 20,
+    "salary_text": "R$ 2.230,00",
+    "salary_value": 2230.0
+  },
+  {
+    "title": "USP - Escola de Enfermagem de Ribeirão Preto",
+    "link": "https://www.pciconcursos.com.br/noticias/eerp-da-usp-abre-processo-seletivo-para-professor-no-departamento-de-enfermagem-geral-e-especializada",
+    "end_date": "2026-04-15",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-selecao-com-vaga-para-professor-na-escola-de-enfermagem",
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,00",
+    "salary_value": 2834.0
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processo-seletivo-para-professor-no-departamento-de-enfermagem-materno-infantil-e-psiquiatrica",
+    "end_date": "2026-04-06",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
   }
 ]
