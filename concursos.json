@@ -44,17 +44,6 @@
     "positions": []
   },
   {
-    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-processo-seletivo-para-profissional-de-atendimento-educacional-especializado",
-    "official_link": null,
-    "end_date": "2026-03-25",
-    "vacancies": 1,
-    "salary_text": "R$ 4.967,04",
-    "salary_value": 4967.04,
-    "raw_text": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo SP 1 vaga até R$ 4.967,04 Profissional de Atendimento Educacional Especializado Superior 25/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura de Lençóis Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-6-6-mil",
     "official_link": null,
@@ -536,14 +525,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Centro Universitário de Adamantina",
-    "link": "https://www.pciconcursos.com.br/noticias/centro-universitario-de-adamantina-sp-abre-processo-seletivo-com-salarios-de-ate-4-3-mil",
-    "end_date": "2026-03-25",
-    "vacancies": 6,
-    "salary_text": "R$ 4.300,48",
-    "salary_value": 4300.48
-  },
-  {
     "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-vagas-para-professor-doutor-na-escola-de-engenharia-de-sao-carlos",
     "end_date": "2026-05-07",
@@ -660,13 +641,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Prefeitura de Bilac",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-abre-concurso-publico-com-salarios-de-ate-8-3-mil",
-    "end_date": "2026-03-25",
-    "salary_text": "R$ 8.303,24",
-    "salary_value": 8303.24
   },
   {
     "title": "Prefeitura de Indaiatuba",
@@ -882,14 +856,6 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processo-seletivo-para-professor-contratado-no-departamento-de-orientacao-profissional",
-    "end_date": "2026-03-25",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,00",
-    "salary_value": 2834.0
   },
   {
     "title": "Prefeitura de Cerqueira César",
@@ -1242,14 +1208,6 @@
     "vacancies": 20,
     "salary_text": "R$ 1.674,00",
     "salary_value": 1674.0
-  },
-  {
-    "title": "Prefeitura de Araçoiaba da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vaga-em-processo-seletivo-para-dentista",
-    "end_date": "2026-03-25",
-    "vacancies": 1,
-    "salary_text": "R$ 3.435,79",
-    "salary_value": 3435.79
   },
   {
     "title": "Prefeitura de Iracemápolis",
@@ -1608,13 +1566,6 @@
     "salary_value": 4291.68
   },
   {
-    "title": "Prefeitura de Bilac",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-retifica-concurso-publico-com-salarios-de-ate-8-3-mil",
-    "end_date": "2026-03-25",
-    "salary_text": "R$ 8.303,24",
-    "salary_value": 8303.24
-  },
-  {
     "title": "Prefeitura de Franco da Rocha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-franco-da-rocha-sp-anuncia-concurso-publico-com-salarios-de-ate-6-mil",
     "end_date": "2026-04-22",
@@ -1644,5 +1595,13 @@
     "vacancies": 1,
     "salary_text": "R$ 4.800,00",
     "salary_value": 4800.0
+  },
+  {
+    "title": "Prefeitura de Bilac",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bilac-sp-retifica-concurso-publico-com-salarios-de-ate-8-3-mil",
+    "end_date": "2026-04-02",
+    "vacancies": 5,
+    "salary_text": "R$ 8.303,24",
+    "salary_value": 8303.24
   }
 ]
