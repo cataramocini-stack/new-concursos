@@ -1610,5 +1610,20 @@
     "vacancies": 5,
     "salary_text": "R$ 2.516,59",
     "salary_value": 2516.59
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-auxiliar-de-limpeza-no-ame-de-santa-barbara-doeste",
+    "end_date": "2026-04-21",
+    "vacancies": 1,
+    "salary_text": "R$ 1.953,35",
+    "salary_value": 1953.35
+  },
+  {
+    "title": "Prefeitura de Morro Agudo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-agudo-sp-abre-processo-seletivo-com-cadastro-reserva-para-professores",
+    "end_date": "2026-04-23",
+    "salary_text": "R$ 31,04",
+    "salary_value": 31.04
   }
 ]
