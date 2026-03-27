@@ -23,17 +23,6 @@
   },
   {
     "title": "FSA - Fundação Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-bibliotecario-i",
-    "official_link": null,
-    "end_date": "2026-03-26",
-    "vacancies": 1,
-    "salary_text": "R$ 3.576,20",
-    "salary_value": 3576.2,
-    "raw_text": "FSA - Fundação Santo André SP 1 vaga até R$ 3.576,20 Bibliotecário I Superior 26/03/2026",
-    "positions": []
-  },
-  {
-    "title": "FSA - Fundação Santo André",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-analista-administrativo-academico",
     "official_link": null,
     "end_date": "2026-03-30",
@@ -55,28 +44,6 @@
     "positions": []
   },
   {
-    "title": "Prefeitura de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-para-cargos-de-nivel-superior",
-    "official_link": null,
-    "end_date": "2026-03-26",
-    "vacancies": 8,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06,
-    "raw_text": "Prefeitura de Mogi Mirim SP 8 vagas até R$ 6.099,06 Vários Cargos Superior 26/03/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-cinco-concursos-publicos-para-diversas-areas",
-    "official_link": null,
-    "end_date": "2026-03-26",
-    "vacancies": 49,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06,
-    "raw_text": "Prefeitura de Mogi Mirim SP 49 vagas + CR até R$ 6.099,06 Vários Cargos Fundamental / Médio / Técnico / Superior 26/03/2026",
-    "positions": []
-  },
-  {
     "title": "Prefeitura de Sorocaba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
     "official_link": null,
@@ -85,17 +52,6 @@
     "salary_text": null,
     "salary_value": null,
     "raw_text": "Prefeitura de Sorocaba SP 26 vagas Técnico de Enfermagem, Médico I Técnico / Superior 01/04/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura do Município de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-de-nivel-superior",
-    "official_link": null,
-    "end_date": "2026-03-26",
-    "vacancies": 5,
-    "salary_text": "R$ 6.099,06",
-    "salary_value": 6099.06,
-    "raw_text": "Prefeitura do Município de Mogi Mirim SP 5 vagas até R$ 6.099,06 Vários Cargos Superior 26/03/2026",
     "positions": []
   },
   {
@@ -424,17 +380,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-artes-plasticas",
-    "official_link": null,
-    "end_date": "2026-03-26",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 26/03/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-instituto-de-psicologia",
     "official_link": null,
     "end_date": "2026-04-02",
@@ -483,14 +428,6 @@
     "vacancies": 5,
     "salary_text": "R$ 5.500,00",
     "salary_value": 5500.0
-  },
-  {
-    "title": "Prefeitura de Mogi Mirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-abre-concurso-publico-com-vagas-para-arquivista",
-    "end_date": "2026-03-26",
-    "vacancies": 2,
-    "salary_text": "R$ 4.862,12",
-    "salary_value": 4862.12
   },
   {
     "title": "UNESP - Faculdade de Ciências e Letras de Assis",
@@ -728,14 +665,6 @@
     "vacancies": 3,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "Prefeitura de Fernão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fernao-sp-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-6-7-mil",
-    "end_date": "2026-03-26",
-    "vacancies": 23,
-    "salary_text": "R$ 6.734,86",
-    "salary_value": 6734.86
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1014,14 +943,6 @@
     "vacancies": 9,
     "salary_text": "R$ 5.784,95",
     "salary_value": 5784.95
-  },
-  {
-    "title": "FEA/USP - Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fea-usp-sp-abre-processo-seletivo-para-professor-contratado-iii-no-departamento-de-administracao",
-    "end_date": "2026-03-26",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
   },
   {
     "title": "FEA/USP - Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo",
@@ -1479,14 +1400,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.897,10",
     "salary_value": 3897.1
-  },
-  {
-    "title": "Prefeitura de Riversul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-riversul-sp-retifica-concurso-com-salarios-de-ate-8-9-mil",
-    "end_date": "2026-03-26",
-    "vacancies": 12,
-    "salary_text": "R$ 8.942,31",
-    "salary_value": 8942.31
   },
   {
     "title": "Prefeitura de Pedregulho",
