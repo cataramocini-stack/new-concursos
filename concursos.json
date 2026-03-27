@@ -1625,5 +1625,21 @@
     "end_date": "2026-04-23",
     "salary_text": "R$ 31,04",
     "salary_value": 31.04
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-operador-logistico-no-hospital-estadual-sumare",
+    "end_date": "2026-04-15",
+    "vacancies": 1,
+    "salary_text": "R$ 2.545,04",
+    "salary_value": 2545.04
+  },
+  {
+    "title": "Prefeitura da Estância Balneária de Itanhaém",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itanhaem-sp-abre-processo-seletivo-com-100-vagas",
+    "end_date": "2026-05-14",
+    "vacancies": 100,
+    "salary_text": "R$ 2.560,00",
+    "salary_value": 2560.0
   }
 ]
