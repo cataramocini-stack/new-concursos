@@ -1593,5 +1593,13 @@
     "vacancies": 100,
     "salary_text": "R$ 2.560,00",
     "salary_value": 2560.0
+  },
+  {
+    "title": "Prefeitura de Bauru",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-reabre-concurso-publico-com-vaga-para-assistente-social",
+    "end_date": "2026-05-07",
+    "vacancies": 11,
+    "salary_text": "R$ 5.808,50",
+    "salary_value": 5808.5
   }
 ]
