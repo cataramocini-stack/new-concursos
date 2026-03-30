@@ -1585,5 +1585,43 @@
     "vacancies": 11,
     "salary_text": "R$ 5.808,50",
     "salary_value": 5808.5
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-especialista-em-gestacao-de-alto-risco",
+    "end_date": "2026-04-17",
+    "vacancies": 1,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "Prefeitura de Ribeirão do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-do-sul-sp-abre-oito-vagas-na-area-da-educacao",
+    "end_date": "2026-04-08",
+    "vacancies": 8
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-clinica-e-cirurgia-animal-em-aracatuba-sp",
+    "end_date": "2026-04-15",
+    "vacancies": 1,
+    "salary_text": "R$ 3.107,08",
+    "salary_value": 3107.08
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-em-araraquara",
+    "end_date": "2026-05-20",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/faculdade-de-medicina-de-bauru-da-usp-sp-abre-concursos-com-vagas-para-o-cargo-de-professor-doutor",
+    "end_date": "2026-07-01",
+    "vacancies": 5,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
   }
 ]
