@@ -1539,5 +1539,85 @@
     "vacancies": 17,
     "salary_text": "R$ 2.750,00",
     "salary_value": 2750.0
+  },
+  {
+    "title": "FERSB - Fundação Estatal Regional de Saúde e Desenvolvimento Social da Bacia do Juquery",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-da-bacia-do-juquery-sp-abre-processo-seletivo-com-46-vagas-e-cadastro-reserva",
+    "end_date": "2026-04-13",
+    "vacancies": 46,
+    "salary_text": "R$ 4.605,39",
+    "salary_value": 4605.39
+  },
+  {
+    "title": "HCFMRP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-editais-de-concursos-publicos-anunciam-vagas-para-medicos-em-diversas-especialidades",
+    "end_date": "2026-04-17",
+    "vacancies": 6,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-selecao-para-professor-formador-e-orientador-de-tcc-com-ensino-superior",
+    "end_date": "2026-04-15",
+    "vacancies": 7,
+    "salary_text": "R$ 1.850,00",
+    "salary_value": 1850.0
+  },
+  {
+    "title": "IFUSP - Instituto de Física da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/ifusp-sp-abre-concurso-publico-para-professor-doutor-na-area-de-fisica",
+    "end_date": "2026-07-07",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura de Casa Branca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-casa-branca-sp-abre-concurso-publico-com-69-vagas-no-departamento-de-educacao",
+    "end_date": "2026-05-04",
+    "vacancies": 69,
+    "salary_text": "R$ 3.859,89",
+    "salary_value": 3859.89
+  },
+  {
+    "title": "Prefeitura de Itapecerica da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapecerica-da-serra-sp-abre-concurso-com-vagas-para-nivel-medio-e-superior",
+    "end_date": "2026-05-04",
+    "vacancies": 9,
+    "salary_text": "R$ 4.837,10",
+    "salary_value": 4837.1
+  },
+  {
+    "title": "UNESP - Faculdade de Medicina Veterinária de Araçatuba",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-titular-de-medicina-veterinaria-em-aracatuba-sp",
+    "end_date": "2026-05-27",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-na-area-de-antropologia-em-bauru-sp",
+    "end_date": "2026-04-17",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-o-cargo-de-professor-substituto-em-araraquara-sp",
+    "end_date": "2026-04-16",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-titular-no-instituto-de-filosofia-e-ciencias-humanas",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
   }
 ]
