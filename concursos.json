@@ -1534,5 +1534,13 @@
     "vacancies": 1,
     "salary_text": "R$ 3.335,34",
     "salary_value": 3335.34
+  },
+  {
+    "title": "Prefeitura de Embu das Artes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-processo-seletivo-com-vagas-para-professores",
+    "end_date": "2026-04-15",
+    "vacancies": 65,
+    "salary_text": "R$ 27,80",
+    "salary_value": 27.8
   }
 ]
