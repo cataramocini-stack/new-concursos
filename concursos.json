@@ -137,94 +137,6 @@
     "positions": []
   },
   {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-pesquisador-com-salario-de-ate-13957",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-o-cargo-de-pesquisador-no-centro-de-memoria",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 2,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 2 vagas até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-em-tecnologias-digitais-na-educacao",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador nível C Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-no-cepetro-com-salarios-de-ate-13957",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-pesquisador-na-area-de-caracterizacao-geologica",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-pesquisador-em-saude-reprodutiva-e-sexualidade",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-vaga-de-pesquisador-no-cepetro",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-pesquisador-com-salario-de-ate-13-9-mil",
-    "official_link": null,
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 13.957,27",
-    "salary_value": 13957.27,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 13.957,27 Pesquisador Superior 02 a 31/03/2026",
-    "positions": []
-  },
-  {
     "title": "USP - Escola Politécnica da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-oferece-vaga-para-professor-doutor-em-engenharia-de-telecomunicacoes",
     "official_link": null,
@@ -397,14 +309,6 @@
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-na-faculdade-de-zootecnia-e-engenharia-de-alimentos",
     "end_date": "2026-04-13",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-com-salario-de-16-3-mil",
-    "end_date": "2026-03-31",
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
@@ -645,22 +549,6 @@
     "vacancies": 10,
     "salary_text": "R$ 5.476,40",
     "salary_value": 5476.4
-  },
-  {
-    "title": "Prefeitura de Pereiras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pereiras-sp-abre-processo-seletivo-para-medico-veterinario",
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 4.851,24",
-    "salary_value": 4851.24
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-educacao-fisica-no-campus-de-rio-claro",
-    "end_date": "2026-03-31",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
@@ -929,14 +817,6 @@
     "salary_value": 4306.13
   },
   {
-    "title": "Prefeitura de Macaubal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macaubal-sp-abre-concurso-publico-com-salarios-de-ate-6-2-mil",
-    "end_date": "2026-03-31",
-    "vacancies": 11,
-    "salary_text": "R$ 6.204,56",
-    "salary_value": 6204.56
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-assistente-operacional-ii-em-ilha-solteira",
     "end_date": "2026-04-06",
@@ -1035,11 +915,6 @@
     "vacancies": 17,
     "salary_text": "R$ 2.750,00",
     "salary_value": 2750.0
-  },
-  {
-    "title": "Prefeitura de São Miguel Arcanjo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-arcanjo-sp-abre-processo-seletivo-para-professor-de-ingles",
-    "end_date": "2026-03-31"
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
