@@ -1494,5 +1494,37 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
+  },
+  {
+    "title": "UNESP - Faculdade de Engenharia e Ciências",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-editais-de-concursos-publicos-para-professores-substitutos-em-guaratingueta-sp",
+    "end_date": "2026-04-21",
+    "vacancies": 2,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-titular-na-faculdade-de-medicina-veterinaria-de-aracatuba-sp",
+    "end_date": "2026-05-27",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/poli-usp-abre-concursos-para-professores-doutores-no-departamento-de-engenharia-metalurgica-e-de-materiais",
+    "end_date": "2026-07-06",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-processo-seletivo-para-professor-no-departamento-de-engenharia-de-transportes",
+    "end_date": "2026-05-05",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,61",
+    "salary_value": 2834.61
   }
 ]
