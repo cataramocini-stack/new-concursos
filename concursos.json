@@ -1,16 +1,5 @@
 [
   {
-    "title": "Câmara de Sertãozinho",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sertaozinho-sp-abre-concurso-publico-com-vaga-para-jornalista",
-    "official_link": null,
-    "end_date": "2026-04-01",
-    "vacancies": 1,
-    "salary_text": "R$ 6.034,41",
-    "salary_value": 6034.41,
-    "raw_text": "Câmara de Sertãozinho SP 1 vaga até R$ 6.034,41 Jornalista Superior 02/03 a 01/04/2026",
-    "positions": []
-  },
-  {
     "title": "Etec - Escola Técnica - Guarujá",
     "link": "https://www.pciconcursos.com.br/noticias/etec-de-guaruja-sp-publica-abertura-de-inscricoes-para-dois-editais-de-processo-seletivo",
     "official_link": null,
@@ -19,17 +8,6 @@
     "salary_text": "R$ 21,40",
     "salary_value": 21.4,
     "raw_text": "Etec - Escola Técnica - Guarujá SP Vagas até R$ 21,40 h/a Professores de Ensino Médio e Técnico Superior 02 a 16/06/2026",
-    "positions": []
-  },
-  {
-    "title": "Prefeitura de Sorocaba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorocaba-sp-abre-concurso-com-26-vagas-para-a-area-da-saude",
-    "official_link": null,
-    "end_date": "2026-04-01",
-    "vacancies": 26,
-    "salary_text": null,
-    "salary_value": null,
-    "raw_text": "Prefeitura de Sorocaba SP 26 vagas Técnico de Enfermagem, Médico I Técnico / Superior 01/04/2026",
     "positions": []
   },
   {
@@ -112,17 +90,6 @@
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3,
     "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 23/04/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-no-instituto-de-geociencias",
-    "official_link": null,
-    "end_date": "2026-04-01",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 03/03 a 01/04/2026",
     "positions": []
   },
   {
@@ -1548,5 +1515,13 @@
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-selecao-para-brigadista-e-chefe-de-esquadrao-em-ipero",
     "end_date": "2026-04-17",
     "vacancies": 2
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-abre-26-processos-seletivos-para-diversas-areas-em-bauru-sp",
+    "end_date": "2026-04-15",
+    "vacancies": 26,
+    "salary_text": "R$ 4.934,38",
+    "salary_value": 4934.38
   }
 ]
