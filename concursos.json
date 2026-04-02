@@ -1571,5 +1571,13 @@
     "vacancies": 16,
     "salary_text": "R$ 10.579,00",
     "salary_value": 10579.0
+  },
+  {
+    "title": "Prefeitura de Parisi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parisi-sp-abre-novo-concurso-publico-com-salarios-de-ate-5-5-mil",
+    "end_date": "2026-05-06",
+    "vacancies": 9,
+    "salary_text": "R$ 5.512,80",
+    "salary_value": 5512.8
   }
 ]
