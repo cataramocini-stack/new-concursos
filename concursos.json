@@ -1579,5 +1579,13 @@
     "vacancies": 9,
     "salary_text": "R$ 5.512,80",
     "salary_value": 5512.8
+  },
+  {
+    "title": "Prefeitura de Piratininga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-concurso-publico-com-67-vagas",
+    "end_date": "2026-05-03",
+    "vacancies": 67,
+    "salary_text": "R$ 9.410,06",
+    "salary_value": 9410.06
   }
 ]
