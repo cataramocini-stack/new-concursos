@@ -1523,5 +1523,53 @@
     "vacancies": 26,
     "salary_text": "R$ 4.934,38",
     "salary_value": 4934.38
+  },
+  {
+    "title": "Câmara de Ibitinga",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibitinga-sp-abre-concurso-publico-para-o-cargo-de-contador",
+    "end_date": "2026-04-20",
+    "vacancies": 1,
+    "salary_text": "R$ 6.916,83",
+    "salary_value": 6916.83
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-com-vaga-para-medico-ginecologista",
+    "end_date": "2026-04-28",
+    "vacancies": 1,
+    "salary_text": "R$ 8.223,63",
+    "salary_value": 8223.63
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-medico-dermatologista-no-ame-de-sao-joao-da-boa-vista",
+    "end_date": "2026-04-22",
+    "vacancies": 1,
+    "salary_text": "R$ 103,89",
+    "salary_value": 103.89
+  },
+  {
+    "title": "Prefeitura de Potirendaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-potirendaba-sp-abre-processo-seletivo-para-a-educacao",
+    "end_date": "2026-04-13",
+    "vacancies": 10,
+    "salary_text": "R$ 3.853,00",
+    "salary_value": 3853.0
+  },
+  {
+    "title": "Prefeitura de Sales",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sales-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-reserva",
+    "end_date": "2026-04-15",
+    "vacancies": 2,
+    "salary_text": "R$ 1.716,62",
+    "salary_value": 1716.62
+  },
+  {
+    "title": "Prefeitura de Taiúva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiuva-sp-abre-editais-de-concursos-e-de-selecao-publica",
+    "end_date": "2026-05-04",
+    "vacancies": 16,
+    "salary_text": "R$ 10.579,00",
+    "salary_value": 10579.0
   }
 ]
