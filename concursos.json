@@ -306,27 +306,11 @@
     "salary_value": 8467.39
   },
   {
-    "title": "FERSB - Fundação Estatal Regional de Saúde da Região de Bauru",
-    "link": "https://www.pciconcursos.com.br/noticias/fersb-sp-abre-processo-seletivo-com-salarios-de-ate-4-1-mil",
-    "end_date": "2026-04-05",
-    "vacancies": 5,
-    "salary_text": "R$ 4.190,24",
-    "salary_value": 4190.24
-  },
-  {
     "title": "Prefeitura de São João da Boa Vista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-boa-vista-sp-abre-concurso-para-analista-de-procuradoria-e-contador",
     "end_date": "2026-04-08",
     "salary_text": "R$ 6.046,84",
     "salary_value": 6046.84
-  },
-  {
-    "title": "Prefeitura de Santana de Parnaíba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-para-diversos-cargos",
-    "end_date": "2026-04-05",
-    "vacancies": 48,
-    "salary_text": "R$ 5.413,51",
-    "salary_value": 5413.51
   },
   {
     "title": "EMCOP - Empresa Municipal de Construções Populares",
@@ -670,13 +654,6 @@
     "salary_value": 2314.18
   },
   {
-    "title": "Prefeitura de Ubirajara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubirajara-sp-abre-processo-seletivo-para-professores",
-    "end_date": "2026-04-05",
-    "salary_text": "R$ 25,66",
-    "salary_value": 25.66
-  },
-  {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
     "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vagas-de-nivel-medio-para-o-ame-de-santa-barbara-doeste",
     "end_date": "2026-04-10",
@@ -765,13 +742,6 @@
     "end_date": "2026-04-09",
     "salary_text": "R$ 5.485,38",
     "salary_value": 5485.38
-  },
-  {
-    "title": "Prefeitura de Bastos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bastos-sp-abre-processo-seletivo-para-cadastro-de-reserva",
-    "end_date": "2026-04-05",
-    "salary_text": "R$ 2.395,67",
-    "salary_value": 2395.67
   },
   {
     "title": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André",
@@ -868,14 +838,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.170,91",
     "salary_value": 3170.91
-  },
-  {
-    "title": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-processo-seletivo-para-assistente-social-psicologo-e-escriturario-em-tambau",
-    "end_date": "2026-04-05",
-    "vacancies": 3,
-    "salary_text": "R$ 2.203,54",
-    "salary_value": 2203.54
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -1008,14 +970,6 @@
     "vacancies": 35,
     "salary_text": "R$ 5.710,88",
     "salary_value": 5710.88
-  },
-  {
-    "title": "SAEMBA - Serviço de Água e Esgoto do Município de Bariri",
-    "link": "https://www.pciconcursos.com.br/noticias/saemba-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-reserva",
-    "end_date": "2026-04-05",
-    "vacancies": 2,
-    "salary_text": "R$ 3.897,10",
-    "salary_value": 3897.1
   },
   {
     "title": "Prefeitura de Pedregulho",
