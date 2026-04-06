@@ -1439,5 +1439,53 @@
     "vacancies": 67,
     "salary_text": "R$ 9.410,06",
     "salary_value": 9410.06
+  },
+  {
+    "title": "Prefeitura de Monteiro Lobato",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monteiro-lobato-sp-abre-processo-seletivo-com-sete-vagas-e-salarios-de-ate-3-9-mil",
+    "end_date": "2026-04-24",
+    "vacancies": 7,
+    "salary_text": "R$ 3.902,47",
+    "salary_value": 3902.47
+  },
+  {
+    "title": "Prefeitura de Piratininga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-vaga-em-processo-seletivo-para-medico-psiquiatra",
+    "end_date": "2026-04-10",
+    "vacancies": 1,
+    "salary_text": "R$ 9.159,95",
+    "salary_value": 9159.95
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-no-instituto-de-artes-em-sao-paulo",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-concursos-para-professores-substitutos-em-presidente-prudente-sp",
+    "end_date": "2026-04-23",
+    "vacancies": 5,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vagas-para-professores-substitutos-de-engenharia-eletrica-no-campus-de-bauru",
+    "end_date": "2026-04-24",
+    "vacancies": 2,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-saude-coletiva-em-botucatu-sp",
+    "end_date": "2026-04-23",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
