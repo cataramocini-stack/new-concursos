@@ -1368,5 +1368,29 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura de Dracena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dracena-sp-abre-concurso-publico-com-salarios-de-ate-4-4-mil",
+    "end_date": "2026-04-30",
+    "vacancies": 11,
+    "salary_text": "R$ 4.400,01",
+    "salary_value": 4400.01
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-geografia-em-ourinhos-sp",
+    "end_date": "2026-04-24",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-assistente-de-meteorologia-em-bauru-sp",
+    "end_date": "2026-05-12",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
