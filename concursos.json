@@ -23,17 +23,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processos-seletivos-para-pesquisadores-com-salarios-acima-de-14-mil",
-    "official_link": null,
-    "end_date": "2026-04-07",
-    "vacancies": 2,
-    "salary_text": "R$ 14.717,71",
-    "salary_value": 14717.71,
-    "raw_text": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\" SP 2 vagas até R$ 14.717,71 Pesquisador IV Superior 09/03 a 07/04/2026",
-    "positions": []
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-publico-para-professor-assistente-no-campus-de-bauru",
     "official_link": null,
     "end_date": "2026-04-13",
@@ -270,29 +259,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-para-professor-doutor-na-faculdade-de-tecnologia",
-    "end_date": "2026-04-07",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-cargos-de-professor-doutor-em-engenharia-agricola",
-    "end_date": "2026-04-07",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "Prefeitura de Porto Feliz",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-processo-seletivo-com-salarios-de-ate-8-4-mil",
-    "end_date": "2026-04-07",
-    "salary_text": "R$ 8.467,39",
-    "salary_value": 8467.39
   },
   {
     "title": "Prefeitura de São João da Boa Vista",
@@ -742,14 +708,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.170,91",
     "salary_value": 3170.91
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-copeiro-no-ame-de-santa-barbara-doeste",
-    "end_date": "2026-04-07",
-    "vacancies": 1,
-    "salary_text": "R$ 2.344,49",
-    "salary_value": 2344.49
   },
   {
     "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
