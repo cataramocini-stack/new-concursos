@@ -1358,5 +1358,43 @@
     "vacancies": 7,
     "salary_text": "R$ 6.047,02",
     "salary_value": 6047.02
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Tupã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tupa-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-04-19",
+    "salary_text": "R$ 4.185,27",
+    "salary_value": 4185.27
+  },
+  {
+    "title": "Prefeitura de Lutécia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lutecia-sp-abre-concurso-para-formacao-de-cadastro-reserva-em-diversas-areas",
+    "end_date": "2026-04-30",
+    "salary_text": "R$ 4.009,84",
+    "salary_value": 4009.84
+  },
+  {
+    "title": "Prefeitura de Promissão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-promissao-sp-abre-concurso-publico-com-diversas-vagas-e-cadastro-de-reserva",
+    "end_date": "2026-05-07",
+    "vacancies": 194,
+    "salary_text": "R$ 6.376,74",
+    "salary_value": 6376.74
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-odontologia-no-campus-de-sao-jose-dos-campos-sp",
+    "end_date": "2026-04-22",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-de-concurso-para-professor-substituto-na-area-de-odontologia-em-aracatuba-sp",
+    "end_date": "2026-04-27",
+    "vacancies": 2,
+    "salary_text": "R$ 2.379,43",
+    "salary_value": 2379.43
   }
 ]
