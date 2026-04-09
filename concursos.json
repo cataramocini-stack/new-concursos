@@ -221,14 +221,6 @@
     "salary_value": 5500.0
   },
   {
-    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-concurso-para-professor-assistente-com-salario-de-16-3-mil",
-    "end_date": "2026-04-08",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-na-faculdade-de-zootecnia-e-engenharia-de-alimentos",
     "end_date": "2026-04-13",
@@ -259,13 +251,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Prefeitura de São João da Boa Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-boa-vista-sp-abre-concurso-para-analista-de-procuradoria-e-contador",
-    "end_date": "2026-04-08",
-    "salary_text": "R$ 6.046,84",
-    "salary_value": 6046.84
   },
   {
     "title": "EMCOP - Empresa Municipal de Construções Populares",
@@ -615,14 +600,6 @@
     "salary_value": 16353.3
   },
   {
-    "title": "PMO - Prefeitura da Estância Turística de Olímpia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpia-sp-abre-selecao-para-auxiliar-de-educacao-e-professor-de-educacao-basica-ii",
-    "end_date": "2026-04-08",
-    "vacancies": 20,
-    "salary_text": "R$ 1.674,00",
-    "salary_value": 1674.0
-  },
-  {
     "title": "Prefeitura de Iracemápolis",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iracemapolis-sp-retifica-processo-seletivo-para-diversos-cargos",
     "end_date": "2026-04-09",
@@ -739,14 +716,6 @@
     "salary_value": 1687.5
   },
   {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-edital-de-processo-seletivo-para-analista-desenvolvedor",
-    "end_date": "2026-04-08",
-    "vacancies": 1,
-    "salary_text": "R$ 11.501,60",
-    "salary_value": 11501.6
-  },
-  {
     "title": "Câmara de Mongaguá",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-reabre-inscricoes-de-concurso-com-10-vagas-para-nivel-medio-e-superior",
     "end_date": "2026-04-10",
@@ -777,14 +746,6 @@
     "vacancies": 1,
     "salary_text": "R$ 6.607,16",
     "salary_value": 6607.16
-  },
-  {
-    "title": "FFCLRP - Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da USP",
-    "link": "https://www.pciconcursos.com.br/noticias/ffclrp-usp-processo-seletivo-aberto-para-docente-no-departamento-de-musica",
-    "end_date": "2026-04-08",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
   },
   {
     "title": "Prefeitura de Taguaí",
@@ -847,13 +808,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.367,32",
     "salary_value": 2367.32
-  },
-  {
-    "title": "Prefeitura de Pacaembu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pacaembu-sp-publica-edital-de-processo-seletivo-para-monitor-escolar",
-    "end_date": "2026-04-08",
-    "salary_text": "R$ 1.621,00",
-    "salary_value": 1621.0
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -949,14 +903,6 @@
     "salary_value": 2834.0
   },
   {
-    "title": "USP - Instituto de Química da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-cinco-processos-seletivos-para-docentes-no-instituto-de-quimica",
-    "end_date": "2026-04-08",
-    "vacancies": 5,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
-  },
-  {
     "title": "Prefeitura de Itapeva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
     "end_date": "2026-05-07",
@@ -1034,12 +980,6 @@
     "vacancies": 1,
     "salary_text": "R$ 5.979,93",
     "salary_value": 5979.93
-  },
-  {
-    "title": "Prefeitura de Ribeirão do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-do-sul-sp-abre-oito-vagas-na-area-da-educacao",
-    "end_date": "2026-04-08",
-    "vacancies": 8
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
