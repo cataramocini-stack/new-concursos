@@ -1383,5 +1383,13 @@
     "vacancies": 2,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-processo-seletivo-abre-vaga-para-desenvolvedor-de-sistemas-no-cepetro",
+    "end_date": "2026-04-28",
+    "vacancies": 1,
+    "salary_text": "R$ 7.500,00",
+    "salary_value": 7500.0
   }
 ]
