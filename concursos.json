@@ -1343,5 +1343,45 @@
     "end_date": "2026-04-15",
     "salary_text": "R$ 5.130,63",
     "salary_value": 5130.63
+  },
+  {
+    "title": "Câmara de Votorantim",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-votorantim-sp-abre-concurso-publico-com-salarios-de-ate-7-5-mil",
+    "end_date": "2026-05-26",
+    "vacancies": 8,
+    "salary_text": "R$ 7.521,28",
+    "salary_value": 7521.28
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-concursos-abrem-vagas-para-professores-substitutos-no-campus-de-jaboticabal-sp",
+    "end_date": "2026-04-28",
+    "vacancies": 2,
+    "salary_text": "R$ 8.578,39",
+    "salary_value": 8578.39
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-na-area-de-engenharia-de-producao-em-bauru-sp",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-engenharia-mecanica-em-guaratingueta-sp",
+    "end_date": "2026-05-08",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vagas-para-professores-doutores-no-instituto-de-artes",
+    "end_date": "2026-05-13",
+    "vacancies": 2,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
