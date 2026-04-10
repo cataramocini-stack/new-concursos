@@ -213,14 +213,6 @@
     "raw_text": "USP - Universidade de São Paulo - São Carlos SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/04/2026 USP - Universidade de São Paulo - São Carlos SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/04/2026"
   },
   {
-    "title": "Câmara de Duartina",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-duartina-sp-abre-concurso-publico-com-salarios-de-ate-5500",
-    "end_date": "2026-04-09",
-    "vacancies": 5,
-    "salary_text": "R$ 5.500,00",
-    "salary_value": 5500.0
-  },
-  {
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-na-faculdade-de-zootecnia-e-engenharia-de-alimentos",
     "end_date": "2026-04-13",
@@ -285,14 +277,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "FSA - Centro Universitário Fundação Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-desenvolvedor-de-software",
-    "end_date": "2026-04-09",
-    "vacancies": 1,
-    "salary_text": "R$ 3.576,20",
-    "salary_value": 3576.2
-  },
-  {
     "title": "Prefeitura de Mombuca",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-para-agente-comunitario-de-saude-e-guarda-civil-municipal",
     "end_date": "2026-04-10",
@@ -324,14 +308,6 @@
     "salary_value": 9832.41
   },
   {
-    "title": "Prefeitura da Estância Turística de Ilha Solteira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilha-solteira-sp-abre-concurso-publico-com-salarios-de-ate-9-9-mil",
-    "end_date": "2026-04-09",
-    "vacancies": 18,
-    "salary_text": "R$ 9.967,55",
-    "salary_value": 9967.55
-  },
-  {
     "title": "Prefeitura de Santo Antônio do Pinhal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-pinhal-sp-abre-concurso-com-salarios-de-ate-6-2-mil",
     "end_date": "2026-04-10",
@@ -346,14 +322,6 @@
     "vacancies": 3,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "PRODESAN - Progresso e Desenvolvimento de Santos",
-    "link": "https://www.pciconcursos.com.br/noticias/prodesan-sp-abre-20-vagas-em-processo-seletivo-para-auxiliar-de-limpeza",
-    "end_date": "2026-04-09",
-    "vacancies": 20,
-    "salary_text": "R$ 1.634,32",
-    "salary_value": 1634.32
   },
   {
     "title": "Prefeitura de Santo Antônio do Pinhal",
@@ -578,41 +546,12 @@
     "salary_value": 13776.67
   },
   {
-    "title": "Prefeitura de Pedregulho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-abre-processo-seletivo-para-cadastro-reserva-em-cargos-de-nivel-superior",
-    "end_date": "2026-04-09",
-    "salary_text": "R$ 7.300,07",
-    "salary_value": 7300.07
-  },
-  {
-    "title": "Prefeitura de Iracemápolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iracemapolis-sp-abre-processo-seletivo-para-diversos-cargos-com-salarios-de-ate-5-4-mil",
-    "end_date": "2026-04-09",
-    "salary_text": "R$ 5.485,38",
-    "salary_value": 5485.38
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-professores-doutores-no-instituto-de-computacao",
     "end_date": "2026-05-08",
     "vacancies": 2,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "Prefeitura de Iracemápolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iracemapolis-sp-retifica-processo-seletivo-para-diversos-cargos",
-    "end_date": "2026-04-09",
-    "salary_text": "R$ 5.485,38",
-    "salary_value": 5485.38
-  },
-  {
-    "title": "CRAISA - Companhia Regional de Abastecimento Integrado de Santo André",
-    "link": "https://www.pciconcursos.com.br/noticias/craisa-de-santo-andre-sp-retifica-edital-de-concurso-publico",
-    "end_date": "2026-04-09",
-    "vacancies": 51,
-    "salary_text": "R$ 10.868,02",
-    "salary_value": 10868.02
   },
   {
     "title": "Prefeitura de Embu das Artes",
@@ -685,11 +624,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.170,91",
     "salary_value": 3170.91
-  },
-  {
-    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
-    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-brigadistas-e-chefes-de-esquadrao-em-presidente-epitacio",
-    "end_date": "2026-04-09"
   },
   {
     "title": "Prefeitura de Bastos",
@@ -793,13 +727,6 @@
     "vacancies": 35,
     "salary_text": "R$ 5.710,88",
     "salary_value": 5710.88
-  },
-  {
-    "title": "Prefeitura de Pedregulho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-retifica-processo-seletivo-para-cadastro-reserva-em-cargos-de-nivel-superior",
-    "end_date": "2026-04-09",
-    "salary_text": "R$ 7.300,07",
-    "salary_value": 7300.07
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
