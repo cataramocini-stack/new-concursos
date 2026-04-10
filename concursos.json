@@ -1390,5 +1390,28 @@
     "vacancies": 25,
     "salary_text": "R$ 1.804,00",
     "salary_value": 1804.0
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-tres-concursos-publicos-para-profissionais-de-nivel-superior",
+    "end_date": "2026-04-30",
+    "vacancies": 3,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "Prefeitura de Bebedouro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bebedouro-sp-abre-processo-seletivo-para-a-area-da-educacao",
+    "end_date": "2026-05-07",
+    "salary_text": "R$ 26,94",
+    "salary_value": 26.94
+  },
+  {
+    "title": "Prefeitura de Elias Fausto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-elias-fausto-sp-abre-concursos-publicos-para-cargos-de-nivel-superior",
+    "end_date": "2026-05-14",
+    "vacancies": 27,
+    "salary_text": "R$ 7.788,12",
+    "salary_value": 7788.12
   }
 ]
