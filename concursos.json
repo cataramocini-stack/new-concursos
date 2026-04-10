@@ -1326,5 +1326,69 @@
     "vacancies": 1,
     "salary_text": "R$ 6.765,61",
     "salary_value": 6765.61
+  },
+  {
+    "title": "Prefeitura de Mairiporã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairipora-sp-abre-processo-seletivo-para-monitor-social-e-peb-i-educacao-infantil",
+    "end_date": "2026-05-14",
+    "vacancies": 2,
+    "salary_text": "R$ 3.978,41",
+    "salary_value": 3978.41
+  },
+  {
+    "title": "Prefeitura de São Vicente",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-sp-abre-concurso-publico-com-salarios-de-ate-3-3-mil",
+    "end_date": "2026-05-07",
+    "vacancies": 59,
+    "salary_text": "R$ 3.385,13",
+    "salary_value": 3385.13
+  },
+  {
+    "title": "Prefeitura do Município de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-vagas-para-medicos",
+    "end_date": "2026-05-10",
+    "vacancies": 25,
+    "salary_text": "R$ 14.493,23",
+    "salary_value": 14493.23
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-geografia-em-ourinhos-sp",
+    "end_date": "2026-04-27",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-titular-no-instituto-de-geociencias-e-ciencias-exatas-de-rio-claro-sp",
+    "end_date": "2026-05-29",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-na-area-de-cirurgia-veterinaria-em-botucatu-sp",
+    "end_date": "2026-04-30",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-tecnica-cirurgica",
+    "end_date": "2026-05-22",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "URBAM - Urbanizadora Municipal S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/urbam-sao-jose-dos-campos-sp-abre-25-vagas-para-auxiliar-de-servicos-gerais",
+    "end_date": "2026-04-28",
+    "vacancies": 25,
+    "salary_text": "R$ 1.804,00",
+    "salary_value": 1804.0
   }
 ]
