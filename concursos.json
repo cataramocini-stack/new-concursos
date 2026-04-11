@@ -11,17 +11,6 @@
     "positions": []
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-professor-assistente-com-salario-de-16353",
-    "official_link": null,
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "UNESP - Universidade Estadual Paulista SP 1 vaga até R$ 16.353,01 Professor Assistente Superior 10/04/2026",
-    "positions": []
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-em-concurso-publico-para-professor-assistente-no-campus-de-bauru",
     "official_link": null,
@@ -203,16 +192,6 @@
     "positions": []
   },
   {
-    "title": "USP - Universidade de São Paulo - São Carlos",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-titular-em-engenharia-civil",
-    "official_link": null,
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11,
-    "raw_text": "USP - Universidade de São Paulo - São Carlos SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/04/2026 USP - Universidade de São Paulo - São Carlos SP 1 vaga até R$ 24.309,11 Professor Titular Superior 10/04/2026"
-  },
-  {
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-na-faculdade-de-zootecnia-e-engenharia-de-alimentos",
     "end_date": "2026-04-13",
@@ -277,29 +256,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Mombuca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concursos-para-agente-comunitario-de-saude-e-guarda-civil-municipal",
-    "end_date": "2026-04-10",
-    "salary_text": "R$ 3.036,00",
-    "salary_value": 3036.0
-  },
-  {
-    "title": "Prefeitura de Sarapuí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-concurso-publico-e-processo-seletivo-para-cargos-de-nivel-medio",
-    "end_date": "2026-04-10",
-    "vacancies": 5,
-    "salary_text": "R$ 3.036,00",
-    "salary_value": 3036.0
-  },
-  {
-    "title": "DAE - Departamento de Água e Esgoto de Bauru",
-    "link": "https://www.pciconcursos.com.br/noticias/dae-de-bauru-sp-abre-concurso-publico-para-cargo-de-motorista",
-    "end_date": "2026-04-10",
-    "vacancies": 2,
-    "salary_text": "R$ 1.994,61",
-    "salary_value": 1994.61
-  },
-  {
     "title": "PM/SP - Polícia Militar do Estado de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-concurso-com-36-vagas-para-medicos-em-diversas-especialidades",
     "end_date": "2026-05-07",
@@ -308,28 +264,12 @@
     "salary_value": 9832.41
   },
   {
-    "title": "Prefeitura de Santo Antônio do Pinhal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-pinhal-sp-abre-concurso-com-salarios-de-ate-6-2-mil",
-    "end_date": "2026-04-10",
-    "vacancies": 8,
-    "salary_text": "R$ 6.255,61",
-    "salary_value": 6255.61
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vagas-para-o-cargo-de-professor-doutor-no-instituto-de-artes",
     "end_date": "2026-05-14",
     "vacancies": 3,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "Prefeitura de Santo Antônio do Pinhal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-pinhal-sp-retifica-concurso-com-salarios-de-ate-6-2-mil",
-    "end_date": "2026-04-10",
-    "vacancies": 8,
-    "salary_text": "R$ 6.255,61",
-    "salary_value": 6255.61
   },
   {
     "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
@@ -490,14 +430,6 @@
     "salary_value": 10678.59
   },
   {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-o-cargo-de-telefonista-no-ame-de-santa-barbara-doeste",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 2.165,22",
-    "salary_value": 2165.22
-  },
-  {
     "title": "Prefeitura de Macedônia",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macedonia-sp-abre-concurso-para-fiscal-de-tributos",
     "end_date": "2026-04-15",
@@ -512,14 +444,6 @@
     "vacancies": 2,
     "salary_text": "R$ 2.314,18",
     "salary_value": 2314.18
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vagas-de-nivel-medio-para-o-ame-de-santa-barbara-doeste",
-    "end_date": "2026-04-10",
-    "vacancies": 2,
-    "salary_text": "R$ 2.806,14",
-    "salary_value": 2806.14
   },
   {
     "title": "Prefeitura de Iacri",
@@ -618,14 +542,6 @@
     "salary_value": 5167.23
   },
   {
-    "title": "CONDERG - Consórcio de Desenvolvimento da Região de Governo de São João da Boa Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/conderg-sp-abre-vagas-para-farmaceutico-e-auxiliar-de-servicos-em-tambau",
-    "end_date": "2026-04-10",
-    "vacancies": 2,
-    "salary_text": "R$ 3.170,91",
-    "salary_value": 3170.91
-  },
-  {
     "title": "Prefeitura de Bastos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bastos-sp-abre-concurso-publico-com-salarios-de-ate-15-7-mil",
     "end_date": "2026-04-19",
@@ -650,14 +566,6 @@
     "salary_value": 1687.5
   },
   {
-    "title": "Câmara de Mongaguá",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-mongagua-sp-reabre-inscricoes-de-concurso-com-10-vagas-para-nivel-medio-e-superior",
-    "end_date": "2026-04-10",
-    "vacancies": 10,
-    "salary_text": "R$ 7.256,32",
-    "salary_value": 7256.32
-  },
-  {
     "title": "Prefeitura de Lençóis Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-para-guarda-civil-municipal",
     "end_date": "2026-04-27",
@@ -672,14 +580,6 @@
     "vacancies": 1,
     "salary_text": "R$ 6.589,17",
     "salary_value": 6589.17
-  },
-  {
-    "title": "Câmara de Tabatinga",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-tabatinga-sp-abre-concurso-para-o-cargo-de-contabilista",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 6.607,16",
-    "salary_value": 6607.16
   },
   {
     "title": "Prefeitura de Taguaí",
@@ -820,14 +720,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.834,62",
     "salary_value": 2834.62
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-selecao-com-vaga-para-professor-na-escola-de-enfermagem",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,00",
-    "salary_value": 2834.0
   },
   {
     "title": "Prefeitura de Itapeva",
@@ -1153,14 +1045,6 @@
     "vacancies": 7,
     "salary_text": "R$ 3.902,47",
     "salary_value": 3902.47
-  },
-  {
-    "title": "Prefeitura de Piratininga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-vaga-em-processo-seletivo-para-medico-psiquiatra",
-    "end_date": "2026-04-10",
-    "vacancies": 1,
-    "salary_text": "R$ 9.159,95",
-    "salary_value": 9159.95
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
