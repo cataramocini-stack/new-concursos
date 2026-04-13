@@ -1263,5 +1263,53 @@
     "vacancies": 27,
     "salary_text": "R$ 7.788,12",
     "salary_value": 7788.12
+  },
+  {
+    "title": "CREFONO-2/SP - Conselho Regional de Fonoaudiologia de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/crefono-2-sp-abre-concurso-publico-com-vagas-para-agente-e-analista-de-fiscalizacao",
+    "end_date": "2026-05-20",
+    "vacancies": 5,
+    "salary_text": "R$ 5.246,54",
+    "salary_value": 5246.54
+  },
+  {
+    "title": "FSA - Fundação Santo André",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-professor-de-nivel-superior",
+    "end_date": "2026-04-27",
+    "vacancies": 18,
+    "salary_text": "R$ 40,46",
+    "salary_value": 40.46
+  },
+  {
+    "title": "Prefeitura de Elias Fausto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-elias-fausto-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+    "end_date": "2026-05-14",
+    "vacancies": 54,
+    "salary_text": "R$ 3.242,00",
+    "salary_value": 3242.0
+  },
+  {
+    "title": "Prefeitura de Lupércio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lupercio-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos",
+    "end_date": "2026-05-11",
+    "vacancies": 4,
+    "salary_text": "R$ 5.250,00",
+    "salary_value": 5250.0
+  },
+  {
+    "title": "Prefeitura de Nazaré Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nazare-paulista-sp-abre-selecao-para-agente-educacional-e-professor-de-educacao-fisica",
+    "end_date": "2026-04-30",
+    "vacancies": 2,
+    "salary_text": "R$ 4.112,98",
+    "salary_value": 4112.98
+  },
+  {
+    "title": "Prefeitura de Rio Claro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-claro-sp-abre-concurso-publico-com-salarios-de-ate-7-1-mil",
+    "end_date": "2026-05-11",
+    "vacancies": 21,
+    "salary_text": "R$ 7.193,63",
+    "salary_value": 7193.63
   }
 ]
