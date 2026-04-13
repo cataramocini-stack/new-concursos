@@ -1311,5 +1311,52 @@
     "vacancies": 21,
     "salary_text": "R$ 7.193,63",
     "salary_value": 7193.63
+  },
+  {
+    "title": "Prefeitura de Teodoro Sampaio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-processo-seletivo-para-monitor-de-transporte-e-atividades-escolares",
+    "end_date": "2026-04-26",
+    "salary_text": "R$ 1.621,00",
+    "salary_value": 1621.0
+  },
+  {
+    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concursos-para-professores-substitutos-na-faculdade-de-ciencias-e-letras-de-assis-sp",
+    "end_date": "2026-05-04",
+    "vacancies": 5,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Faculdade de Engenharia do Câmpus de Ilha Solteira",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-engenharia-civil-em-ilha-solteira-sp",
+    "end_date": "2026-04-30",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-para-professor-substituto-de-biotecnologia-industrial-em-araraquara-sp",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-em-radiologia-diagnostica-e-terapeutica",
+    "end_date": "2026-06-10",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-na-faculdade-de-ciencias-medicas",
+    "end_date": "2026-05-22",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
