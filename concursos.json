@@ -71,17 +71,6 @@
     "positions": []
   },
   {
-    "title": "USP - Escola Politécnica da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-escola-politecnica-oferece-vaga-para-professor-doutor-em-engenharia-de-telecomunicacoes",
-    "official_link": null,
-    "end_date": "2026-04-12",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Escola Politécnica da Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 12/04/2026",
-    "positions": []
-  },
-  {
     "title": "USP - Faculdade de Medicina de Ribeirão Preto",
     "link": "https://www.pciconcursos.com.br/noticias/usp-faculdade-de-medicina-de-ribeirao-preto-abre-inscricoes-para-dois-concursos-publico",
     "official_link": null,
@@ -446,14 +435,6 @@
     "salary_value": 2314.18
   },
   {
-    "title": "Prefeitura de Iacri",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iacri-sp-abre-concurso-publico-para-mecanico-e-motorista",
-    "end_date": "2026-04-12",
-    "vacancies": 2,
-    "salary_text": "R$ 4.306,13",
-    "salary_value": 4306.13
-  },
-  {
     "title": "Câmara de São José do Rio Pardo",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-educador-legislativo",
     "end_date": "2026-04-16",
@@ -574,14 +555,6 @@
     "salary_value": 2231.59
   },
   {
-    "title": "Câmara de Barrinha",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-barrinha-sp-abre-concurso-publico-para-contador-e-motorista",
-    "end_date": "2026-04-12",
-    "vacancies": 1,
-    "salary_text": "R$ 6.589,17",
-    "salary_value": 6589.17
-  },
-  {
     "title": "Prefeitura de Taguaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taguai-sp-abre-processo-seletivo-para-professores",
     "end_date": "2026-04-13",
@@ -697,13 +670,6 @@
     "end_date": "2026-04-16",
     "salary_text": "R$ 2.637,68",
     "salary_value": 2637.68
-  },
-  {
-    "title": "Prefeitura de Lucélia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lucelia-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversos-niveis-de-escolaridade",
-    "end_date": "2026-04-12",
-    "salary_text": "R$ 3.242,00",
-    "salary_value": 3242.0
   },
   {
     "title": "Prefeitura de Ourinhos",
