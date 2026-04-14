@@ -1217,5 +1217,21 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
+  },
+  {
+    "title": "Prefeitura da Estância Hidromineral de Serra Negra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-anuncia-vaga-para-monitor-na-area-da-saude",
+    "end_date": "2026-04-24",
+    "vacancies": 1,
+    "salary_text": "R$ 1.680,39",
+    "salary_value": 1680.39
+  },
+  {
+    "title": "UFSCar - Universidade Federal de São Carlos",
+    "link": "https://www.pciconcursos.com.br/noticias/ufscar-sp-abre-processo-seletivo-com-vagas-para-professores-substitutos",
+    "end_date": "2026-04-24",
+    "vacancies": 29,
+    "salary_text": "R$ 8.340,33",
+    "salary_value": 8340.33
   }
 ]
