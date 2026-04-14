@@ -1233,5 +1233,13 @@
     "vacancies": 29,
     "salary_text": "R$ 8.340,33",
     "salary_value": 8340.33
+  },
+  {
+    "title": "Câmara de Taiúva",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-taiuva-sp-abre-concurso-para-cargo-de-agente-de-servicos-gerais",
+    "end_date": "2026-05-18",
+    "vacancies": 1,
+    "salary_text": "R$ 2.340,99",
+    "salary_value": 2340.99
   }
 ]
