@@ -1237,5 +1237,13 @@
     "end_date": "2026-05-14",
     "salary_text": "R$ 12.062,91",
     "salary_value": 12062.91
+  },
+  {
+    "title": "Prefeitura de Bastos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bastos-sp-publica-retificacao-em-concurso-com-salarios-de-ate-15-7-mil",
+    "end_date": "2026-04-19",
+    "vacancies": 6,
+    "salary_text": "R$ 15.714,85",
+    "salary_value": 15714.85
   }
 ]
