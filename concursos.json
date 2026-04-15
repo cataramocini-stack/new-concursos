@@ -1260,5 +1260,25 @@
     "end_date": "2026-04-30",
     "salary_text": "R$ 3.206,00",
     "salary_value": 3206.0
+  },
+  {
+    "title": "Câmara de Santo Antônio de Posse",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-santo-antonio-de-posse-sp-abre-concurso-publico-para-tecnico-financeiro",
+    "end_date": "2026-05-24",
+    "vacancies": 1,
+    "salary_text": "R$ 4.000,00",
+    "salary_value": 4000.0
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-agentes-temporarios-ambientais-em-ipero",
+    "end_date": "2026-05-13"
+  },
+  {
+    "title": "Prefeitura do Município de Santana de Parnaíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-processo-seletivo-com-salarios-de-ate-5-5-mil",
+    "end_date": "2026-05-04",
+    "salary_text": "R$ 5.568,49",
+    "salary_value": 5568.49
   }
 ]
