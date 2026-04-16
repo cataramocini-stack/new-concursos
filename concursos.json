@@ -291,14 +291,6 @@
     "salary_value": 7195.43
   },
   {
-    "title": "Prefeitura da Estância Turística de Tremembé",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tremembe-sp-abre-concurso-publico-com-salarios-de-ate-8-9-mil",
-    "end_date": "2026-04-15",
-    "vacancies": 256,
-    "salary_text": "R$ 8.921,67",
-    "salary_value": 8921.67
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-com-salarios-de-ate-10-2-mil-no-campus-de-bauru",
     "end_date": "2026-04-27",
@@ -344,14 +336,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Prefeitura de Macedônia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macedonia-sp-abre-concurso-para-fiscal-de-tributos",
-    "end_date": "2026-04-15",
-    "vacancies": 1,
-    "salary_text": "R$ 2.433,51",
-    "salary_value": 2433.51
   },
   {
     "title": "Prefeitura de Mombuca",
@@ -568,28 +552,12 @@
     "salary_value": 2637.68
   },
   {
-    "title": "USP - Escola de Enfermagem de Ribeirão Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/eerp-da-usp-abre-processo-seletivo-para-professor-no-departamento-de-enfermagem-geral-e-especializada",
-    "end_date": "2026-04-15",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
-  },
-  {
     "title": "Prefeitura de Itapeva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
     "end_date": "2026-05-07",
     "vacancies": 23,
     "salary_text": "R$ 5.721,43",
     "salary_value": 5721.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-na-area-de-odontologia-em-sao-jose-dos-campos-sp",
-    "end_date": "2026-04-15",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -605,14 +573,6 @@
     "end_date": "2026-04-23",
     "salary_text": "R$ 31,04",
     "salary_value": 31.04
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-operador-logistico-no-hospital-estadual-sumare",
-    "end_date": "2026-04-15",
-    "vacancies": 1,
-    "salary_text": "R$ 2.545,04",
-    "salary_value": 2545.04
   },
   {
     "title": "Prefeitura da Estância Balneária de Itanhaém",
@@ -639,14 +599,6 @@
     "salary_value": 5979.93
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-clinica-e-cirurgia-animal-em-aracatuba-sp",
-    "end_date": "2026-04-15",
-    "vacancies": 1,
-    "salary_text": "R$ 3.107,08",
-    "salary_value": 3107.08
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-em-araraquara",
     "end_date": "2026-05-20",
@@ -669,14 +621,6 @@
     "vacancies": 6,
     "salary_text": "R$ 5.979,93",
     "salary_value": 5979.93
-  },
-  {
-    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-selecao-para-professor-formador-e-orientador-de-tcc-com-ensino-superior",
-    "end_date": "2026-04-15",
-    "vacancies": 7,
-    "salary_text": "R$ 1.850,00",
-    "salary_value": 1850.0
   },
   {
     "title": "IFUSP - Instituto de Física da Universidade de São Paulo",
@@ -775,26 +719,10 @@
     "salary_value": 3335.34
   },
   {
-    "title": "Prefeitura de Embu das Artes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-processo-seletivo-com-vagas-para-professores",
-    "end_date": "2026-04-15",
-    "vacancies": 65,
-    "salary_text": "R$ 27,80",
-    "salary_value": 27.8
-  },
-  {
     "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-selecao-para-brigadista-e-chefe-de-esquadrao-em-ipero",
     "end_date": "2026-04-17",
     "vacancies": 2
-  },
-  {
-    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-    "link": "https://www.pciconcursos.com.br/noticias/famesp-abre-26-processos-seletivos-para-diversas-areas-em-bauru-sp",
-    "end_date": "2026-04-15",
-    "vacancies": 26,
-    "salary_text": "R$ 4.934,38",
-    "salary_value": 4934.38
   },
   {
     "title": "Câmara de Ibitinga",
@@ -819,14 +747,6 @@
     "vacancies": 1,
     "salary_text": "R$ 103,89",
     "salary_value": 103.89
-  },
-  {
-    "title": "Prefeitura de Sales",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sales-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-reserva",
-    "end_date": "2026-04-15",
-    "vacancies": 2,
-    "salary_text": "R$ 1.716,62",
-    "salary_value": 1716.62
   },
   {
     "title": "Prefeitura de Taiúva",
@@ -961,13 +881,6 @@
     "vacancies": 2,
     "salary_text": "R$ 2.379,43",
     "salary_value": 2379.43
-  },
-  {
-    "title": "Prefeitura de Dirce Reis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dirce-reis-sp-retifica-edital-de-processo-seletivo-com-remuneracoes-de-ate-5130",
-    "end_date": "2026-04-15",
-    "salary_text": "R$ 5.130,63",
-    "salary_value": 5130.63
   },
   {
     "title": "Câmara de Votorantim",
@@ -1245,14 +1158,6 @@
     "vacancies": 6,
     "salary_text": "R$ 15.714,85",
     "salary_value": 15714.85
-  },
-  {
-    "title": "Prefeitura da Estância Turística de Tremembé",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tremembe-sp-retifica-edital-de-concurso-publico",
-    "end_date": "2026-04-15",
-    "vacancies": 256,
-    "salary_text": "R$ 8.921,67",
-    "salary_value": 8921.67
   },
   {
     "title": "Prefeitura de Charqueada",
