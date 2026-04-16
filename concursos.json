@@ -1209,5 +1209,18 @@
     "vacancies": 1,
     "salary_text": "R$ 8.340,33",
     "salary_value": 8340.33
+  },
+  {
+    "title": "Prefeitura de Palmital",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmital-sp-retifica-concurso-publico-com-vagas-para-todos-os-niveis-de-escolaridade",
+    "end_date": "2026-04-29",
+    "vacancies": 14,
+    "salary_text": "R$ 4.097,56",
+    "salary_value": 4097.56
+  },
+  {
+    "title": "Prefeitura de Sarapuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-selecoes-para-formacao-de-cadastro-de-reserva-em-diversas-areas",
+    "end_date": "2026-04-30"
   }
 ]
