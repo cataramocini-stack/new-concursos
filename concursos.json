@@ -1185,5 +1185,29 @@
     "end_date": "2026-05-04",
     "salary_text": "R$ 5.568,49",
     "salary_value": 5568.49
+  },
+  {
+    "title": "Prefeitura de Palmital",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmital-sp-abre-concurso-publico-com-vagas-para-todos-os-niveis-de-escolaridade",
+    "end_date": "2026-04-29",
+    "vacancies": 14,
+    "salary_text": "R$ 4.097,56",
+    "salary_value": 4097.56
+  },
+  {
+    "title": "Prefeitura de Tietê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tiete-sp-abre-processo-seletivo-para-engenheiro-civil",
+    "end_date": "2026-05-04",
+    "vacancies": 1,
+    "salary_text": "R$ 4.719,55",
+    "salary_value": 4719.55
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-processo-seletivo-para-professor-substituto-na-area-de-engenherias",
+    "end_date": "2026-04-26",
+    "vacancies": 1,
+    "salary_text": "R$ 8.340,33",
+    "salary_value": 8340.33
   }
 ]
