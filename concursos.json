@@ -172,14 +172,6 @@
     "salary_value": 5998.65
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-processo-seletivo-para-professor-assistente-na-area-de-musica",
-    "end_date": "2026-04-16",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
     "title": "PM/SP - Polícia Militar do Estado de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-concurso-com-36-vagas-para-medicos-em-diversas-especialidades",
     "end_date": "2026-05-07",
@@ -250,21 +242,6 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "Prefeitura de Boituva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boituva-sp-abre-concurso-publico-com-salarios-de-ate-6-4-mil",
-    "end_date": "2026-04-16",
-    "vacancies": 10,
-    "salary_text": "R$ 6.494,10",
-    "salary_value": 6494.1
-  },
-  {
-    "title": "Prefeitura de Junqueirópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-junqueiropolis-sp-abre-processo-seletivo-para-cadastro-de-reserva-na-area-da-educacao",
-    "end_date": "2026-04-16",
-    "salary_text": "R$ 2.260,41",
-    "salary_value": 2260.41
   },
   {
     "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
@@ -344,14 +321,6 @@
     "vacancies": 2,
     "salary_text": "R$ 2.314,18",
     "salary_value": 2314.18
-  },
-  {
-    "title": "Câmara de São José do Rio Pardo",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-jose-do-rio-pardo-sp-abre-concurso-publico-para-educador-legislativo",
-    "end_date": "2026-04-16",
-    "vacancies": 1,
-    "salary_text": "R$ 4.008,62",
-    "salary_value": 4008.62
   },
   {
     "title": "Prefeitura de Pedregulho",
@@ -545,13 +514,6 @@
     "salary_value": 16353.3
   },
   {
-    "title": "EMURJA - Empresa Municipal de Urbanização de Jaboticabal",
-    "link": "https://www.pciconcursos.com.br/noticias/emurja-de-jaboticabal-sp-abre-processo-seletivo-para-cargos-de-nivel-fundamental",
-    "end_date": "2026-04-16",
-    "salary_text": "R$ 2.637,68",
-    "salary_value": 2637.68
-  },
-  {
     "title": "Prefeitura de Itapeva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
     "end_date": "2026-05-07",
@@ -658,14 +620,6 @@
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-na-area-de-antropologia-em-bauru-sp",
     "end_date": "2026-04-17",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-o-cargo-de-professor-substituto-em-araraquara-sp",
-    "end_date": "2026-04-16",
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
