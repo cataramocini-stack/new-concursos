@@ -1176,5 +1176,115 @@
     "title": "Prefeitura de Sarapuí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-selecoes-para-formacao-de-cadastro-de-reserva-em-diversas-areas",
     "end_date": "2026-04-30"
+  },
+  {
+    "title": "Câmara de Martinópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-concurso-publico-com-formacao-de-cadastro-reserva",
+    "end_date": "2026-05-03",
+    "salary_text": "R$ 5.603,41",
+    "salary_value": 5603.41
+  },
+  {
+    "title": "Câmara de Presidente Prudente",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-abre-concurso-publico-com-salarios-de-ate-22-mil",
+    "end_date": "2026-05-21",
+    "vacancies": 4,
+    "salary_text": "R$ 22.010,63",
+    "salary_value": 22010.63
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-para-medico-na-area-de-neurologia-pediatrica",
+    "end_date": "2026-05-08",
+    "vacancies": 1,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-ginecologista",
+    "end_date": "2026-05-08",
+    "vacancies": 1,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "Prefeitura da Estância Hidromineral de Águas de Santa Bárbara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-de-santa-barbara-sp-abre-concurso-publico-com-salarios-de-ate-5-3-mil",
+    "end_date": "2026-05-04",
+    "vacancies": 4,
+    "salary_text": "R$ 5.390,90",
+    "salary_value": 5390.9
+  },
+  {
+    "title": "Prefeitura da Estância Turística de São Roque",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-processo-seletivo-para-a-area-da-educacao",
+    "end_date": "2026-05-19",
+    "salary_text": "R$ 2.685,84",
+    "salary_value": 2685.84
+  },
+  {
+    "title": "Prefeitura de Igaraçu do Tietê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igaracu-do-tiete-sp-abre-concurso-publico-para-operario-i",
+    "end_date": "2026-05-03",
+    "vacancies": 3,
+    "salary_text": "R$ 1.621,00",
+    "salary_value": 1621.0
+  },
+  {
+    "title": "Prefeitura de Tambaú",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tambau-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-05-04",
+    "vacancies": 4,
+    "salary_text": "R$ 3.847,97",
+    "salary_value": 3847.97
+  },
+  {
+    "title": "Prefeitura do Município de Carapicuíba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-concurso-publico-com-salarios-de-ate-4-5-mil",
+    "end_date": "2026-05-21",
+    "vacancies": 2,
+    "salary_text": "R$ 4.567,23",
+    "salary_value": 4567.23
+  },
+  {
+    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-de-assis-sp-abre-concurso-para-professor-assistente-na-faculdade-de-ciencias-e-letras",
+    "end_date": "2026-05-27",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "UNESP - Faculdade de Odontologia Campus de Araçatuba",
+    "link": "https://www.pciconcursos.com.br/noticias/faculdade-de-odontologia-da-unesp-abre-vaga-para-professor-substituto-em-aracatuba-sp",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-em-odontologia-no-campus-de-sao-jose-dos-campos-sp",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-educacao-fisica-em-presidente-prudente-sp",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-fonoaudiologia-em-marilia-sp",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
