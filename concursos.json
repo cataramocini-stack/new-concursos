@@ -1293,5 +1293,33 @@
     "end_date": "2026-05-14",
     "salary_text": "R$ 12.062,91",
     "salary_value": 12062.91
+  },
+  {
+    "title": "FERSB - Fundação Estatal Regional de Saúde da Região de Bauru",
+    "link": "https://www.pciconcursos.com.br/noticias/fersb-sp-publica-processo-seletivo-para-assistente-administrativo-e-agente-de-administracao",
+    "end_date": "2026-05-05",
+    "vacancies": 2,
+    "salary_text": "R$ 3.589,94",
+    "salary_value": 3589.94
+  },
+  {
+    "title": "FunGOTA - Fundação Municipal Irene Siqueira Alves \"Vovó Mocinha\", Maternidade Gota de Leite de Araraquara",
+    "link": "https://www.pciconcursos.com.br/noticias/fungota-araraquara-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos",
+    "end_date": "2026-05-11",
+    "vacancies": 6,
+    "salary_text": "R$ 10.311,80",
+    "salary_value": 10311.8
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-publica-edital-para-selecao-de-agentes-temporarios-ambientais-em-buri",
+    "end_date": "2026-05-13"
+  },
+  {
+    "title": "Prefeitura de Mairinque",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairinque-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-05-05",
+    "salary_text": "R$ 27,98",
+    "salary_value": 27.98
   }
 ]
