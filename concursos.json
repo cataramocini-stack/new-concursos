@@ -315,14 +315,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Mombuca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mombuca-sp-abre-concurso-para-cargos-de-nivel-fundamental-e-medio",
-    "end_date": "2026-04-17",
-    "vacancies": 2,
-    "salary_text": "R$ 2.314,18",
-    "salary_value": 2314.18
-  },
-  {
     "title": "Prefeitura de Pedregulho",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-abre-concurso-com-salarios-de-ate-13776",
     "end_date": "2026-04-23",
@@ -345,14 +337,6 @@
     "vacancies": 11,
     "salary_text": "R$ 23.187,15",
     "salary_value": 23187.15
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-doutor-no-instituto-de-artes",
-    "end_date": "2026-04-17",
-    "vacancies": 1,
-    "salary_text": "R$ 2.834,67",
-    "salary_value": 2834.67
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -483,14 +467,6 @@
     "salary_value": 8357.11
   },
   {
-    "title": "Prefeitura de Santa Cruz das Palmeiras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-das-palmeiras-sp-abre-concurso-publico-com-salarios-de-ate-4-2-mil",
-    "end_date": "2026-04-17",
-    "vacancies": 8,
-    "salary_text": "R$ 4.291,68",
-    "salary_value": 4291.68
-  },
-  {
     "title": "Prefeitura de Franco da Rocha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-franco-da-rocha-sp-anuncia-concurso-publico-com-salarios-de-ate-6-mil",
     "end_date": "2026-04-22",
@@ -553,14 +529,6 @@
     "salary_value": 5808.5
   },
   {
-    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-especialista-em-gestacao-de-alto-risco",
-    "end_date": "2026-04-17",
-    "vacancies": 1,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concurso-publico-para-o-cargo-de-professor-titular-em-araraquara",
     "end_date": "2026-05-20",
@@ -575,14 +543,6 @@
     "vacancies": 5,
     "salary_text": "R$ 7.195,43",
     "salary_value": 7195.43
-  },
-  {
-    "title": "HCFMRP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-editais-de-concursos-publicos-anunciam-vagas-para-medicos-em-diversas-especialidades",
-    "end_date": "2026-04-17",
-    "vacancies": 6,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
   },
   {
     "title": "IFUSP - Instituto de Física da Universidade de São Paulo",
@@ -615,14 +575,6 @@
     "vacancies": 1,
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-na-area-de-antropologia-em-bauru-sp",
-    "end_date": "2026-04-17",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -671,12 +623,6 @@
     "vacancies": 1,
     "salary_text": "R$ 3.335,34",
     "salary_value": 3335.34
-  },
-  {
-    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
-    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-selecao-para-brigadista-e-chefe-de-esquadrao-em-ipero",
-    "end_date": "2026-04-17",
-    "vacancies": 2
   },
   {
     "title": "Câmara de Ibitinga",
