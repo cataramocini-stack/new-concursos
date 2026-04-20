@@ -1260,5 +1260,28 @@
     "vacancies": 9,
     "salary_text": "R$ 4.929,05",
     "salary_value": 4929.05
+  },
+  {
+    "title": "Prefeitura de Franco da Rocha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-franco-da-rocha-sp-retifica-concurso-publico-com-salarios-de-ate-6-mil",
+    "end_date": "2026-04-22",
+    "salary_text": "R$ 6.067,97",
+    "salary_value": 6067.97
+  },
+  {
+    "title": "Prefeitura de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campinas-sp-abre-concurso-para-tradutor-e-interprete-de-libras",
+    "end_date": "2026-06-29",
+    "vacancies": 5,
+    "salary_text": "R$ 4.101,84",
+    "salary_value": 4101.84
+  },
+  {
+    "title": "Prefeitura de Lindoia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-sp-abre-concurso-publico-com-salarios-de-ate-4-5-mil",
+    "end_date": "2026-05-19",
+    "vacancies": 9,
+    "salary_text": "R$ 4.508,68",
+    "salary_value": 4508.68
   }
 ]
