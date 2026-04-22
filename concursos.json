@@ -1251,5 +1251,29 @@
     "vacancies": 5,
     "salary_text": "R$ 6.105,89",
     "salary_value": 6105.89
+  },
+  {
+    "title": "Prefeitura da Estância Hidromineral de Serra Negra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-negra-sp-anuncia-processo-seletivo-para-motoristas-de-transporte-escolar",
+    "end_date": "2026-04-30",
+    "vacancies": 3,
+    "salary_text": "R$ 1.974,37",
+    "salary_value": 1974.37
+  },
+  {
+    "title": "Prefeitura de Taguaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taguai-sp-abre-concurso-com-salarios-de-ate-4-4-mil",
+    "end_date": "2026-05-12",
+    "vacancies": 3,
+    "salary_text": "R$ 4.433,43",
+    "salary_value": 4433.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-probabilidade-e-estatistica-em-botucatu",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
