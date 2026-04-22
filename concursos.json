@@ -1275,5 +1275,21 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura de Luiziânia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiziania-sp-abre-concurso-e-processo-seletivo-com-salarios-de-ate-4-mil",
+    "end_date": "2026-05-03",
+    "vacancies": 7,
+    "salary_text": "R$ 4.080,01",
+    "salary_value": 4080.01
+  },
+  {
+    "title": "Prefeitura de Óleo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-publica-edital-retificado-de-concurso-publico",
+    "end_date": "2026-05-03",
+    "vacancies": 9,
+    "salary_text": "R$ 4.929,05",
+    "salary_value": 4929.05
   }
 ]
