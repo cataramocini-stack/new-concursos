@@ -1291,5 +1291,21 @@
     "vacancies": 9,
     "salary_text": "R$ 4.929,05",
     "salary_value": 4929.05
+  },
+  {
+    "title": "FHSL - Fundação Hospital Santa Lydia",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-niveis-medio-e-superior",
+    "end_date": "2026-05-04",
+    "vacancies": 3,
+    "salary_text": "R$ 3.375,46",
+    "salary_value": 3375.46
+  },
+  {
+    "title": "Prefeitura de Santa Isabel",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-isabel-sp-abre-processo-seletivo-com-vagas-para-professores",
+    "end_date": "2026-05-13",
+    "vacancies": 28,
+    "salary_text": "R$ 3.802,59",
+    "salary_value": 3802.59
   }
 ]
