@@ -1238,5 +1238,19 @@
     "vacancies": 3,
     "salary_text": "R$ 1.621,00",
     "salary_value": 1621.0
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-selecao-para-agentes-temporarios-ambientais-em-ipero",
+    "end_date": "2026-05-13",
+    "vacancies": 1
+  },
+  {
+    "title": "Prefeitura de Emilianópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-emilianopolis-sp-abre-concurso-publico-com-remuneracoes-de-ate-6-4-mil",
+    "end_date": "2026-05-07",
+    "vacancies": 14,
+    "salary_text": "R$ 6.475,61",
+    "salary_value": 6475.61
   }
 ]
