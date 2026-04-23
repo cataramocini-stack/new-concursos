@@ -1252,5 +1252,27 @@
     "vacancies": 14,
     "salary_text": "R$ 6.475,61",
     "salary_value": 6475.61
+  },
+  {
+    "title": "Câmara de Santa Isabel",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-abre-concurso-com-salarios-de-ate-9-9-mil",
+    "end_date": "2026-05-25",
+    "vacancies": 1,
+    "salary_text": "R$ 9.916,51",
+    "salary_value": 9916.51
+  },
+  {
+    "title": "EsPCEx - Escola Preparatória de Cadetes do Exército",
+    "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
+    "end_date": "2026-05-29",
+    "vacancies": 440
+  },
+  {
+    "title": "Prefeitura de Maracaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maracai-sp-abre-concurso-publico-com-salarios-de-ate-18199",
+    "end_date": "2026-05-07",
+    "vacancies": 15,
+    "salary_text": "R$ 18.199,95",
+    "salary_value": 18199.95
   }
 ]
