@@ -1232,5 +1232,77 @@
     "vacancies": 15,
     "salary_text": "R$ 18.199,95",
     "salary_value": 18199.95
+  },
+  {
+    "title": "CAU/SP - Conselho de Arquitetura e Urbanismo de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/cau-sp-abre-concurso-publico-com-vagas-para-assistentes-e-analistas-tecnicos",
+    "end_date": "2026-06-03",
+    "vacancies": 36,
+    "salary_text": "R$ 10.046,54",
+    "salary_value": 10046.54
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-abre-processos-seletivos-com-salarios-de-ate-11620-em-itapetininga-e-botucatu",
+    "end_date": "2026-05-06",
+    "vacancies": 12,
+    "salary_text": "R$ 11.620,63",
+    "salary_value": 11620.63
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-matematica-no-campus-de-presidente-prudente-sp",
+    "end_date": "2026-05-12",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-com-vaga-para-professor-substituto-em-sao-jose-dos-campos-sp",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-matematica-em-rio-claro-sp",
+    "end_date": "2026-05-12",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-na-area-de-ciencias-humanas-em-bauru-sp",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 8.578,39",
+    "salary_value": 8578.39
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-em-concurso-publico-para-professor-substituto-no-campus-sao-joao-da-boa-vista-sp",
+    "end_date": "2026-05-13",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-cinco-concursos-publicos-para-professores-substitutos-em-presidente-prudente-sp",
+    "end_date": "2026-05-11",
+    "vacancies": 5,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-na-area-de-enfermagem",
+    "end_date": "2026-06-02",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,30",
+    "salary_value": 16353.3
   }
 ]
