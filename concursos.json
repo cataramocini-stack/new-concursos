@@ -23,17 +23,6 @@
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-doutor-na-faculdade-de-engenharia-de-alimentos",
-    "official_link": null,
-    "end_date": "2026-04-23",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 23/04/2026",
-    "positions": []
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-toxicologia-de-alimentos",
     "official_link": null,
     "end_date": "2026-05-04",
@@ -292,14 +281,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Pedregulho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-abre-concurso-com-salarios-de-ate-13776",
-    "end_date": "2026-04-23",
-    "vacancies": 7,
-    "salary_text": "R$ 13.776,67",
-    "salary_value": 13776.67
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-professores-doutores-no-instituto-de-computacao",
     "end_date": "2026-05-08",
@@ -418,13 +399,6 @@
     "vacancies": 23,
     "salary_text": "R$ 5.721,43",
     "salary_value": 5721.43
-  },
-  {
-    "title": "Prefeitura de Morro Agudo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-agudo-sp-abre-processo-seletivo-com-cadastro-reserva-para-professores",
-    "end_date": "2026-04-23",
-    "salary_text": "R$ 31,04",
-    "salary_value": 31.04
   },
   {
     "title": "Prefeitura da Estância Balneária de Itanhaém",
@@ -580,25 +554,9 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-concursos-para-professores-substitutos-em-presidente-prudente-sp",
-    "end_date": "2026-04-23",
-    "vacancies": 5,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vagas-para-professores-substitutos-de-engenharia-eletrica-no-campus-de-bauru",
     "end_date": "2026-04-24",
     "vacancies": 2,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-saude-coletiva-em-botucatu-sp",
-    "end_date": "2026-04-23",
-    "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
   },
