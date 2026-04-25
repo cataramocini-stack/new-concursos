@@ -1245,5 +1245,37 @@
     "vacancies": 7,
     "salary_text": "R$ 13.776,67",
     "salary_value": 13776.67
+  },
+  {
+    "title": "Câmara da Estância de Ibirá",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-estancia-de-ibira-sp-abre-concurso-para-procurador-juridico",
+    "end_date": "2026-05-11",
+    "vacancies": 1,
+    "salary_text": "R$ 12.900,00",
+    "salary_value": 12900.0
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-analista-de-sistemas-junior",
+    "end_date": "2026-05-12",
+    "vacancies": 1,
+    "salary_text": "R$ 5.100,00",
+    "salary_value": 5100.0
+  },
+  {
+    "title": "Prefeitura de Araçoiaba da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vaga-para-medico-ginecologista",
+    "end_date": "2026-04-29",
+    "vacancies": 1,
+    "salary_text": "R$ 6.840,49",
+    "salary_value": 6840.49
+  },
+  {
+    "title": "Prefeitura de Sete Barras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-barras-sp-abre-processo-seletivo-com-salarios-de-ate-14-mil",
+    "end_date": "2026-05-07",
+    "vacancies": 79,
+    "salary_text": "R$ 14.192,22",
+    "salary_value": 14192.22
   }
 ]
