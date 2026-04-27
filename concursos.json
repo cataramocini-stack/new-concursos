@@ -1278,5 +1278,29 @@
     "vacancies": 21,
     "salary_text": "R$ 7.193,63",
     "salary_value": 7193.63
+  },
+  {
+    "title": "Câmara de Tietê",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-tiete-sp-abre-concurso-para-analista-de-compras-e-licitacoes",
+    "end_date": "2026-05-26",
+    "vacancies": 1,
+    "salary_text": "R$ 6.027,86",
+    "salary_value": 6027.86
+  },
+  {
+    "title": "HCFMRP - USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-com-vaga-para-medico-geriatra",
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "Prefeitura de Nova Canaã Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-canaa-paulista-sp-abre-concurso-publico-com-salarios-de-ate-5757",
+    "end_date": "2026-05-27",
+    "vacancies": 18,
+    "salary_text": "R$ 5.757,29",
+    "salary_value": 5757.29
   }
 ]
