@@ -1202,5 +1202,45 @@
     "end_date": "2026-05-04",
     "salary_text": "R$ 31,04",
     "salary_value": 31.04
+  },
+  {
+    "title": "Prefeitura de Jardinópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-sp-abre-concurso-publico-para-diversos-cargos",
+    "end_date": "2026-06-08",
+    "vacancies": 87,
+    "salary_text": "R$ 5.883,47",
+    "salary_value": 5883.47
+  },
+  {
+    "title": "Prefeitura de Jumirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jumirim-sp-abre-concurso-publico-para-assistente-administrativo-e-fonoaudiologo",
+    "end_date": "2026-05-14",
+    "vacancies": 2,
+    "salary_text": "R$ 4.625,27",
+    "salary_value": 4625.27
+  },
+  {
+    "title": "Prefeitura de Martinópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-martinopolis-sp-abre-concurso-publico-com-salarios-de-ate-16-2-mil",
+    "end_date": "2026-05-13",
+    "vacancies": 12,
+    "salary_text": "R$ 16.246,98",
+    "salary_value": 16246.98
+  },
+  {
+    "title": "Prefeitura de Palmares Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-paulista-sp-abre-concurso-para-fiscal-tributario",
+    "end_date": "2026-05-12",
+    "vacancies": 1,
+    "salary_text": "R$ 2.993,47",
+    "salary_value": 2993.47
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Pompeia",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-pompeia-sp-abre-concurso-com-12-vagas-para-nivel-fundamental",
+    "end_date": "2026-05-27",
+    "vacancies": 12,
+    "salary_text": "R$ 2.098,73",
+    "salary_value": 2098.73
   }
 ]
