@@ -131,14 +131,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Indaiatuba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaiatuba-sp-abre-concurso-com-50-vagas-para-professores",
-    "end_date": "2026-04-28",
-    "vacancies": 50,
-    "salary_text": "R$ 5.998,65",
-    "salary_value": 5998.65
-  },
-  {
     "title": "PM/SP - Polícia Militar do Estado de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-concurso-com-36-vagas-para-medicos-em-diversas-especialidades",
     "end_date": "2026-05-07",
@@ -291,14 +283,6 @@
     "salary_value": 24309.11
   },
   {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-publicos-para-o-cargo-de-professor-doutor-no-instituto-de-fisica-gleb-wataghin",
-    "end_date": "2026-04-28",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
     "title": "Prefeitura de Itapeva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
     "end_date": "2026-05-07",
@@ -403,14 +387,6 @@
     "salary_value": 2834.61
   },
   {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-com-vaga-para-medico-ginecologista",
-    "end_date": "2026-04-28",
-    "vacancies": 1,
-    "salary_text": "R$ 8.223,63",
-    "salary_value": 8223.63
-  },
-  {
     "title": "Prefeitura de Taiúva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiuva-sp-abre-editais-de-concursos-e-de-selecao-publica",
     "end_date": "2026-05-04",
@@ -451,14 +427,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Nazaré Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nazare-paulista-sp-abre-concurso-publico-com-salarios-de-ate-6-mil",
-    "end_date": "2026-04-28",
-    "vacancies": 7,
-    "salary_text": "R$ 6.047,02",
-    "salary_value": 6047.02
-  },
-  {
     "title": "Prefeitura de Lutécia",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lutecia-sp-abre-concurso-para-formacao-de-cadastro-reserva-em-diversas-areas",
     "end_date": "2026-04-30",
@@ -483,14 +451,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-concursos-abrem-vagas-para-professores-substitutos-no-campus-de-jaboticabal-sp",
-    "end_date": "2026-04-28",
-    "vacancies": 2,
-    "salary_text": "R$ 8.578,39",
-    "salary_value": 8578.39
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-engenharia-mecanica-em-guaratingueta-sp",
     "end_date": "2026-05-08",
     "vacancies": 1,
@@ -504,22 +464,6 @@
     "vacancies": 2,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-processo-seletivo-abre-vaga-para-desenvolvedor-de-sistemas-no-cepetro",
-    "end_date": "2026-04-28",
-    "vacancies": 1,
-    "salary_text": "R$ 7.500,00",
-    "salary_value": 7500.0
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-publica-edital-de-processo-seletivo-para-o-cargo-de-enfermeiro-no-hospital-de-clinicas",
-    "end_date": "2026-04-28",
-    "vacancies": 1,
-    "salary_text": "R$ 6.765,61",
-    "salary_value": 6765.61
   },
   {
     "title": "Prefeitura de Mairiporã",
@@ -568,14 +512,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "URBAM - Urbanizadora Municipal S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/urbam-sao-jose-dos-campos-sp-abre-25-vagas-para-auxiliar-de-servicos-gerais",
-    "end_date": "2026-04-28",
-    "vacancies": 25,
-    "salary_text": "R$ 1.804,00",
-    "salary_value": 1804.0
   },
   {
     "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
