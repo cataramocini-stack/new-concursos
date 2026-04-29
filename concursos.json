@@ -1186,5 +1186,65 @@
     "vacancies": 1,
     "salary_text": "R$ 3.894,43",
     "salary_value": 3894.43
+  },
+  {
+    "title": "FMVZ - Faculdade de Medicina Veterinária e Zootecnia da USP",
+    "link": "https://www.pciconcursos.com.br/noticias/fmvz-da-usp-abre-processo-seletivo-para-professor-contratado-iii-no-departamento-de-patologia",
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 2.384,62",
+    "salary_value": 2384.62
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Olímpia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpia-sp-abre-concurso-publico-com-salarios-de-ate-9-mil",
+    "end_date": "2026-06-02",
+    "vacancies": 70,
+    "salary_text": "R$ 9.581,64",
+    "salary_value": 9581.64
+  },
+  {
+    "title": "Prefeitura de Bom Jesus dos Perdões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-dos-perdoes-sp-abre-processo-seletivo-para-diversos-cargos",
+    "end_date": "2026-05-18",
+    "vacancies": 18,
+    "salary_text": "R$ 4.453,63",
+    "salary_value": 4453.63
+  },
+  {
+    "title": "Prefeitura de Nantes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nantes-sp-abre-concurso-publico-com-salarios-de-ate-6-7-mil",
+    "end_date": "2026-06-05",
+    "vacancies": 30,
+    "salary_text": "R$ 6.772,90",
+    "salary_value": 6772.9
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-campinas",
+    "end_date": "2026-05-11",
+    "vacancies": 1
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-com-vaga-para-professor-no-colegio-tecnico-de-limeira",
+    "end_date": "2026-05-18",
+    "vacancies": 1
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-vaga-para-professor-substituto-em-enfermagem-pediatrica",
+    "end_date": "2026-05-06",
+    "vacancies": 1,
+    "salary_text": "R$ 8.340,33",
+    "salary_value": 8340.33
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-processo-seletivo-para-professor-substituto-na-area-de-oftalmologia",
+    "end_date": "2026-05-09",
+    "vacancies": 1,
+    "salary_text": "R$ 9.532,33",
+    "salary_value": 9532.33
   }
 ]
