@@ -1238,5 +1238,29 @@
     "vacancies": 14,
     "salary_text": "R$ 4.097,56",
     "salary_value": 4097.56
+  },
+  {
+    "title": "Prefeitura de Orindiúva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orindiuva-sp-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
+    "end_date": "2026-06-01",
+    "vacancies": 29,
+    "salary_text": "R$ 8.091,11",
+    "salary_value": 8091.11
+  },
+  {
+    "title": "Prefeitura de Tabapuã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-7418",
+    "end_date": "2026-05-15",
+    "vacancies": 23,
+    "salary_text": "R$ 7.418,39",
+    "salary_value": 7418.39
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-de-fisioterapia-no-campus-baixada-santista",
+    "end_date": "2026-05-20",
+    "vacancies": 1,
+    "salary_text": "R$ 6.157,29",
+    "salary_value": 6157.29
   }
 ]
