@@ -1108,5 +1108,109 @@
     "vacancies": 1,
     "salary_text": "R$ 6.157,29",
     "salary_value": 6157.29
+  },
+  {
+    "title": "Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente",
+    "link": "https://www.pciconcursos.com.br/noticias/caixa-de-saude-de-sao-vicente-sp-abre-concurso-para-cargos-de-nivel-superior",
+    "end_date": "2026-06-08",
+    "vacancies": 3,
+    "salary_text": "R$ 6.811,67",
+    "salary_value": 6811.67
+  },
+  {
+    "title": "EEL-USP - Escola de Engenharia de Lorena da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/eel-usp-abre-processos-seletivos-para-professores-contratados",
+    "end_date": "2026-05-14",
+    "vacancies": 2,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-divulga-processo-seletivo-para-biologista-no-hospital-estadual-sumare",
+    "end_date": "2026-05-19",
+    "vacancies": 1,
+    "salary_text": "R$ 4.419,79",
+    "salary_value": 4419.79
+  },
+  {
+    "title": "ICB-USP - Instituto de Ciências Biomédicas da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/icb-usp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-departamento-de-anatomia",
+    "end_date": "2026-06-02",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Ibitinga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-de-nivel-fundamental-e-medio",
+    "end_date": "2026-05-18",
+    "vacancies": 5,
+    "salary_text": "R$ 2.288,17",
+    "salary_value": 2288.17
+  },
+  {
+    "title": "Prefeitura de Atibaia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-atibaia-sp-abre-processo-seletivo-para-o-cargo-de-coveiro",
+    "end_date": "2026-05-21",
+    "vacancies": 6,
+    "salary_text": "R$ 2.220,75",
+    "salary_value": 2220.75
+  },
+  {
+    "title": "Prefeitura de Dois Córregos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dois-corregos-sp-abre-selecao-para-professores-de-reforco",
+    "end_date": "2026-06-01",
+    "vacancies": 10,
+    "salary_text": "R$ 3.847,97",
+    "salary_value": 3847.97
+  },
+  {
+    "title": "Prefeitura de Dois Córregos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dois-corregos-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+    "end_date": "2026-06-01",
+    "vacancies": 21,
+    "salary_text": "R$ 6.567,10",
+    "salary_value": 6567.1
+  },
+  {
+    "title": "Prefeitura de Guarulhos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-novos-concursos-para-cargos-de-nivel-superior",
+    "end_date": "2026-06-02",
+    "vacancies": 20,
+    "salary_text": "R$ 3.791,98",
+    "salary_value": 3791.98
+  },
+  {
+    "title": "Prefeitura de Pinhalzinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sp-abre-processo-seletivo-para-o-cargo-de-motorista",
+    "end_date": "2026-05-10",
+    "vacancies": 1,
+    "salary_text": "R$ 2.299,24",
+    "salary_value": 2299.24
+  },
+  {
+    "title": "Prefeitura de Tabatinga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabatinga-sp-abre-concurso-publico-com-salarios-de-ate-3720",
+    "end_date": "2026-05-18",
+    "vacancies": 3,
+    "salary_text": "R$ 3.720,59",
+    "salary_value": 3720.59
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-assistente-na-area-de-fisica-em-presidente-prudente",
+    "end_date": "2026-06-09",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-de-ensino-medio-e-tecnico-em-bauru",
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 29,87",
+    "salary_value": 29.87
   }
 ]
