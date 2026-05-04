@@ -379,14 +379,6 @@
     "salary_value": 5512.8
   },
   {
-    "title": "Prefeitura de Piratininga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-concurso-publico-com-67-vagas",
-    "end_date": "2026-05-03",
-    "vacancies": 67,
-    "salary_text": "R$ 9.410,06",
-    "salary_value": 9410.06
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-assistente-de-meteorologia-em-bauru-sp",
     "end_date": "2026-05-12",
@@ -589,13 +581,6 @@
     "salary_value": 4719.55
   },
   {
-    "title": "Câmara de Martinópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-concurso-publico-com-formacao-de-cadastro-reserva",
-    "end_date": "2026-05-03",
-    "salary_text": "R$ 5.603,41",
-    "salary_value": 5603.41
-  },
-  {
     "title": "Câmara de Presidente Prudente",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-abre-concurso-publico-com-salarios-de-ate-22-mil",
     "end_date": "2026-05-21",
@@ -633,14 +618,6 @@
     "end_date": "2026-05-19",
     "salary_text": "R$ 2.685,84",
     "salary_value": 2685.84
-  },
-  {
-    "title": "Prefeitura de Igaraçu do Tietê",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igaracu-do-tiete-sp-abre-concurso-publico-para-operario-i",
-    "end_date": "2026-05-03",
-    "vacancies": 3,
-    "salary_text": "R$ 1.621,00",
-    "salary_value": 1621.0
   },
   {
     "title": "Prefeitura de Tambaú",
@@ -742,14 +719,6 @@
     "salary_value": 4605.39
   },
   {
-    "title": "Prefeitura de Óleo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-abre-concurso-publico-com-salarios-de-ate-4-9-mil",
-    "end_date": "2026-05-03",
-    "vacancies": 9,
-    "salary_text": "R$ 4.929,05",
-    "salary_value": 4929.05
-  },
-  {
     "title": "Prefeitura de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campinas-sp-abre-concurso-para-tradutor-e-interprete-de-libras",
     "end_date": "2026-06-29",
@@ -790,22 +759,6 @@
     "salary_value": 3379.43
   },
   {
-    "title": "Prefeitura de Luiziânia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiziania-sp-abre-concurso-e-processo-seletivo-com-salarios-de-ate-4-mil",
-    "end_date": "2026-05-03",
-    "vacancies": 7,
-    "salary_text": "R$ 4.080,01",
-    "salary_value": 4080.01
-  },
-  {
-    "title": "Prefeitura de Óleo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-publica-edital-retificado-de-concurso-publico",
-    "end_date": "2026-05-03",
-    "vacancies": 9,
-    "salary_text": "R$ 4.929,05",
-    "salary_value": 4929.05
-  },
-  {
     "title": "FHSL - Fundação Hospital Santa Lydia",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-niveis-medio-e-superior",
     "end_date": "2026-05-04",
@@ -820,14 +773,6 @@
     "vacancies": 28,
     "salary_text": "R$ 3.802,59",
     "salary_value": 3802.59
-  },
-  {
-    "title": "Prefeitura de Igaraçu do Tietê",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igaracu-do-tiete-sp-retifica-concurso-publico-para-operario-i",
-    "end_date": "2026-05-03",
-    "vacancies": 3,
-    "salary_text": "R$ 1.621,00",
-    "salary_value": 1621.0
   },
   {
     "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
