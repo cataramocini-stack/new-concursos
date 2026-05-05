@@ -11,17 +11,6 @@
     "positions": []
   },
   {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-na-area-de-toxicologia-de-alimentos",
-    "official_link": null,
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3,
-    "raw_text": "UNICAMP - Universidade Estadual de Campinas SP 1 vaga até R$ 16.353,30 Professor Doutor Superior 04/03 a 04/05/2026",
-    "positions": []
-  },
-  {
     "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-promove-edital-de-concurso-publico-com-uma-vaga-para-cargo-de-professor",
     "official_link": null,
@@ -74,17 +63,6 @@
     "salary_text": "R$ 24.309,11",
     "salary_value": 24309.11,
     "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 15/06/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-para-professor-doutor-em-sistemas-complexos",
-    "official_link": null,
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 16.353,01 Professor Doutor Superior 04/05/2026",
     "positions": []
   },
   {
@@ -243,22 +221,6 @@
     "salary_value": 14717.71
   },
   {
-    "title": "Prefeitura do Município de Osasco",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osasco-sp-abre-concurso-publico-com-35-vagas-e-salarios-de-ate-5-7-mil",
-    "end_date": "2026-05-04",
-    "vacancies": 35,
-    "salary_text": "R$ 5.710,88",
-    "salary_value": 5710.88
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-titular-na-area-de-fisiologia",
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
     "title": "Prefeitura de Itapeva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
     "end_date": "2026-05-07",
@@ -307,22 +269,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Casa Branca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-casa-branca-sp-abre-concurso-publico-com-69-vagas-no-departamento-de-educacao",
-    "end_date": "2026-05-04",
-    "vacancies": 69,
-    "salary_text": "R$ 3.859,89",
-    "salary_value": 3859.89
-  },
-  {
-    "title": "Prefeitura de Itapecerica da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapecerica-da-serra-sp-abre-concurso-com-vagas-para-nivel-medio-e-superior",
-    "end_date": "2026-05-04",
-    "vacancies": 9,
-    "salary_text": "R$ 4.837,10",
-    "salary_value": 4837.1
-  },
-  {
     "title": "UNESP - Faculdade de Medicina Veterinária de Araçatuba",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-titular-de-medicina-veterinaria-em-aracatuba-sp",
     "end_date": "2026-05-27",
@@ -361,14 +307,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.834,61",
     "salary_value": 2834.61
-  },
-  {
-    "title": "Prefeitura de Taiúva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiuva-sp-abre-editais-de-concursos-e-de-selecao-publica",
-    "end_date": "2026-05-04",
-    "vacancies": 16,
-    "salary_text": "R$ 10.579,00",
-    "salary_value": 10579.0
   },
   {
     "title": "Prefeitura de Parisi",
@@ -506,14 +444,6 @@
     "salary_value": 7193.63
   },
   {
-    "title": "UNESP - Faculdade de Ciências e Letras de Assis",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concursos-para-professores-substitutos-na-faculdade-de-ciencias-e-letras-de-assis-sp",
-    "end_date": "2026-05-04",
-    "vacancies": 5,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-para-professor-substituto-de-biotecnologia-industrial-em-araraquara-sp",
     "end_date": "2026-05-06",
@@ -566,21 +496,6 @@
     "end_date": "2026-05-13"
   },
   {
-    "title": "Prefeitura do Município de Santana de Parnaíba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-processo-seletivo-com-salarios-de-ate-5-5-mil",
-    "end_date": "2026-05-04",
-    "salary_text": "R$ 5.568,49",
-    "salary_value": 5568.49
-  },
-  {
-    "title": "Prefeitura de Tietê",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tiete-sp-abre-processo-seletivo-para-engenheiro-civil",
-    "end_date": "2026-05-04",
-    "vacancies": 1,
-    "salary_text": "R$ 4.719,55",
-    "salary_value": 4719.55
-  },
-  {
     "title": "Câmara de Presidente Prudente",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-presidente-prudente-sp-abre-concurso-publico-com-salarios-de-ate-22-mil",
     "end_date": "2026-05-21",
@@ -605,27 +520,11 @@
     "salary_value": 5979.93
   },
   {
-    "title": "Prefeitura da Estância Hidromineral de Águas de Santa Bárbara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-de-santa-barbara-sp-abre-concurso-publico-com-salarios-de-ate-5-3-mil",
-    "end_date": "2026-05-04",
-    "vacancies": 4,
-    "salary_text": "R$ 5.390,90",
-    "salary_value": 5390.9
-  },
-  {
     "title": "Prefeitura da Estância Turística de São Roque",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-processo-seletivo-para-a-area-da-educacao",
     "end_date": "2026-05-19",
     "salary_text": "R$ 2.685,84",
     "salary_value": 2685.84
-  },
-  {
-    "title": "Prefeitura de Tambaú",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tambau-sp-abre-processo-seletivo-para-professores",
-    "end_date": "2026-05-04",
-    "vacancies": 4,
-    "salary_text": "R$ 3.847,97",
-    "salary_value": 3847.97
   },
   {
     "title": "Prefeitura do Município de Carapicuíba",
@@ -759,14 +658,6 @@
     "salary_value": 3379.43
   },
   {
-    "title": "FHSL - Fundação Hospital Santa Lydia",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-vagas-para-niveis-medio-e-superior",
-    "end_date": "2026-05-04",
-    "vacancies": 3,
-    "salary_text": "R$ 3.375,46",
-    "salary_value": 3375.46
-  },
-  {
     "title": "Prefeitura de Santa Isabel",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-isabel-sp-abre-processo-seletivo-com-vagas-para-professores",
     "end_date": "2026-05-13",
@@ -891,14 +782,6 @@
     "salary_value": 21809.43
   },
   {
-    "title": "Prefeitura de Pedregulho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedregulho-sp-prorroga-inscricoes-de-concurso-com-salarios-de-ate-13776",
-    "end_date": "2026-05-04",
-    "vacancies": 7,
-    "salary_text": "R$ 13.776,67",
-    "salary_value": 13776.67
-  },
-  {
     "title": "Câmara da Estância de Ibirá",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-estancia-de-ibira-sp-abre-concurso-para-procurador-juridico",
     "end_date": "2026-05-11",
@@ -961,13 +844,6 @@
     "vacancies": 18,
     "salary_text": "R$ 5.757,29",
     "salary_value": 5757.29
-  },
-  {
-    "title": "Prefeitura de Morro Agudo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-agudo-sp-prorroga-inscricoes-de-processo-seletivo-para-professores",
-    "end_date": "2026-05-04",
-    "salary_text": "R$ 31,04",
-    "salary_value": 31.04
   },
   {
     "title": "Prefeitura de Jardinópolis",
