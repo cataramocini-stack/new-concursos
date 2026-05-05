@@ -1151,5 +1151,37 @@
     "vacancies": 79,
     "salary_text": "R$ 14.192,22",
     "salary_value": 14192.22
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-em-processo-seletivo-para-analista-contabil-junior",
+    "end_date": "2026-05-20",
+    "vacancies": 1,
+    "salary_text": "R$ 4.659,28",
+    "salary_value": 4659.28
+  },
+  {
+    "title": "Prefeitura de Luiziânia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiziania-sp-abre-processo-seletivo-para-auxiliar-de-servicos-gerais",
+    "end_date": "2026-05-13",
+    "vacancies": 1,
+    "salary_text": "R$ 1.621,00",
+    "salary_value": 1621.0
+  },
+  {
+    "title": "Prefeitura de Piratininga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-vagas-para-o-cargo-de-ajudante-geral",
+    "end_date": "2026-05-08",
+    "vacancies": 5,
+    "salary_text": "R$ 1.946,31",
+    "salary_value": 1946.31
+  },
+  {
+    "title": "Prefeitura de Tatuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tatui-sp-abre-processo-seletivo-para-medicos-psiquiatras",
+    "end_date": "2026-05-13",
+    "vacancies": 2,
+    "salary_text": "R$ 159,02",
+    "salary_value": 159.02
   }
 ]
