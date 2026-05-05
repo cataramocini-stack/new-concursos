@@ -1096,5 +1096,60 @@
     "vacancies": 29,
     "salary_text": "R$ 8.091,11",
     "salary_value": 8091.11
+  },
+  {
+    "title": "Câmara de Tietê",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-tiete-sp-retifica-concurso-para-analista-de-compras-e-licitacoes",
+    "end_date": "2026-05-26",
+    "vacancies": 1,
+    "salary_text": "R$ 6.027,86",
+    "salary_value": 6027.86
+  },
+  {
+    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecao-para-medico-ortopedista-no-hospital-de-clinicas",
+    "end_date": "2026-05-19",
+    "vacancies": 1,
+    "salary_text": "R$ 3.803,30",
+    "salary_value": 3803.3
+  },
+  {
+    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-agente-temporario-ambiental-em-presidente-epitacio",
+    "end_date": "2026-05-14",
+    "salary_text": "R$ 1412,00",
+    "salary_value": 1412.0
+  },
+  {
+    "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsp-abre-processo-seletivo-para-professores-substitutos-com-salarios-de-ate-8-3-mil",
+    "end_date": "2026-05-19",
+    "vacancies": 37,
+    "salary_text": "R$ 8.340,33",
+    "salary_value": 8340.33
+  },
+  {
+    "title": "Prefeitura de Pirapora do Bom Jesus",
+    "link": "https://www.pciconcursos.com.br/noticias/pirapora-do-bom-jesus-sp-abre-editais-de-concurso-e-processo-seletivo-para-diversos-cargos",
+    "end_date": "2026-06-09",
+    "vacancies": 108,
+    "salary_text": "R$ 5.200,00",
+    "salary_value": 5200.0
+  },
+  {
+    "title": "Prefeitura de Sebastianópolis do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sebastianopolis-do-sul-sp-abre-vagas-para-agentes-de-saude-e-endemias",
+    "end_date": "2026-05-17",
+    "vacancies": 2,
+    "salary_text": "R$ 3.242,00",
+    "salary_value": 3242.0
+  },
+  {
+    "title": "Prefeitura de Sete Barras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-barras-sp-retifica-processo-seletivo-com-salarios-de-ate-14-mil",
+    "end_date": "2026-05-07",
+    "vacancies": 79,
+    "salary_text": "R$ 14.192,22",
+    "salary_value": 14192.22
   }
 ]
