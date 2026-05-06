@@ -1167,5 +1167,19 @@
     "end_date": "2026-05-15",
     "salary_text": "R$ 3.847,98",
     "salary_value": 3847.98
+  },
+  {
+    "title": "Prefeitura de Alfredo Marcondes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alfredo-marcondes-sp-abre-editais-para-concurso-publico-e-processo-seletivo",
+    "end_date": "2026-05-21",
+    "salary_text": "R$ 5.440,65",
+    "salary_value": 5440.65
+  },
+  {
+    "title": "Prefeitura de Itobi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itobi-sp-abre-processo-seletivo-para-cadastro-de-reserva",
+    "end_date": "2026-05-31",
+    "salary_text": "R$ 5.130,63",
+    "salary_value": 5130.63
   }
 ]
