@@ -1152,5 +1152,20 @@
     "vacancies": 2,
     "salary_text": "R$ 159,02",
     "salary_value": 159.02
+  },
+  {
+    "title": "Prefeitura de Itararé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itarare-sp-abre-concurso-e-processo-seletivo-com-salarios-de-ate-5-1-mil",
+    "end_date": "2026-05-29",
+    "vacancies": 15,
+    "salary_text": "R$ 5.135,27",
+    "salary_value": 5135.27
+  },
+  {
+    "title": "Prefeitura de Pederneiras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pederneiras-sp-abre-processo-seletivo-para-professores",
+    "end_date": "2026-05-15",
+    "salary_text": "R$ 3.847,98",
+    "salary_value": 3847.98
   }
 ]
