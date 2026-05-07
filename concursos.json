@@ -1125,5 +1125,53 @@
     "vacancies": 18,
     "salary_text": "R$ 5.757,29",
     "salary_value": 5757.29
+  },
+  {
+    "title": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-com-salarios-de-ate-5130",
+    "end_date": "2026-05-20",
+    "vacancies": 111,
+    "salary_text": "R$ 5.130,63",
+    "salary_value": 5130.63
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-com-vaga-para-o-cargo-de-psicologo",
+    "end_date": "2026-05-17",
+    "vacancies": 1,
+    "salary_text": "R$ 3.187,76",
+    "salary_value": 3187.76
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-anuncia-processos-seletivos-com-vagas-para-bauru-e-botucatu",
+    "end_date": "2026-05-20",
+    "vacancies": 14,
+    "salary_text": "R$ 4.934,38",
+    "salary_value": 4934.38
+  },
+  {
+    "title": "Prefeitura de Bauru",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-abre-seis-editais-de-concursos-publicos-para-diversas-areas",
+    "end_date": "2026-06-18",
+    "vacancies": 6,
+    "salary_text": "R$ 3.826,58",
+    "salary_value": 3826.58
+  },
+  {
+    "title": "Prefeitura de Bragança Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braganca-paulista-sp-publica-cinco-editais-de-concursos-publicos",
+    "end_date": "2026-06-11",
+    "vacancies": 89,
+    "salary_text": "R$ 7.318,27",
+    "salary_value": 7318.27
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-na-area-de-ciencias-sociais-aplicadas-em-ilha-solteira-sp",
+    "end_date": "2026-05-25",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
