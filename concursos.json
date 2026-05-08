@@ -78,14 +78,6 @@
   },
   {
     "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-vagas-para-professor-doutor-na-escola-de-engenharia-de-sao-carlos",
-    "end_date": "2026-05-07",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-anuncia-concurso-publico-para-professor-doutor-em-telecomunicacoes",
     "end_date": "2026-05-15",
     "vacancies": 1,
@@ -99,14 +91,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "PM/SP - Polícia Militar do Estado de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-concurso-com-36-vagas-para-medicos-em-diversas-especialidades",
-    "end_date": "2026-05-07",
-    "vacancies": 36,
-    "salary_text": "R$ 9.832,41",
-    "salary_value": 9832.41
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -134,24 +118,8 @@
   },
   {
     "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-vaga-para-professor-doutor-na-area-de-psiquiatria-geral",
-    "end_date": "2026-05-07",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
-  },
-  {
-    "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-departamento-de-patologia",
     "end_date": "2026-05-08",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-vaga-em-concurso-publico-para-professor-doutor-na-faculdade-de-medicina",
-    "end_date": "2026-05-07",
     "vacancies": 1,
     "salary_text": "R$ 7.195,43",
     "salary_value": 7195.43
@@ -197,28 +165,12 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Itapeva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapeva-sp-abre-concurso-com-salarios-de-ate-5-7-mil",
-    "end_date": "2026-05-07",
-    "vacancies": 23,
-    "salary_text": "R$ 5.721,43",
-    "salary_value": 5721.43
-  },
-  {
     "title": "Prefeitura da Estância Balneária de Itanhaém",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itanhaem-sp-abre-processo-seletivo-com-100-vagas",
     "end_date": "2026-05-14",
     "vacancies": 100,
     "salary_text": "R$ 2.560,00",
     "salary_value": 2560.0
-  },
-  {
-    "title": "Prefeitura de Bauru",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bauru-sp-reabre-concurso-publico-com-vaga-para-assistente-social",
-    "end_date": "2026-05-07",
-    "vacancies": 11,
-    "salary_text": "R$ 5.808,50",
-    "salary_value": 5808.5
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
@@ -285,14 +237,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "Prefeitura de Promissão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-promissao-sp-abre-concurso-publico-com-diversas-vagas-e-cadastro-de-reserva",
-    "end_date": "2026-05-07",
-    "vacancies": 194,
-    "salary_text": "R$ 6.376,74",
-    "salary_value": 6376.74
-  },
-  {
     "title": "Câmara de Votorantim",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-votorantim-sp-abre-concurso-publico-com-salarios-de-ate-7-5-mil",
     "end_date": "2026-05-26",
@@ -325,14 +269,6 @@
     "salary_value": 3978.41
   },
   {
-    "title": "Prefeitura de São Vicente",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-sp-abre-concurso-publico-com-salarios-de-ate-3-3-mil",
-    "end_date": "2026-05-07",
-    "vacancies": 59,
-    "salary_text": "R$ 3.385,13",
-    "salary_value": 3385.13
-  },
-  {
     "title": "Prefeitura do Município de Santana de Parnaíba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-concurso-publico-com-vagas-para-medicos",
     "end_date": "2026-05-10",
@@ -355,13 +291,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,30",
     "salary_value": 16353.3
-  },
-  {
-    "title": "Prefeitura de Bebedouro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bebedouro-sp-abre-processo-seletivo-para-a-area-da-educacao",
-    "end_date": "2026-05-07",
-    "salary_text": "R$ 26,94",
-    "salary_value": 26.94
   },
   {
     "title": "Prefeitura de Elias Fausto",
@@ -585,14 +514,6 @@
     "vacancies": 1
   },
   {
-    "title": "Prefeitura de Emilianópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-emilianopolis-sp-abre-concurso-publico-com-remuneracoes-de-ate-6-4-mil",
-    "end_date": "2026-05-07",
-    "vacancies": 14,
-    "salary_text": "R$ 6.475,61",
-    "salary_value": 6475.61
-  },
-  {
     "title": "Câmara de Santa Isabel",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-abre-concurso-com-salarios-de-ate-9-9-mil",
     "end_date": "2026-05-25",
@@ -605,14 +526,6 @@
     "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
     "end_date": "2026-05-29",
     "vacancies": 440
-  },
-  {
-    "title": "Prefeitura de Maracaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maracai-sp-abre-concurso-publico-com-salarios-de-ate-18199",
-    "end_date": "2026-05-07",
-    "vacancies": 15,
-    "salary_text": "R$ 18.199,95",
-    "salary_value": 18199.95
   },
   {
     "title": "CAU/SP - Conselho de Arquitetura e Urbanismo de São Paulo",
@@ -701,14 +614,6 @@
     "vacancies": 1,
     "salary_text": "R$ 5.100,00",
     "salary_value": 5100.0
-  },
-  {
-    "title": "Prefeitura de Sete Barras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-barras-sp-abre-processo-seletivo-com-salarios-de-ate-14-mil",
-    "end_date": "2026-05-07",
-    "vacancies": 79,
-    "salary_text": "R$ 14.192,22",
-    "salary_value": 14192.22
   },
   {
     "title": "Câmara de Arujá",
@@ -1040,14 +945,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.242,00",
     "salary_value": 3242.0
-  },
-  {
-    "title": "Prefeitura de Sete Barras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-barras-sp-retifica-processo-seletivo-com-salarios-de-ate-14-mil",
-    "end_date": "2026-05-07",
-    "vacancies": 79,
-    "salary_text": "R$ 14.192,22",
-    "salary_value": 14192.22
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
