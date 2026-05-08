@@ -1070,5 +1070,93 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+    "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diferentes-niveis-de-escolaridade-em-bauru",
+    "end_date": "2026-05-20",
+    "vacancies": 7,
+    "salary_text": "R$ 5.123,69",
+    "salary_value": 5123.69
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concursos-publicos-para-medicos-na-area-de-neurologia",
+    "end_date": "2026-05-29",
+    "vacancies": 2,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concursos-publicos-com-vagas-para-medicos-em-duas-especialidades",
+    "end_date": "2026-05-29",
+    "vacancies": 2,
+    "salary_text": "R$ 5.979,93",
+    "salary_value": 5979.93
+  },
+  {
+    "title": "Prefeitura de Pardinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pardinho-sp-anuncia-concurso-publico-com-salarios-de-ate-7-mil",
+    "end_date": "2026-06-15",
+    "vacancies": 35,
+    "salary_text": "R$ 7.098,00",
+    "salary_value": 7098.0
+  },
+  {
+    "title": "Prefeitura de São Miguel Arcanjo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-arcanjo-sp-abre-concurso-para-cargos-de-nivel-superior",
+    "end_date": "2026-06-15",
+    "vacancies": 1,
+    "salary_text": "R$ 6.885,37",
+    "salary_value": 6885.37
+  },
+  {
+    "title": "UNESP - Faculdade de Odontologia da Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professores-substitutos-de-odontologia-em-araraquara-sp",
+    "end_date": "2026-05-25",
+    "vacancies": 2,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-na-area-de-engenharia-de-producao-em-sorocaba-sp",
+    "end_date": "2026-05-26",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-de-concurso-publico-para-professor-colaborador-em-sao-joao-da-boa-vista-sp",
+    "end_date": "2026-05-15",
+    "vacancies": 1,
+    "salary_text": "R$ 7.195,43",
+    "salary_value": 7195.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-editais-de-concursos-publicos-para-professores-substitutos-no-campus-de-assis-sp",
+    "end_date": "2026-05-26",
+    "vacancies": 3,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vaga-em-processo-seletivo-para-professor-doutor-no-instituto-de-artes",
+    "end_date": "2026-06-05",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,67",
+    "salary_value": 2834.67
+  },
+  {
+    "title": "UNICAMP - Universidade Estadual de Campinas",
+    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-com-vaga-para-professor-doutor-no-instituto-de-artes",
+    "end_date": "2026-06-05",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,67",
+    "salary_value": 2834.67
   }
 ]
