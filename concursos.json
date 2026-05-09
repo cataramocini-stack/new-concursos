@@ -117,36 +117,12 @@
     "salary_value": 24309.11
   },
   {
-    "title": "FMUSP - Faculdade de Medicina da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/fmusp-sp-abre-concurso-publico-para-o-cargo-de-professor-doutor-no-departamento-de-patologia",
-    "end_date": "2026-05-08",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
-  },
-  {
     "title": "FMRP-USP - Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/fmrp-usp-abre-concurso-para-professor-doutor-no-departamento-de-patologia-e-medicina-legal",
     "end_date": "2026-06-15",
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-professores-doutores-no-instituto-de-computacao",
-    "end_date": "2026-05-08",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concursos-para-o-professor-doutor-no-instituto-de-computacao",
-    "end_date": "2026-05-08",
-    "vacancies": 2,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
   },
   {
     "title": "USP - Universidade de São Paulo",
@@ -243,14 +219,6 @@
     "vacancies": 8,
     "salary_text": "R$ 7.521,28",
     "salary_value": 7521.28
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-engenharia-mecanica-em-guaratingueta-sp",
-    "end_date": "2026-05-08",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -383,22 +351,6 @@
     "vacancies": 4,
     "salary_text": "R$ 22.010,63",
     "salary_value": 22010.63
-  },
-  {
-    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-para-medico-na-area-de-neurologia-pediatrica",
-    "end_date": "2026-05-08",
-    "vacancies": 1,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
-  },
-  {
-    "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-ginecologista",
-    "end_date": "2026-05-08",
-    "vacancies": 1,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
   },
   {
     "title": "Prefeitura da Estância Turística de São Roque",
@@ -961,14 +913,6 @@
     "vacancies": 1,
     "salary_text": "R$ 1.621,00",
     "salary_value": 1621.0
-  },
-  {
-    "title": "Prefeitura de Piratininga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratininga-sp-abre-vagas-para-o-cargo-de-ajudante-geral",
-    "end_date": "2026-05-08",
-    "vacancies": 5,
-    "salary_text": "R$ 1.946,31",
-    "salary_value": 1946.31
   },
   {
     "title": "Prefeitura de Tatuí",
