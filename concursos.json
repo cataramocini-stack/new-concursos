@@ -1101,5 +1101,61 @@
     "vacancies": 1,
     "salary_text": "R$ 2.993,47",
     "salary_value": 2993.47
+  },
+  {
+    "title": "Prefeitura de Embu das Artes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-vagas-em-processo-seletivo-para-agente-municipal-e-sepultador",
+    "end_date": "2026-05-22",
+    "vacancies": 18,
+    "salary_text": "R$ 2.085,58",
+    "salary_value": 2085.58
+  },
+  {
+    "title": "Prefeitura de Macatuba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macatuba-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+    "end_date": "2026-05-31",
+    "vacancies": 10,
+    "salary_text": "R$ 6.021,20",
+    "salary_value": 6021.2
+  },
+  {
+    "title": "Prefeitura de Porangaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porangaba-sp-abre-concursos-com-salarios-de-ate-9128",
+    "end_date": "2026-07-23",
+    "vacancies": 5,
+    "salary_text": "R$ 9.128,42",
+    "salary_value": 9128.42
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-geografia-no-campus-de-presidente-prudente-sp",
+    "end_date": "2026-05-29",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNIFESP - Universidade Federal de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/unifesp-abre-processo-seletivo-para-professor-substituto-de-quimica-organica",
+    "end_date": "2026-05-30",
+    "vacancies": 1,
+    "salary_text": "R$ 8.340,33",
+    "salary_value": 8340.33
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/faculdade-de-direito-da-usp-abre-processo-seletivo-para-professor-contratado-iii",
+    "end_date": "2026-05-22",
+    "vacancies": 1,
+    "salary_text": "R$ 2.834,62",
+    "salary_value": 2834.62
+  },
+  {
+    "title": "USP - Universidade de São Paulo",
+    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-com-vaga-para-professor-doutor-no-museu-de-arte-contemporanea",
+    "end_date": "2026-07-10",
+    "vacancies": 1,
+    "salary_text": "R$ 16.353,01",
+    "salary_value": 16353.01
   }
 ]
