@@ -1052,5 +1052,45 @@
     "vacancies": 111,
     "salary_text": "R$ 7.193,63",
     "salary_value": 7193.63
+  },
+  {
+    "title": "Prefeitura de Borborema",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-borborema-sp-abre-concurso-com-salarios-de-ate-8597",
+    "end_date": "2026-06-08",
+    "vacancies": 11,
+    "salary_text": "R$ 8.597,52",
+    "salary_value": 8597.52
+  },
+  {
+    "title": "Prefeitura de Ibaté",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibate-sp-abre-concursos-publicos-para-diversos-niveis-de-escolaridade",
+    "end_date": "2026-06-11",
+    "vacancies": 4,
+    "salary_text": "R$ 6.080,50",
+    "salary_value": 6080.5
+  },
+  {
+    "title": "Prefeitura de Mirassolândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirassolandia-sp-abre-processo-seletivo-para-o-cargo-de-mae-social",
+    "end_date": "2026-05-25",
+    "vacancies": 1,
+    "salary_text": "R$ 2.105,22",
+    "salary_value": 2105.22
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Cândido Mota",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-candido-mota-sp-abre-concurso-publico-para-niveis-fundamental-e-medio",
+    "end_date": "2026-06-15",
+    "vacancies": 5,
+    "salary_text": "R$ 3.704,79",
+    "salary_value": 3704.79
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-com-salarios-de-ate-10247-na-faculdade-de-ciencias-e-letras-de-assis-sp",
+    "end_date": "2026-06-03",
+    "vacancies": 4,
+    "salary_text": "R$ 10.247,69",
+    "salary_value": 10247.69
   }
 ]
