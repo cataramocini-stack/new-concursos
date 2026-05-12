@@ -66,17 +66,6 @@
     "positions": []
   },
   {
-    "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-salarios-de-16353-para-professor-doutor",
-    "official_link": null,
-    "end_date": "2026-05-11",
-    "vacancies": 3,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01,
-    "raw_text": "USP - Universidade de São Paulo SP 3 vagas até R$ 16.353,01 Professor Doutor Superior 11/05/2026",
-    "positions": []
-  },
-  {
     "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-anuncia-concurso-publico-para-professor-doutor-em-telecomunicacoes",
     "end_date": "2026-05-15",
@@ -181,14 +170,6 @@
     "salary_value": 24309.11
   },
   {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-publico-para-professor-titular-no-instituto-de-filosofia-e-ciencias-humanas",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-titular-na-faculdade-de-medicina-veterinaria-de-aracatuba-sp",
     "end_date": "2026-05-27",
@@ -277,22 +258,6 @@
     "salary_value": 3242.0
   },
   {
-    "title": "Prefeitura de Lupércio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lupercio-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos",
-    "end_date": "2026-05-11",
-    "vacancies": 4,
-    "salary_text": "R$ 5.250,00",
-    "salary_value": 5250.0
-  },
-  {
-    "title": "Prefeitura de Rio Claro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-claro-sp-abre-concurso-publico-com-salarios-de-ate-7-1-mil",
-    "end_date": "2026-05-11",
-    "vacancies": 21,
-    "salary_text": "R$ 7.193,63",
-    "salary_value": 7193.63
-  },
-  {
     "title": "UNICAMP - Universidade Estadual de Campinas",
     "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-concurso-para-professor-doutor-em-radiologia-diagnostica-e-terapeutica",
     "end_date": "2026-06-10",
@@ -368,14 +333,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "UNESP - Faculdade de Odontologia Campus de Araçatuba",
-    "link": "https://www.pciconcursos.com.br/noticias/faculdade-de-odontologia-da-unesp-abre-vaga-para-professor-substituto-em-aracatuba-sp",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
     "title": "Prefeitura de Suzano",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-publica-retificacao-em-concurso-com-ganhos-que-chegam-a-12-mil",
     "end_date": "2026-05-14",
@@ -383,25 +340,9 @@
     "salary_value": 12062.91
   },
   {
-    "title": "FunGOTA - Fundação Municipal Irene Siqueira Alves \"Vovó Mocinha\", Maternidade Gota de Leite de Araraquara",
-    "link": "https://www.pciconcursos.com.br/noticias/fungota-araraquara-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos",
-    "end_date": "2026-05-11",
-    "vacancies": 6,
-    "salary_text": "R$ 10.311,80",
-    "salary_value": 10311.8
-  },
-  {
     "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-publica-edital-para-selecao-de-agentes-temporarios-ambientais-em-buri",
     "end_date": "2026-05-13"
-  },
-  {
-    "title": "Fundação Estatal Regional de Saúde e Desenvolvimento Social da Bacia do Juquery",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-da-bacia-do-juquery-sp-publica-retificacoes-em-processo-seletivo",
-    "end_date": "2026-05-11",
-    "vacancies": 46,
-    "salary_text": "R$ 4.605,39",
-    "salary_value": 4605.39
   },
   {
     "title": "Prefeitura de Campinas",
@@ -434,14 +375,6 @@
     "vacancies": 3,
     "salary_text": "R$ 4.433,43",
     "salary_value": 4433.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-de-probabilidade-e-estatistica-em-botucatu",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
   },
   {
     "title": "Prefeitura de Santa Isabel",
@@ -489,14 +422,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-com-vaga-para-professor-substituto-em-sao-jose-dos-campos-sp",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-matematica-em-rio-claro-sp",
     "end_date": "2026-05-12",
     "vacancies": 1,
@@ -505,25 +430,9 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-substituto-na-area-de-ciencias-humanas-em-bauru-sp",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 8.578,39",
-    "salary_value": 8578.39
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-em-concurso-publico-para-professor-substituto-no-campus-sao-joao-da-boa-vista-sp",
     "end_date": "2026-05-13",
     "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-cinco-concursos-publicos-para-professores-substitutos-em-presidente-prudente-sp",
-    "end_date": "2026-05-11",
-    "vacancies": 5,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
   },
@@ -544,14 +453,6 @@
     "salary_value": 21809.43
   },
   {
-    "title": "Câmara da Estância de Ibirá",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-estancia-de-ibira-sp-abre-concurso-para-procurador-juridico",
-    "end_date": "2026-05-11",
-    "vacancies": 1,
-    "salary_text": "R$ 12.900,00",
-    "salary_value": 12900.0
-  },
-  {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
     "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-analista-de-sistemas-junior",
     "end_date": "2026-05-12",
@@ -566,14 +467,6 @@
     "vacancies": 5,
     "salary_text": "R$ 15.659,70",
     "salary_value": 15659.7
-  },
-  {
-    "title": "Prefeitura de Rio Claro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-claro-sp-publica-retificacoes-em-concurso-publico",
-    "end_date": "2026-05-11",
-    "vacancies": 21,
-    "salary_text": "R$ 7.193,63",
-    "salary_value": 7193.63
   },
   {
     "title": "Câmara de Tietê",
@@ -678,12 +571,6 @@
     "vacancies": 30,
     "salary_text": "R$ 6.772,90",
     "salary_value": 6772.9
-  },
-  {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processo-seletivo-para-professor-no-colegio-tecnico-de-campinas",
-    "end_date": "2026-05-11",
-    "vacancies": 1
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -1157,5 +1044,13 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
+  },
+  {
+    "title": "Prefeitura de Rio Claro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-claro-sp-publica-retificacoes-em-concurso-publico",
+    "end_date": "2026-05-18",
+    "vacancies": 111,
+    "salary_text": "R$ 7.193,63",
+    "salary_value": 7193.63
   }
 ]
