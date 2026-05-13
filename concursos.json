@@ -1033,5 +1033,69 @@
     "vacancies": 1,
     "salary_text": "R$ 2.993,47",
     "salary_value": 2993.47
+  },
+  {
+    "title": "Funcamp - Fundação de Desenvolvimento da Unicamp",
+    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-tecnico-de-laboratorio-e-medico-da-familia-e-comunidade",
+    "end_date": "2026-05-28",
+    "vacancies": 2,
+    "salary_text": "R$ 7.544,48",
+    "salary_value": 7544.48
+  },
+  {
+    "title": "Prefeitura da Estância Turística de Olímpia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpia-sp-retifica-concurso-publico-com-salarios-de-ate-9-mil",
+    "end_date": "2026-06-02",
+    "vacancies": 70,
+    "salary_text": "R$ 9.581,64",
+    "salary_value": 9581.64
+  },
+  {
+    "title": "Prefeitura de Cotia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cotia-sp-abre-processo-seletivo-com-vagas-para-a-secretaria-municipal-de-saude",
+    "end_date": "2026-05-21",
+    "vacancies": 76,
+    "salary_text": "R$ 2.491,61",
+    "salary_value": 2491.61
+  },
+  {
+    "title": "Prefeitura de Mauá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-processo-seletivo-com-vagas-para-medicos",
+    "end_date": "2026-05-21",
+    "vacancies": 13,
+    "salary_text": "R$ 130,00",
+    "salary_value": 130.0
+  },
+  {
+    "title": "SAAE - Serviço Autônomo de Água e Esgoto de Barretos",
+    "link": "https://www.pciconcursos.com.br/noticias/saae-de-barretos-sp-abre-concurso-com-salarios-de-ate-10524",
+    "end_date": "2026-06-18",
+    "vacancies": 10,
+    "salary_text": "R$ 10.524,03",
+    "salary_value": 10524.03
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-de-concurso-para-professor-substituto-em-franca-sp",
+    "end_date": "2026-06-01",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-titular-na-area-de-farmacologia-aplicada-em-botucatu-sp",
+    "end_date": "2026-07-24",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-professor-titular-na-area-de-geografia-em-rio-claro-sp",
+    "end_date": "2026-07-01",
+    "vacancies": 1,
+    "salary_text": "R$ 24.309,11",
+    "salary_value": 24309.11
   }
 ]
