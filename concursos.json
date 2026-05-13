@@ -34,17 +34,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-abre-quatro-concursos-publicos-para-professor-titular-na-escola-politecnica",
-    "official_link": null,
-    "end_date": "2026-05-12",
-    "vacancies": 4,
-    "salary_text": "R$ 24.309,11",
-    "salary_value": 24309.11,
-    "raw_text": "USP - Universidade de São Paulo SP 4 vagas até R$ 24.309,11 Vários Cargos Superior 12/05/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-abre-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
     "official_link": null,
     "end_date": "2026-06-01",
@@ -182,14 +171,6 @@
     "link": "https://www.pciconcursos.com.br/noticias/poli-usp-abre-concursos-para-professores-doutores-no-departamento-de-engenharia-metalurgica-e-de-materiais",
     "end_date": "2026-07-06",
     "vacancies": 2,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-assistente-de-meteorologia-em-bauru-sp",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
   },
@@ -369,14 +350,6 @@
     "salary_value": 6105.89
   },
   {
-    "title": "Prefeitura de Taguaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taguai-sp-abre-concurso-com-salarios-de-ate-4-4-mil",
-    "end_date": "2026-05-12",
-    "vacancies": 3,
-    "salary_text": "R$ 4.433,43",
-    "salary_value": 4433.43
-  },
-  {
     "title": "Prefeitura de Santa Isabel",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-isabel-sp-abre-processo-seletivo-com-vagas-para-professores",
     "end_date": "2026-05-13",
@@ -414,22 +387,6 @@
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-substituto-de-matematica-no-campus-de-presidente-prudente-sp",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-substituto-de-matematica-em-rio-claro-sp",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 3.379,43",
-    "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-em-concurso-publico-para-professor-substituto-no-campus-sao-joao-da-boa-vista-sp",
     "end_date": "2026-05-13",
     "vacancies": 1,
@@ -451,14 +408,6 @@
     "vacancies": 23,
     "salary_text": "R$ 21.809,43",
     "salary_value": 21809.43
-  },
-  {
-    "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-    "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-analista-de-sistemas-junior",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 5.100,00",
-    "salary_value": 5100.0
   },
   {
     "title": "Câmara de Arujá",
@@ -517,28 +466,12 @@
     "salary_value": 16246.98
   },
   {
-    "title": "Prefeitura de Palmares Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-paulista-sp-abre-concurso-para-fiscal-tributario",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 2.993,47",
-    "salary_value": 2993.47
-  },
-  {
     "title": "SAAE - Serviço Autônomo de Água e Esgoto de Pompeia",
     "link": "https://www.pciconcursos.com.br/noticias/saae-de-pompeia-sp-abre-concurso-com-12-vagas-para-nivel-fundamental",
     "end_date": "2026-05-27",
     "vacancies": 12,
     "salary_text": "R$ 2.098,73",
     "salary_value": 2098.73
-  },
-  {
-    "title": "Prefeitura do Município de Cajati",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajati-sp-abre-vaga-em-processo-seletivo-para-professor-de-educacao-basica-ii",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 3.894,43",
-    "salary_value": 3894.43
   },
   {
     "title": "FMVZ - Faculdade de Medicina Veterinária e Zootecnia da USP",
@@ -982,14 +915,6 @@
     "salary_value": 6376.74
   },
   {
-    "title": "Prefeitura de Palmares Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-paulista-sp-retifica-concurso-para-fiscal-tributario",
-    "end_date": "2026-05-12",
-    "vacancies": 1,
-    "salary_text": "R$ 2.993,47",
-    "salary_value": 2993.47
-  },
-  {
     "title": "Prefeitura de Embu das Artes",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-abre-vagas-em-processo-seletivo-para-agente-municipal-e-sepultador",
     "end_date": "2026-05-22",
@@ -1100,5 +1025,13 @@
     "vacancies": 31,
     "salary_text": "R$ 7.913,86",
     "salary_value": 7913.86
+  },
+  {
+    "title": "Prefeitura de Palmares Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-paulista-sp-retifica-concurso-para-fiscal-tributario",
+    "end_date": "2026-05-19",
+    "vacancies": 1,
+    "salary_text": "R$ 2.993,47",
+    "salary_value": 2993.47
   }
 ]
