@@ -1033,5 +1033,36 @@
     "vacancies": 2,
     "salary_text": "R$ 10.084,68",
     "salary_value": 10084.68
+  },
+  {
+    "title": "Prefeitura de Neves Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-neves-paulista-sp-abre-concurso-publico-com-salarios-de-ate-4320",
+    "end_date": "2026-06-15",
+    "vacancies": 21,
+    "salary_text": "R$ 4.320,56",
+    "salary_value": 4320.56
+  },
+  {
+    "title": "Prefeitura de Pratânia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pratania-sp-abre-selecao-para-merendeira-e-monitor-de-creche",
+    "end_date": "2026-05-21",
+    "salary_text": "R$ 2.006,54",
+    "salary_value": 2006.54
+  },
+  {
+    "title": "UNESP - Instituto de Biociências do Campus de Botucatu",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-botucatu-sp-abre-vaga-para-assistente-de-suporte-academico-ii",
+    "end_date": "2026-06-08",
+    "vacancies": 1,
+    "salary_text": "R$ 6.291,18",
+    "salary_value": 6291.18
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-publica-edital-de-concurso-para-professor-substituto-no-campus-de-presidente-prudente",
+    "end_date": "2026-06-01",
+    "vacancies": 2,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
