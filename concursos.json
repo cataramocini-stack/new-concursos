@@ -1019,5 +1019,29 @@
     "vacancies": 3,
     "salary_text": "R$ 3.620,15",
     "salary_value": 3620.15
+  },
+  {
+    "title": "Prefeitura de Pardinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pardinho-sp-retifica-edital-de-concurso-publico",
+    "end_date": "2026-06-15",
+    "vacancies": 35,
+    "salary_text": "R$ 7.098,00",
+    "salary_value": 7098.0
+  },
+  {
+    "title": "UNESP - Instituto de Ciência e Tecnologia da Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vaga-para-professor-substituto-no-departamento-de-biociencias-e-diagnostico-bucal",
+    "end_date": "2026-06-02",
+    "vacancies": 1,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
+  },
+  {
+    "title": "UNESP - Universidade Estadual Paulista",
+    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concursos-para-professores-substitutos-na-faculdade-de-medicina-de-botucatu-sp",
+    "end_date": "2026-06-01",
+    "vacancies": 2,
+    "salary_text": "R$ 3.379,43",
+    "salary_value": 3379.43
   }
 ]
