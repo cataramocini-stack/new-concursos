@@ -71,14 +71,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "UNICAMP - Universidade Estadual de Campinas",
-    "link": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-vagas-para-o-cargo-de-professor-doutor-no-instituto-de-artes",
-    "end_date": "2026-05-14",
-    "vacancies": 3,
-    "salary_text": "R$ 16.353,30",
-    "salary_value": 16353.3
-  },
-  {
     "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-abre-concurso-publico-para-professor-doutor-no-departamento-de-engenharia-de-transportes",
     "end_date": "2026-06-10",
@@ -117,14 +109,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Prefeitura da Estância Balneária de Itanhaém",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itanhaem-sp-abre-processo-seletivo-com-100-vagas",
-    "end_date": "2026-05-14",
-    "vacancies": 100,
-    "salary_text": "R$ 2.560,00",
-    "salary_value": 2560.0
   },
   {
     "title": "UNESP - Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
@@ -183,14 +167,6 @@
     "salary_value": 7521.28
   },
   {
-    "title": "Prefeitura de Mairiporã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairipora-sp-abre-processo-seletivo-para-monitor-social-e-peb-i-educacao-infantil",
-    "end_date": "2026-05-14",
-    "vacancies": 2,
-    "salary_text": "R$ 3.978,41",
-    "salary_value": 3978.41
-  },
-  {
     "title": "UNESP - Universidade Estadual Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-vaga-para-professor-titular-no-instituto-de-geociencias-e-ciencias-exatas-de-rio-claro-sp",
     "end_date": "2026-05-29",
@@ -207,28 +183,12 @@
     "salary_value": 16353.3
   },
   {
-    "title": "Prefeitura de Elias Fausto",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-elias-fausto-sp-abre-concursos-publicos-para-cargos-de-nivel-superior",
-    "end_date": "2026-05-14",
-    "vacancies": 27,
-    "salary_text": "R$ 7.788,12",
-    "salary_value": 7788.12
-  },
-  {
     "title": "CREFONO-2/SP - Conselho Regional de Fonoaudiologia de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/crefono-2-sp-abre-concurso-publico-com-vagas-para-agente-e-analista-de-fiscalizacao",
     "end_date": "2026-05-20",
     "vacancies": 5,
     "salary_text": "R$ 5.246,54",
     "salary_value": 5246.54
-  },
-  {
-    "title": "Prefeitura de Elias Fausto",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-elias-fausto-sp-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
-    "end_date": "2026-05-14",
-    "vacancies": 54,
-    "salary_text": "R$ 3.242,00",
-    "salary_value": 3242.0
   },
   {
     "title": "UNICAMP - Universidade Estadual de Campinas",
@@ -253,13 +213,6 @@
     "vacancies": 1,
     "salary_text": "R$ 2.340,99",
     "salary_value": 2340.99
-  },
-  {
-    "title": "Prefeitura de Suzano",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-lanca-concurso-publico-com-salarios-de-ate-12-mil",
-    "end_date": "2026-05-14",
-    "salary_text": "R$ 12.062,91",
-    "salary_value": 12062.91
   },
   {
     "title": "Câmara de Santo Antônio de Posse",
@@ -299,13 +252,6 @@
     "vacancies": 1,
     "salary_text": "R$ 16.353,01",
     "salary_value": 16353.01
-  },
-  {
-    "title": "Prefeitura de Suzano",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-publica-retificacao-em-concurso-com-ganhos-que-chegam-a-12-mil",
-    "end_date": "2026-05-14",
-    "salary_text": "R$ 12.062,91",
-    "salary_value": 12062.91
   },
   {
     "title": "Prefeitura de Campinas",
@@ -410,14 +356,6 @@
     "salary_value": 5883.47
   },
   {
-    "title": "Prefeitura de Jumirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jumirim-sp-abre-concurso-publico-para-assistente-administrativo-e-fonoaudiologo",
-    "end_date": "2026-05-14",
-    "vacancies": 2,
-    "salary_text": "R$ 4.625,27",
-    "salary_value": 4625.27
-  },
-  {
     "title": "SAAE - Serviço Autônomo de Água e Esgoto de Pompeia",
     "link": "https://www.pciconcursos.com.br/noticias/saae-de-pompeia-sp-abre-concurso-com-12-vagas-para-nivel-fundamental",
     "end_date": "2026-05-27",
@@ -494,14 +432,6 @@
     "vacancies": 3,
     "salary_text": "R$ 6.811,67",
     "salary_value": 6811.67
-  },
-  {
-    "title": "EEL-USP - Escola de Engenharia de Lorena da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/eel-usp-abre-processos-seletivos-para-professores-contratados",
-    "end_date": "2026-05-14",
-    "vacancies": 2,
-    "salary_text": "R$ 2.834,62",
-    "salary_value": 2834.62
   },
   {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
@@ -606,13 +536,6 @@
     "vacancies": 1,
     "salary_text": "R$ 3.803,30",
     "salary_value": 3803.3
-  },
-  {
-    "title": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
-    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sp-abre-processo-seletivo-para-agente-temporario-ambiental-em-presidente-epitacio",
-    "end_date": "2026-05-14",
-    "salary_text": "R$ 1412,00",
-    "salary_value": 1412.0
   },
   {
     "title": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
