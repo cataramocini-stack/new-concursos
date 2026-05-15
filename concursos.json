@@ -1003,5 +1003,21 @@
     "vacancies": 23,
     "salary_text": "R$ 7.418,39",
     "salary_value": 7418.39
+  },
+  {
+    "title": "Câmara de Holambra",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-holambra-sp-abre-concurso-publico-com-salarios-de-ate-7430",
+    "end_date": "2026-06-15",
+    "vacancies": 5,
+    "salary_text": "R$ 7.430,61",
+    "salary_value": 7430.61
+  },
+  {
+    "title": "Prefeitura de Sagres",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sagres-sp-abre-processo-seletivo-para-nutricionista-e-terapeuta-ocupacional",
+    "end_date": "2026-05-27",
+    "vacancies": 3,
+    "salary_text": "R$ 3.620,15",
+    "salary_value": 3620.15
   }
 ]
