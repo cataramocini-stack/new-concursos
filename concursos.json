@@ -1043,5 +1043,29 @@
     "vacancies": 2,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
+  },
+  {
+    "title": "Prefeitura da Estância Balneária de Ubatuba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubatuba-sp-abre-processo-seletivo-com-40-vagas-para-guarda-vidas-temporarios",
+    "end_date": "2026-06-17",
+    "vacancies": 40,
+    "salary_text": "R$ 2.483,86",
+    "salary_value": 2483.86
+  },
+  {
+    "title": "Prefeitura de Garça",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garca-sp-abre-concurso-publico-para-cargos-na-area-da-educacao",
+    "end_date": "2026-06-15",
+    "vacancies": 27,
+    "salary_text": "R$ 6.592,16",
+    "salary_value": 6592.16
+  },
+  {
+    "title": "Prefeitura de Mira Estrela",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mira-estrela-sp-abre-concurso-publico-com-salarios-de-ate-6500",
+    "end_date": "2026-06-08",
+    "vacancies": 1,
+    "salary_text": "R$ 6.500,00",
+    "salary_value": 6500.0
   }
 ]
