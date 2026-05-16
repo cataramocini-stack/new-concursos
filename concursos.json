@@ -12,17 +12,6 @@
   },
   {
     "title": "USP - Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/usp-promove-edital-de-concurso-publico-com-uma-vaga-para-cargo-de-professor",
-    "official_link": null,
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 10.696,17",
-    "salary_value": 10696.17,
-    "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 10.696,17 Professor Titular Superior 15/05/2026",
-    "positions": []
-  },
-  {
-    "title": "USP - Universidade de São Paulo",
     "link": "https://www.pciconcursos.com.br/noticias/usp-publica-concurso-publico-com-uma-vaga-para-cargo-de-professor-titular",
     "official_link": null,
     "end_date": "2026-05-18",
@@ -53,14 +42,6 @@
     "salary_value": 24309.11,
     "raw_text": "USP - Universidade de São Paulo SP 1 vaga até R$ 24.309,11 Professor Titular Superior 15/06/2026",
     "positions": []
-  },
-  {
-    "title": "EESC-USP - Escola de Engenharia de São Carlos da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/eesc-usp-sp-anuncia-concurso-publico-para-professor-doutor-em-telecomunicacoes",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 16.353,01",
-    "salary_value": 16353.01
   },
   {
     "title": "USP - Universidade de São Paulo",
@@ -332,14 +313,6 @@
     "salary_value": 6027.86
   },
   {
-    "title": "HCFMRP - USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
-    "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-com-vaga-para-medico-geriatra",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 5.979,93",
-    "salary_value": 5979.93
-  },
-  {
     "title": "Prefeitura de Nova Canaã Paulista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-canaa-paulista-sp-abre-concurso-publico-com-salarios-de-ate-5757",
     "end_date": "2026-05-27",
@@ -362,14 +335,6 @@
     "vacancies": 12,
     "salary_text": "R$ 2.098,73",
     "salary_value": 2098.73
-  },
-  {
-    "title": "FMVZ - Faculdade de Medicina Veterinária e Zootecnia da USP",
-    "link": "https://www.pciconcursos.com.br/noticias/fmvz-da-usp-abre-processo-seletivo-para-professor-contratado-iii-no-departamento-de-patologia",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 2.384,62",
-    "salary_value": 2384.62
   },
   {
     "title": "Prefeitura da Estância Turística de Olímpia",
@@ -408,14 +373,6 @@
     "vacancies": 29,
     "salary_text": "R$ 8.091,11",
     "salary_value": 8091.11
-  },
-  {
-    "title": "Prefeitura de Tabapuã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapua-sp-abre-concurso-publico-com-salarios-de-ate-7418",
-    "end_date": "2026-05-15",
-    "vacancies": 23,
-    "salary_text": "R$ 7.418,39",
-    "salary_value": 7418.39
   },
   {
     "title": "UNIFESP - Universidade Federal de São Paulo",
@@ -506,14 +463,6 @@
     "salary_value": 16353.01
   },
   {
-    "title": "UNESP - Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-professor-de-ensino-medio-e-tecnico-em-bauru",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 29,87",
-    "salary_value": 29.87
-  },
-  {
     "title": "Prefeitura de Orindiúva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orindiuva-sp-retifica-concurso-com-vagas-imediatas-e-cadastro-reserva",
     "end_date": "2026-06-01",
@@ -576,13 +525,6 @@
     "vacancies": 15,
     "salary_text": "R$ 5.135,27",
     "salary_value": 5135.27
-  },
-  {
-    "title": "Prefeitura de Pederneiras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pederneiras-sp-abre-processo-seletivo-para-professores",
-    "end_date": "2026-05-15",
-    "salary_text": "R$ 3.847,98",
-    "salary_value": 3847.98
   },
   {
     "title": "Prefeitura de Alfredo Marcondes",
@@ -717,14 +659,6 @@
     "vacancies": 1,
     "salary_text": "R$ 3.379,43",
     "salary_value": 3379.43
-  },
-  {
-    "title": "UNESP - Universidade Estadual Paulista",
-    "link": "https://www.pciconcursos.com.br/noticias/unesp-publica-edital-de-concurso-publico-para-professor-colaborador-em-sao-joao-da-boa-vista-sp",
-    "end_date": "2026-05-15",
-    "vacancies": 1,
-    "salary_text": "R$ 7.195,43",
-    "salary_value": 7195.43
   },
   {
     "title": "UNESP - Universidade Estadual Paulista",
@@ -995,14 +929,6 @@
     "vacancies": 2,
     "salary_text": "R$ 3.272,67",
     "salary_value": 3272.67
-  },
-  {
-    "title": "Prefeitura de Tabapuã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapua-sp-retifica-concurso-publico-com-salarios-de-ate-7418",
-    "end_date": "2026-05-15",
-    "vacancies": 23,
-    "salary_text": "R$ 7.418,39",
-    "salary_value": 7418.39
   },
   {
     "title": "Câmara de Holambra",
