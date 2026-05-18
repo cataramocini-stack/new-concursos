@@ -503,14 +503,6 @@
     "salary_value": 5200.0
   },
   {
-    "title": "Prefeitura de Sebastianópolis do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sebastianopolis-do-sul-sp-abre-vagas-para-agentes-de-saude-e-endemias",
-    "end_date": "2026-05-17",
-    "vacancies": 2,
-    "salary_text": "R$ 3.242,00",
-    "salary_value": 3242.0
-  },
-  {
     "title": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
     "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-em-processo-seletivo-para-analista-contabil-junior",
     "end_date": "2026-05-20",
@@ -563,14 +555,6 @@
     "vacancies": 111,
     "salary_text": "R$ 5.130,63",
     "salary_value": 5130.63
-  },
-  {
-    "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
-    "link": "https://www.pciconcursos.com.br/noticias/famesp-abre-processo-seletivo-com-vaga-para-o-cargo-de-psicologo",
-    "end_date": "2026-05-17",
-    "vacancies": 1,
-    "salary_text": "R$ 3.187,76",
-    "salary_value": 3187.76
   },
   {
     "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
